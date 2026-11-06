@@ -4,16 +4,15 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="PhD Qualified Experts for Computer Science Exam"
-        description1="Students in need of trustworthy support can rely on our exam help professional services to achieve top marks. We deliver subject specialist experts who provide accuracy, confidentiality, and on-time completion. If you are interested in hiring exam experts for your computer science, our PhD-qualified experts specialize in every kind of exam, type of question, and type of delivery mode to get the best outcome for the exam. Our experts provide coding for theory-based exams with quality and attention to detail, whilst ensuring privacy. We also provide complete help with your online exam services, allowing you to keep control of your workload with no stress. We know you are working hard and need to know that depending on us gives you peace of mind and guaranteed marks."
-        heading2="Best Computer Science Exam Help Services"
-        description2="Our computer science exam help services are trusted and designed to support students in taking exams easily, without stress. We can provide you with help on a computer science exam or full help on computer science. Whatever you need, our experts are ready to provide help with diligence, accuracy, and discretion. We understand that computer science exam help may seem complicated. Our professionals are knowledgeable and deliver work on time. Students can also have peace of mind that our system is secure and will not breach their privacy. With us, you get help with your exam online, with a high score; we are backed by years of experience. Our goal is to keep you satisfied with on-time project delivery and great results. Trusting our service means trusting dedicated computer science experts."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Hire Someone To Take My Computer Exam With 100% Trust"
+        description1="Trust is one of the biggest things students worry about when they look for exam help online. Many websites make big promises and then disappear. You might be thinking, “How do I know this one is different?” Well, here’s the answer. At Exam Support Online, we connect you with computer science tutors who have master’s and PhD-level backgrounds and years of teaching experience. They help you understand coding problems, algorithms, data structures, and theory questions step by step. Moreover, every session is planned around your course and exam date, so you only focus on what matters. We also keep your personal details private at all times. That’s the reason so many students trust us with their exam prep, and why they keep coming back."
+        heading2="One Of the Affordable Services for the Online Computer Exam"
+        description2="Most students we talk to have the same first question, and it’s not about tutors or schedules. It’s “how much?” Fair enough. Between tuition, a laptop, and maybe a part-time job that barely covers rent, there isn’t much left over. So we kept it simple. Need help with one quiz? Book one session. Want someone with you all semester? There’s a package for that. You won’t pay anything upfront, and nothing extra shows up at checkout. Your first session is half price too, so trying it out costs very little. Cheap doesn’t mean careless, though. Our tutors still sit with you, go through the code line by line, and help you get ready for the theory questions. You get real help, and your wallet survives."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );
 };
-
 
 export default ContentSectionOne;

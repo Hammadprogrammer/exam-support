@@ -16,7 +16,7 @@ import ClientReviewsHome from '@/container/services/online-exam-help/client_revi
 
 export const metadata: Metadata = {
   title: "Online Class Help – Pay Someone to Take Online Class",
-  description: "Engage online class helpers at All Exam Help to complete your online classes. Pay someone to take online class here and let our professionals take care of all of your online class.",
+  description: "Engage online class helpers at Exam Support Online to complete your online classes. Pay someone to take online class here and let our professionals take care of all of your online class.",
   alternates: {
     canonical: "/online-class-help/",
   },

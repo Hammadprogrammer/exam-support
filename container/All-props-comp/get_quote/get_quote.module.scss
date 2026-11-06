@@ -26,7 +26,7 @@
   .mainHeading {
     font-size: 38px;
     font-weight: 800;
-    color: #28a745;
+    color: #e09500;
     margin-bottom: 15px;
 
     @media (max-width: 768px) {
@@ -70,7 +70,7 @@
   .contactHeading {
     font-size: 22px;
     font-weight: 700;
-    color: #28a745;
+    color: #e09500;
     margin-bottom: 15px;
   }
 
@@ -97,7 +97,7 @@
 
   .muiIcon {
     font-size: 26px;
-    color: #28a745;
+    color: #e09500;
     flex-shrink: 0;
   }
 
@@ -117,7 +117,7 @@
       transition: color 0.3s;
 
       &:hover {
-        color: #28a745;
+        color: #e09500;
         text-decoration: underline;
       }
     }
@@ -127,11 +127,11 @@
 // Right Column: Form
 .formCol {
   flex: 1;
-  background: #e9f7f3;
+  background: #fff8eb;
   border-radius: 20px;
   padding: 40px;
-  border: 2px solid #28a745;
-  box-shadow: 0 10px 30px rgba(40, 167, 69, 0.05);
+  border: 2px solid #e09500;
+  box-shadow: 0 10px 30px rgba(224, 149, 0, 0.05);
 
   @media (max-width: 768px) {
     padding: 30px 20px;
@@ -140,7 +140,7 @@
   .formHeading {
     font-size: 22px;
     font-weight: 700;
-    color: #28a745;
+    color: #e09500;
     margin-bottom: 10px;
     text-align: center;
   }
@@ -177,8 +177,8 @@
     box-sizing: border-box;
 
     &:focus {
-      border-color: #28a745;
-      box-shadow: 0 0 0 4px rgba(40, 167, 69, 0.1);
+      border-color: #e09500;
+      box-shadow: 0 0 0 4px rgba(224, 149, 0, 0.1);
       color: #000000; 
     }
 
@@ -189,7 +189,7 @@
 }
 
 .submitBtn {
-  background-color: #28a745;
+  background-color: #e09500;
   color: #fff;
   padding: 16px 25px;
   border: none;
@@ -199,12 +199,12 @@
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   margin-top: 10px;
-  box-shadow: 0 4px 6px rgba(40, 167, 69, 0.2);
+  box-shadow: 0 4px 6px rgba(224, 149, 0, 0.2);
 
   &:hover {
     background-color: #218838;
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(40, 167, 69, 0.3);
+    box-shadow: 0 8px 20px rgba(224, 149, 0, 0.3);
   }
 
   &:active {

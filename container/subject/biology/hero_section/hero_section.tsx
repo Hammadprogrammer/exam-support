@@ -8,16 +8,20 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Fast & Reliable Support",
-            heading: <>Hire Someone To Take Your Biology Exam For You Better Grades</>,
-            subText: <p>Our top biology tutor will help you through all chapters and topics of your exam! With friendly and bespoke service, we remain with you throughout the whole process.</p>,
+            topText: "Biology Exam Help",
+            heading: <>Your Biology Exam Help Is Just One Click Away!</>,
+            subText: (
+              <p>
+                At Exam Support Online, we make online exams simple and manageable. It is our mission to deliver the desired grades so you can handle the rest of the academic work. We help you get ready for your online exam. Your tutor looks at your syllabus with you, explains the parts you find hard, and gives you questions to practice.
+              </p>
+            ),
             bullets: [
-              "Clear Step-by-Step Concepts",
-              "Fast Help with Tough Questions",
-              "Urgent Exam Help Availability",
-              "100% Guaranteed Results"
+              "Expert Biology Tutors",
+              "Secure and Private",
+              "Fast Completion",
+              "Affordable Pricing"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

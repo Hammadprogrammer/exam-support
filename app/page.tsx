@@ -18,8 +18,8 @@ import ClientReviewsHome from '@/container/home/client_reviews/client_reviews'
 import FAQSectionData from '@/container/home/fqa/faq'
 
 export const metadata: Metadata = {
-  title: "All Exam: Take My Exam for Me, Pay Someone to Take My Exam",
-  description: "Looking to hire a professional to take my exam for me? We have got you covered. Pay someone to take my exam to ace your online grades hassle-free. Get 50% Discount Today.",
+  title: "Hire Someone to Take My Online Exam with 24-Hour Support",
+  description: "Get reliable online exam help with 24-hour support from Exam Support Online. Connect with professional tutors for timely guidance, practice, and preparation to improve your performance.",
   alternates: {
     canonical: "/",
   },

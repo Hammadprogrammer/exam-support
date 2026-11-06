@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Finance Exam, Best Online Finance Exam Expert Help at Cheap",
-  description: "Need Help with Tough Finance Exam Questions? Hire Experts to Take My Online Finance Exam and Achieve Success with Finance Exam Help Services. Get Access to the Best Online Tutors.",
+  title: "Finance Exam Help - Hire an Expert for My Online Finance Exam",
+  description: "Get confidential, affordable finance exam help from master's and PhD tutors at Exam Support Online. Master valuation, risk modeling, and quantitative analysis to secure better grades.",
   alternates: {
     canonical: "/finance-exam/",
   },

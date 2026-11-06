@@ -35,7 +35,7 @@ Get online exam help from our experts. We know how embarrassing it can be to ord
           >
             <div className={styles.imageWrapper}>
               {/* Ensure the path to your image is correct */}
-              <Image src="/about1.jpg" alt="Privacy and Integrity" width={250} height={250} />
+              <Image src="/img/experts/5.jpg" alt="Privacy and Integrity" width={250} height={250} />
             </div>
           </motion.div>
 

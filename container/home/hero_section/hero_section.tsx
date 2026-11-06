@@ -4,16 +4,14 @@ import Hero from '@/container/All-props-comp/hero-setion/hero_section';
 
 const HeroSection = () => {
   const heroBullets = [
-    "Smart Study Methods",
-    "Expert Guidance",
-    "Stress-Free Learning",
-    "Proven Success"
+    "Smart Study Plans",
+    "Expert Tutors",
+    "Less Stress",
+    "Real Progress"
   ];
 
   const heroBgImages = [
-    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?q=80&w=1949&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop"
+    "/img/home/hero-section.jpg"
   ];
 
   return (
@@ -21,11 +19,11 @@ const HeroSection = () => {
       <Hero 
         topText="Study Less Score More"
         heading={
-          <>Do My Exam For Me<br/>Service To Boost Score,</>
+          <>Pay Someone To Take My Exam<br/>and Chase Your Dream Results</>
         }
         subText={
           <p>
-            All Exam Help offers a smart way to learn with online support and guidance. We concentrate on helping you learn more, faster, and easier. No overthinking, just confidence . we&apos;re behind you all the way.
+            Many online academic support services outsource their work to third-party agencies, which can result in security warnings within the learning system. We connect you with vetted professional tutors who help you learn more, faster, and easier. Don&apos;t lose your chance to score higher grades. Consult with our trained staff available 24/7, and get the academic support you need to make your grades skyrocket.
           </p>
         }
         bullets={heroBullets}

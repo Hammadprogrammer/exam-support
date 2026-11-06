@@ -57,7 +57,7 @@ const GetQuote: React.FC<GetQuoteProps> = ({
     "description": description,
     "provider": {
       "@type": "LocalBusiness",
-      "name": "All Exam Help",
+      "name": "Exam Support Online",
       "telephone": phone,
       "email": email,
     }
@@ -82,7 +82,7 @@ const GetQuote: React.FC<GetQuoteProps> = ({
           <span className={styles.topLabel}>{topLabel}</span>
           <div className={styles.waveLine} aria-hidden="true">
             <svg width="80" height="10" viewBox="0 0 80 10">
-              <path d="M0 5 Q10 0 20 5 T40 5 T60 5 T80 5" stroke="#28a745" fill="none" strokeWidth="2"/>
+              <path d="M0 5 Q10 0 20 5 T40 5 T60 5 T80 5" stroke="#e09500" fill="none" strokeWidth="2"/>
             </svg>
           </div>
           <h2 id="form-title" className={styles.mainHeading}>{heading}</h2>

@@ -14,7 +14,7 @@
     margin-bottom: 60px;
 
     .subtitle {
-      color: #4CAF50;
+      color: #f9a825;
       font-weight: 700;
       text-transform: uppercase;
       font-size: 14px;
@@ -71,10 +71,10 @@
     &:hover {
       transform: translateY(-10px);
       box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
-      border-color: #4CAF50;
+      border-color: #f9a825;
 
       .iconWrapper {
-        background: #4CAF50;
+        background: #f9a825;
         color: #ffffff;
         transform: scale(1.1);
       }
@@ -84,7 +84,7 @@
       width: 60px;
       height: 60px;
       background: #e7f4ee;
-      color: #4CAF50;
+      color: #f9a825;
       display: flex;
       align-items: center;
       justify-content: center;

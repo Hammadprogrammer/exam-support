@@ -8,24 +8,20 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Quick & Trusted Guidance",
-            heading: <>Hire Our Top-Tier Statistics Exam Help Services</>,
+            topText: "Statistics Exam Help",
+            heading: <>Pay Someone To Take My Statistics Exam and Get the Grades You Want</>,
             subText: (
               <p>
-                With our statistics tutors, you’ll learn about all the 
-                statistical formulas you need to know in order to pass 
-                your exams. They stick with you, through all the lessons 
-                and practice questions, so when you’re done studying, 
-                you’ll really feel confident for exam day.
+                Are you feeling overwhelmed by the prospect of taking a statistics exam? There is nothing abnormal about that; now you&apos;ve come to the right place. We understand your academic goal, and we care about it as much as you do. That&apos;s why we connect you with our team of experienced statisticians to help you with statistics test help and the quiz. Here, we guarantee you will pass the exam with the highest grades, without making you pay an unnecessary amount for the assistance.
               </p>
             ),
             bullets: [
-              "Solutions for Each Stats Chapter",
-              "Quick Exam Assistance",
-              "Private and Secure Help",
-              "Money-Back Guarantee"
+              "Smart Study Plans",
+              "Expert Statistics Tutors",
+              "Secure and Private",
+              "Guaranteed Result"
             ],
-            bgImage: "/bg1.avif" 
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

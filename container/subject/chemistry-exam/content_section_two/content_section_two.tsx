@@ -4,12 +4,12 @@ import ContentSectionTwo from "@/container/All-props-comp/content_section_two/co
 const ContentSectionTwoHome = () => {
   return (
     <ContentSectionTwo
-      title1="Online Exam Help with Experienced Professionals"
-      desc1="Exams can definitely feel overwhelming, but trusted online exam help makes the process simple and discreet. With experienced and specialized exam takers for hire, students no longer have to worry about deadlines and tricky exam formats. When you use our exam taker service, you will receive accuracy, privacy, and timely submission. Our secure systems keep your identity safe with better encryption, which means we keep our dealings confidential. As the leading exam help service available, we help students who need assistance. We help them score the results they require. We handle everything from multiple-choice exams to standard exams and complex theory exams on your behalf with great accuracy. Using our score assistance services will give you peace of mind because they are managed by professional exam takers you trust."
-      desc2="Our specialized services ensure that when it comes time for chemistry, you aren't under exam pressure alone. Have peace of mind that you have a team of professional chemistry exam takers for hire. They can handle any type of chemistry assessment because they have done many of them! If you would like to hire a chemistry exam taker, our professionals guarantee timely submission and proficiency while maintaining confidentiality. Our tested chemistry exam helps guarantee that students can achieve deserving, outstanding results. We also take additional measures to provide secure assistance with online chemistry. So, all of your exams are finished by professionals who comprehend every detail of the assessment! Our chemistry professionals work as a team in a coordinated and dedicated fashion to produce results that you can trust."
-      title2="Cheap and Top-Notch Chemistry Exam Help"
-      img1="/ctwo.jpg"
-      img2="/sthree.jpg"
+      title1="Get Professional Online Chemistry Exam Help With an Experienced Tutor"
+      desc1="When it comes to taking chemistry exams, students can easily get burdened. No doubt, exams can feel overwhelming, but the right support makes the whole process simple and stress-free. With experienced and specialized tutors by your side, you don’t have to panic about deadlines or tricky exam formats anymore. When you choose our online exam help, you get accurate guidance, complete privacy, and support that’s always on time. And you know, our secure systems keep your personal details protected, so everything you share with us stays confidential. So, you can walk in with confidence, knowing you’ve been guided by professionals you can trust."
+      desc2="Exam Support Online will be your exam partner for those students who cannot take their exam due to other engagements or any candidate who feels they are not in a position to handle it by themselves. Our specialized service ensures you get professional assistance at affordable rates. Well, we are not just limited to assisting with your exam, but even after that, we take feedback from our students so that we can improve our online chemistry help portal to make it better for all students so they do not hesitate next time."
+      title2="Can You Do My Chemistry Exam At Affordable Rates?"
+      img1="/img/subject/1.jpg"
+      img2="/img/subject/2.png"
     />
   );
 };

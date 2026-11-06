@@ -35,7 +35,7 @@ const TermsAndConditions = () => {
         <motion.h1 className={styles.mainTitle} variants={itemVariants}>Terms and Conditions</motion.h1>
         
         <motion.p className={styles.introText} variants={itemVariants}>
-          Welcome to All Exam Help. In using and gaining access to our services, you sign and agree to the terms and conditions listed below. Please read them carefully.
+          Welcome to Exam Support Online. In using and gaining access to our services, you sign and agree to the terms and conditions listed below. Please read them carefully.
         </motion.p>
 
         <div className={styles.policyContent}>
@@ -44,7 +44,7 @@ const TermsAndConditions = () => {
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>1. Service Description</h2>
             <p>
-              All Exam Help offers professional, confidential aid to busy students in need of online test, exam, and certification help. Online exam-taking, test preparation, and other related academic support are some of our services.
+              Exam Support Online offers professional, confidential aid to busy students in need of online test, exam, and certification help. Online exam-taking, test preparation, and other related academic support are some of our services.
             </p>
           </motion.div>
 
@@ -54,7 +54,7 @@ const TermsAndConditions = () => {
             <p>Through our services, you are agreeing to:</p>
             <ul>
               <li><strong>Give correct information:</strong> It is your duty to give all the required and proper information about your exam that includes logins, exam schedules, and other details.</li>
-              <li><strong>Know academic policies:</strong> You know and are obliged to comply with academic integrity policies at your educational institution. All Exam Help is a service with no attachment to any institution, and we have no responsibility towards the disciplinary measures of your institution that may be imposed on you.</li>
+              <li><strong>Know academic policies:</strong> You know and are obliged to comply with academic integrity policies at your educational institution. Exam Support Online is a service with no attachment to any institution, and we have no responsibility towards the disciplinary measures of your institution that may be imposed on you.</li>
               <li><strong>Make sure it is compatible with the platform:</strong> You should make sure that your computer and internet connection fit the technical specs of your exam platform. Any problems caused by a bad network or hardware problems cannot be blamed on us.</li>
             </ul>
           </motion.div>
@@ -80,7 +80,7 @@ const TermsAndConditions = () => {
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>5. Warranty and Liability Disclosure.</h2>
             <p>
-              All Exam Help does not guarantee any particular score and only offers its services as is, unless there is an agreement between the service and the customer. We have a history of success due to experience and expertise.  We do not cause any technical problems, system malfunctions, or unexpected events that could happen during the exam, such as platform crashes or server errors, etc.
+              Exam Support Online does not guarantee any particular score and only offers its services as is, unless there is an agreement between the service and the customer. We have a history of success due to experience and expertise.  We do not cause any technical problems, system malfunctions, or unexpected events that could happen during the exam, such as platform crashes or server errors, etc.
             </p>
           </motion.div>
 
@@ -88,7 +88,7 @@ const TermsAndConditions = () => {
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>6. Governing Law</h2>
             <p>
-              Such terms and conditions will be subject to and interpreted by the jurisdiction in which All Exam Help is registered without reference to its conflict of law regulations.
+              Such terms and conditions will be subject to and interpreted by the jurisdiction in which Exam Support Online is registered without reference to its conflict of law regulations.
             </p>
           </motion.div>
 
@@ -96,7 +96,7 @@ const TermsAndConditions = () => {
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>7. Changes to Terms</h2>
             <p>
-              All Exam Help may at any time alter these terms and conditions. Any changes will be communicated to you by placing the new terms on this page. The fact that you still use the service after such modifications means that you have accepted the new terms.
+              Exam Support Online may at any time alter these terms and conditions. Any changes will be communicated to you by placing the new terms on this page. The fact that you still use the service after such modifications means that you have accepted the new terms.
             </p>
           </motion.div>
 
@@ -111,14 +111,14 @@ const TermsAndConditions = () => {
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>We are committed to quality and to success.</h2>
             <p>
-              We care about your success at All Exam Help. We have a team of extremely experienced professionals, experts in their own fields. They are not merely test-takers, but they are experts in their subject matter who have profound knowledge of the question formats and types of questions on exams. This knowledge enables us to produce quality results without any doubt. We are confident in our work, to the extent that we promise you passing grades, and therefore, you can be fully confident that your academic ambitions are in good hands. Our most important goal is to assist you in passing the certification exam in order to progress with your career or education without cramming and test anxiety.
+              We care about your success at Exam Support Online. We have a team of extremely experienced professionals, experts in their own fields. They are not merely test-takers, but they are experts in their subject matter who have profound knowledge of the question formats and types of questions on exams. This knowledge enables us to produce quality results without any doubt. We are confident in our work, to the extent that we promise you passing grades, and therefore, you can be fully confident that your academic ambitions are in good hands. Our most important goal is to assist you in passing the certification exam in order to progress with your career or education without cramming and test anxiety.
             </p>
           </motion.div>
 
           <motion.div className={styles.section} variants={itemVariants}>
             <h2>Unmatched Customer Support</h2>
             <p>
-              We are of the opinion that great service does not begin and end with the exam. This is why we provide our customers with unparalleled customer service during the entire process. We also have a support team ready to answer your questions and to discuss your concerns with you before, during, and after the exam. We stay in touch to update you on the progress, so you are fully informed, and you experience no worries whatsoever. We strive to develop a working relationship with trust and reliability so that we become your partner whenever you have any future academic requirements. You are not a client with All Exam Help; you are a partner in success.
+              We are of the opinion that great service does not begin and end with the exam. This is why we provide our customers with unparalleled customer service during the entire process. We also have a support team ready to answer your questions and to discuss your concerns with you before, during, and after the exam. We stay in touch to update you on the progress, so you are fully informed, and you experience no worries whatsoever. We strive to develop a working relationship with trust and reliability so that we become your partner whenever you have any future academic requirements. You are not a client with Exam Support Online; you are a partner in success.
             </p>
           </motion.div>
 

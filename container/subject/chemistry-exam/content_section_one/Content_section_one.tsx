@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Online Chemistry Exam Assistance"
-        description1="When facing exams that are challenging, students can feel confident to hire chemistry exam professionals to provide them with easy solutions. Chemistry exam help services that are reliable offer accurate answers. They also provide safe submissions and the highest form of privacy. With chemistry exam help, the professionals will fully support your test-taking. You would not have to worry about errors or missing your submission deadlines. For online chemistry exam assistance or chemistry exam hire, our PhD-qualified subject experts will gladly assist. Our exams are guaranteed to be 100% confidential with encryption systems. Instead of managing the pressure of exams, you can rest easily knowing our representatives will handle anything on your behalf. Our primary goal is simple: guarantee results, timely submissions, and professionally accurate answers."
-        heading2="Hire Exam Taker for Detailed Chemistry Assessments"
-        description2="When deadlines are closing and anxiety is rising, your best option is to hire an exam taker from our team of professionals. We are experts in providing either students or institutions with trusted exams. We ensure grades come back excellent, and your information is completely safe. Our platform provides safe and successful online exam help, and our experts handle all aspects of online exam help. Whether it is a multiple-choice test or a long, detailed assessment, our PhD experts will handle every step for you. You will also receive full help with exams online, ensuring that all tasks are submitted on time and with no errors. Choosing us ensures smooth handling of an exam or test, and complete peace of mind."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Online Chemistry Class Help: Here's How We Make It Easier"
+        description1="Students have to face their daily exams, which can easily leave them feeling overwhelmed. They are completing assignments, taking their weekly quizzes, and then preparing for their final or midterm exams. To handle all of this, they need expert assistance. Our tutors are not new to helping you out. In fact, they are used to providing reliable academic and full guidance throughout exam preparations. Plus, you don't have to worry about errors or missing your deadlines. They go through your syllabus with you, figure out which topics need the most attention, and support you through your online chemistry exam while maintaining full privacy and reliability in your chemistry course."
+        heading2="Take My Detailed Online Chemistry Exam Help to Improve Grades"
+        description2="Still, we offer a convenient option for those students who search for someone to take my online chemistry exam for me, but might feel confused about the reliability and security. We ensure that we provide reliable academic support and keep your personal information completely safe. Our platform provides safe and professional online exam help, and our experts handle all aspects of chemistry exams in a safe, secure, and reliable manner. Thus, our service offers benefits to make you sure you can excel in your studies despite challenges such as lack of time or complicated lessons."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

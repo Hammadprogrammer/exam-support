@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Statistics Exam, Online Statistic Exam Experts with Solution",
-  description: "Struggling with Tough Statistics Questions? Get Trusted Online Statistics Exam Help with Clear Explanations, Step-by-Step Problem Solving, and Flexible Scheduling.",
+  title: "Statistics Exam Help - Pay Someone To Take My Statistics Exam",
+  description: "Get trusted online statistics exam help from experienced statisticians at Exam Support Online. Clear explanations, step-by-step problem solving, and 24/7 support to boost your grades.",
   alternates: {
     canonical: "/statistics-exam/",
   },

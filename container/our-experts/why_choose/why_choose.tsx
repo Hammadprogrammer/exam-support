@@ -44,7 +44,7 @@ const WhyChooseExperts = () => {
           <span className={styles.badge}>Why Choose</span>
           <h2 className={styles.title}>Our Experts?</h2>
           <p className={styles.subtitle}>
-            With our passion for quality, honesty and results, we're not like all the other online services. When you prepare with All Exam Help, you're not gambling with your future – you're cashing in on a proven success!
+            With our passion for quality, honesty and results, we're not like all the other online services. When you prepare with Exam Support Online, you're not gambling with your future – you're cashing in on a proven success!
           </p>
         </div>
 

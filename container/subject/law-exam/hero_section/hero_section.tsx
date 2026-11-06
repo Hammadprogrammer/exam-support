@@ -27,7 +27,7 @@ const HeroSection = () => {
               "Law Exam Help with Accuracy",
               "Law Exams Submitted on Time"
             ],
-            bgImage: "/bg1.avif" 
+            bgImage: "/img/subject/hero-section-bg-img.jpg" 
           }
         ]}
       />

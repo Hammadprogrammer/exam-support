@@ -9,22 +9,19 @@ const HeroSection = () => {
         slides={[
           {
             topText: "Math Exam Help",
-            heading: <>Top-Notch Math Exam Help Services</>,
+            heading: <>Take My Math Exam and Secure A and B Grades with Professional Service</>,
             subText: (
               <p>
-                When students are looking for help with math exams, they can rely 
-                on our professional do my math exam service. We hire qualified 
-                exam tutors who can securely take math exam and guarantee a 
-                passing grade.
+                The aim of every student is to score high on their Math Exam. In fact, they can, but the real challenge is managing time and responsibilities. Online exams are timed, method-marked, and unforgiving; one bad week or a frozen moment can ruin the whole grade. If you are looking for online math exam help, you are in the right place. Our PhD-level mathematicians guide you through various math subjects without making you overpay for the assistance you need.
               </p>
             ),
             bullets: [
-              "Expert PhD-Level Math Exam Help",
-              "Confidential and Secure Exam Process",
-              "On-Time and Accurate Submissions",
-              "Trusted Exam Experts for Hire"
+              "Smart Study Plans",
+              "Expert Math Tutors",
+              "Less Stress",
+              "Real Progress"
             ],
-            bgImage: "/bg1.avif" 
+            bgImage: "/img/subject/hero-section-bg-img.jpg" 
           }
         ]}
       />

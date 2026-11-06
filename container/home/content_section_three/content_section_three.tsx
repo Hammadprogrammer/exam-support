@@ -5,12 +5,12 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Looking to Hire Someone to Take My Exam – We Offer a Stress-Free Solution"
-        description1="If you are looking for a reliable way for your online exam, our service will become your best exam assistant. We link you with a well-qualified tutor who specializes in taking all kinds of online exams correctly and with great care. From planning to finish, every detail makes for a clean and easy process. You and your personal information are always secure and confidential, so you can relax and enjoy. With 24/7 help and guaranteed success, you will never need to be concerned about exams again. Choose us and add convenience, trust, and good grades to the list."
-        heading2="Trusted Team is Available 247 - Hire Someone to Take My Online Exam Today"
-        description2="No need for exams to be more stressful when you have our trustworthy experts guiding you from beginning to end. We have a professional team on standby at all times to answer any questions that you may have about any subject or exam. From late-night support to last-minute prepping, you are not alone in the journey. We provide total privacy, secure processing, and proven results. There is no doubt that we can deliver what you are looking for. When you hire our team, you get peace of mind that comes with success. We'll do the hard work so you can focus on succeeding. We offer you support at all academic levels and offer support on your specific exam needs, so you can maximize your performance."
-        image1="/chtree.jpg"
-        image2="/c2three.jpg"
+        heading1="Say Goodbye to Exam Stress With the Right Tutor by Your Side"
+        description1="If you’re looking for a reliable way to get ready for your online exam, you’re in the right place. We connect you with a well-qualified tutor who knows your subject and has helped lots of students prepare for different kinds of online exams. This is not the end; from your first study plan to your last practice test, our tutor keeps everything simple and organized. And your personal information is always kept secure and confidential, so you can focus on studying without worrying. With 24/7 support and a tutor in your corner, exams start to feel a lot less scary. So choose us, and add confidence, trust, and better grades to your list."
+        heading2="Do My Online Exam and Hire Someone Who Is Available to Support You 24/7"
+        description2="Undoubtedly, you must have concerns about your online exam, and for this reason, you may want to ask how your tutor is handling everything. Luckily, with us, you can get in touch anytime, whenever you have any concerns regarding your exam preparation. Moreover, our weekly follow-up sessions keep you updated on your progress and give you ultimate peace of mind, knowing that your exam preparation is being handled with great care. Here, we also take pride in working hard to provide the right guidance and support so you can focus on succeeding."
+        image1="/img/home/6.jpg"
+        image2="/img/home/7.jpg"
       />
     </>
   );

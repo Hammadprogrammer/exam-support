@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Get Ready for Statistics Exams with Online Statistics Exam Help"
-        description1="Our online statistics exam help is meant to make you fully prepared. During the live lessons, tutors cover key concepts, offer practice problems and give test-taking time management tips. Any question you can ask any time and get answers often fast. Practice each section often, and when it comes to the real day you’ll be less nervous and get a better score. We also give feedback at the conclusion of every lesson, telling you where there are gaps. This focused guidance on how to answer questions will help you improve areas of weakness ahead of the test."
-        heading2="Affordable Online Statistics Exam Help Anytime"
-        description2="We believe good help should not be cost-prohibitive. That is why our online statistics exam help is not only affordable, but accessible and immediate as well. You can book daytime, evening or weekend appointments without worrying about excessive costs. Affordable and versatile, this support helps you stay ready and raise your grades without any unnecessary pressure. Choose what’s best for you with discounted packages and a pay as you go option that fits within your budget."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Best Online Statistics Help to Boost Your Grades"
+        description1="Cracking your online statistics isn't just about preparing for the exams. Actually, it means getting the right support from experts who help you translate every lesson and key concept, and even provide practice problems along with time management tips. Moreover, you also have the flexibility to ask any question and practise each section until you fully understand it. In the end, we also provide feedback to help you review each topic and prepare properly for the future."
+        heading2="Get Affordable and Reliable Online Statistics Exam Services 24/7"
+        description2="Exam Support Online has entered this field with the aim of assisting students at any time of the day. The best part is that we are known for providing round-the-clock service. So if you are seeking help from us, you can count on our expert team to answer your questions whenever you need assistance. Once you get started, our chosen expert will work closely with you to meet your requirements so that you can feel confident about receiving reliable support for your exam preparation. We do all this to ensure that we provide accurate assistance and complete every agreed task on time."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

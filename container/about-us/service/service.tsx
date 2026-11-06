@@ -84,7 +84,7 @@ const ServicesSection = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          At All Exam Help, we offer a variety of customized services, which include:
+          At Exam Support Online, we offer a variety of customized services, which include:
         </motion.p>
 
         <motion.div 

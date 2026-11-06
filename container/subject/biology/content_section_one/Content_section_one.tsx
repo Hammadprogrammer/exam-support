@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Professional Tutoring Help with Online Biology Exam"
-        description1="It doesn’t matter which biology topics you’re currently learning; our professional biology tutors are ready to help. Dealing with the stress of an impending online biology exam, a lot of students try their hand to get a dependable take my online biology exam service for desired results. Don’t forget that our professional biology academic experts know the field inside out – from genetics, cellular biology, to ecology and anatomy. Our aim is to make everything effortless and stress-free; we carefully prepare your exam and lift the load off your shoulders. We promise you authenticity, efficiency, and timely fulfillment of your expectations to the best of our ability. We are here to help take the burden off of you by doing the work for you. When you have expert help, in a matter of weeks, you become confident and clear on all points, which is how to get really high scores quickly."
-        heading2="Affordable Online Biology Exam Help Anytime You Need"
-        description2="We aim for our services to be flexible, convenient, and cost-effective. We understand that students have varied schedules and fluctuations in budget, so you can access our help at any time. Whether you have a last-minute exam or are working to master the concepts long-term, we can work with you. There are no hidden costs, and the pricing templates are competitive, so everyone can afford the best tutoring. Appointments can be made at convenient hours that suit the students and work with school, schedules, and personal lives. Students are able to avoid a financial burden, stay on track, and lower their stress level by receiving affordable, timely support that will increase grades."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Personalized Tutoring Support for All Your Biology Exams"
+        description1="It doesn’t matter which biology topic you’re studying right now. Our biology tutors are ready to help. No doubt, the stress of an upcoming online exam pushes a lot of students to look for someone dependable to guide them. Well, that’s exactly what we’re here for. Our tutors know biology inside out, from genetics and cell biology to ecology and anatomy. And you know, our goal is to make your preparation simple and stress-free. Our tutor goes over the topics with you, explains the tricky diagrams and processes, and practices the kinds of questions you’ll see on your exam. We promise honest effort, clear guidance, and support that’s always on time."
+        heading2="Affordable Price For Students Who Need Biology Exam Help"
+        description2="We understand that not every student can afford the high prices of online biology exam help. So our prices for biology exam help are very low because we aim to provide these services to every student who is facing trouble in their academic life. Moreover, we make our prices affordable without compromising on quality. At Exam Support Online, we do our best to help you get the grades you want without spending too much on professional biology exam assistance."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

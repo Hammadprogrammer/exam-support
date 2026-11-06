@@ -10,19 +10,19 @@ import PersonOutlineOutlinedIcon from '@mui/icons-material/PersonOutlineOutlined
 const FeatureSectionHome = () => {
   const features = [
     {
-      title: "Available Whenever",
-      desc: "Get the help you need before that exam, no matter what time we offer support 24/7.",
-      icon: <CheckBoxOutlinedIcon />,
-    },
-    {
       title: "Qualified Team",
-      desc: "We are a team of experts who have experience in many categories and types of examinations.",
+      desc: "We have a team of expert professionals who have years of experience in teaching and helping with different types of exams.",
       icon: <GroupsOutlinedIcon />,
     },
     {
       title: "Secure & Private",
-      desc: "All your personal data and exam details are secured with us, offering you privacy.",
+      desc: "Want to keep your information private? Here, we do exactly that. We take your privacy seriously and work to keep your personal data and exam details secure with us.",
       icon: <WifiTetheringOutlinedIcon />,
+    },
+    {
+      title: "24/7 Available",
+      desc: "We designed our system in a way to provide support at any time of the day.",
+      icon: <CheckBoxOutlinedIcon />,
     },
     {
       title: "Track Record",
@@ -31,7 +31,7 @@ const FeatureSectionHome = () => {
     },
     {
       title: "No Stress",
-      desc: "Our experts take into account everything you need to know, while letting you relax and stress-free!",
+      desc: "Our tutors sit with you and explain every topic until you fully understand it, so you can prepare without pressure.",
       icon: <SentimentSatisfiedAltIcon />,
     },
     {
@@ -43,8 +43,8 @@ const FeatureSectionHome = () => {
 
   return (
     <FeaturesSection
-      mainHeading="Take A Look at Our Service Features"
-      subText="Our services are user-friendly, safe, and straightforward. Expert guidance and assistance will help you when you need it. For us, everything is designed to help you succeed with confidence."
+      mainHeading="Get Professional Support From Our Online Exam Service Features"
+      subText="Are you tired of dealing with proctoring pressure and deadlines? Here, we are dedicated to helping you get the right support that truly aligns with your requirements."
       features={features}
     />
   );

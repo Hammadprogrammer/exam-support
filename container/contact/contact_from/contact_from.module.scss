@@ -15,7 +15,7 @@
 
     .subtitle {
       display: block;
-      color: #5cb2e4;
+      color: #16305c;
       font-weight: 600;
       font-size: 1rem;
       margin-bottom: 10px;
@@ -25,7 +25,7 @@
     .title {
       font-size: clamp(2rem, 4vw, 2.8rem);
       font-weight: 800;
-      color: #4CAF50;
+      color: #f9a825;
       position: relative;
       display: inline-block;
 
@@ -90,9 +90,9 @@
 
         &:focus {
           outline: none;
-          border-color: #5cb2e4;
+          border-color: #16305c;
           background-color: #ffffff;
-          box-shadow: 0 0 0 4px rgba(92, 178, 228, 0.1);
+          box-shadow: 0 0 0 4px rgba(22, 48, 92, 0.1);
         }
 
         &::placeholder {
@@ -107,7 +107,7 @@
 
     .submitBtn {
       align-self: flex-start;
-      background-color: #5cb2e4;
+      background-color: #16305c;
       color: white;
       padding: 15px 45px;
       border-radius: 8px;
@@ -116,12 +116,12 @@
       border: none;
       cursor: pointer;
       transition: all 0.3s ease;
-      box-shadow: 0 4px 12px rgba(92, 178, 228, 0.2);
+      box-shadow: 0 4px 12px rgba(22, 48, 92, 0.2);
 
       &:hover {
         background-color: #4a9bd9;
         transform: translateY(-2px);
-        box-shadow: 0 6px 20px rgba(92, 178, 228, 0.3);
+        box-shadow: 0 6px 20px rgba(22, 48, 92, 0.3);
       }
 
       &:active {
@@ -156,7 +156,7 @@
 
     .popupIcon {
       font-size: 60px;
-      color: #4CAF50;
+      color: #f9a825;
       margin: 0 auto 20px auto;
       display: block;
     }

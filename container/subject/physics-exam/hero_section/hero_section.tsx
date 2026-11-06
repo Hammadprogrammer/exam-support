@@ -8,22 +8,19 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Get On-Time",
-            heading: <>Hire Our Professional Physics Exam Takers For Success</>,
+            topText: "Physics Exam Help",
+            heading: <>Pay Someone to Help with My Online Physics Exam with Expert Professionals</>,
             subText: (
               <p>
-                We are skilled professionals who have been through the physics 
-                material themselves and with our help, you will become one of 
-                the best scholars in this field.
+                If you feel stuck and think, &quot;Can I hire someone to help me with my physics exam?&quot; we are here to support you. Our expert tutors can help you with your physics exam and handle tasks with great care. Undoubtedly, physics comes with the intersection of advanced mathematics and abstract conceptual thinking. We manage it all, providing you with timely physics exam assistance, so you can relax while we guide you through your work smoothly and on time.
               </p>
             ),
             bullets: [
-              "Step-by-Step Concept Explanations",
-              "Real-Time Problem-Solving Support",
-              "Schedule Flexibility for ALL Time Zones",
-              "Guaranteed Accurate and Timely Assistance"
+              "Helped 1,500+ physics students achieve academic excellence",
+              "24-hour support for all your queries and concept clarification",
+              "Helping you work towards achieving A or B grades"
             ],
-            bgImage: "/bg1.avif" 
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

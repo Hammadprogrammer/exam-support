@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Chemistry Exam, Reliable and Trusted Chemistry Exam Help",
-  description: "All Exam Help Offers Various Subject Help for Online Exams. Our Chemistry Exam Experts are Very Prominent to Provide Best Services in Town. Grab Your Discount and Hire Best Chemistry Expert.",
+  title: "Chemistry Exam Help - Pay Someone To Take My Chemistry Exam",
+  description: "Get reliable online chemistry exam help from Exam Support Online. Our PhD chemistry tutors explain complex reactions, formulas, and calculations at affordable rates with full privacy.",
   alternates: {
     canonical: "/chemistry-exam/",
   },

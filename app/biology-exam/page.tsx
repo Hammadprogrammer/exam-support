@@ -20,8 +20,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Biology Exam, Affordable Online Biology Exam Help Services",
-  description: "Need Help with Your Biology Exam? Get Expert Online Biology Exam Help with Easy Tutoring, Clear Study Guides, and Reliable Support to Boost Your Grades and Feel Confident on Exam Day.",
+  title: "Biology Exam Help - Take My Biology Exam Service Online",
+  description: "Get reliable online biology exam help from Exam Support Online. Our expert biology tutors cover genetics, cell biology, ecology, and anatomy at student-friendly prices.",
   alternates: {
     canonical: "/biology-exam/",
   },

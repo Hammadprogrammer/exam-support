@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Math Exam, Online Math Exam Help, Do My Math Exam for Me",
-  description: "Searching for Pay Someone to Take My Math Exam? Get Accurate, Plagiarism-free Math Exam Solutions with Guaranteed Results. Get Exclusive Discount on Live Chat Today.",
+  title: "Online Math Exam Help - Pay Someone To Take My Maths Exams",
+  description: "Get reliable online math exam help from Exam Support Online. Our PhD-level math tutors guide you through algebra, calculus, and statistics so you can secure A and B grades.",
   alternates: {
     canonical: "/math-exam/",
   },

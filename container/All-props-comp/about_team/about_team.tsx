@@ -149,7 +149,7 @@ const AboutTeam: React.FC<AboutTeamProps> = ({
             <div className={styles.badgeWrapper}>
               <span className={styles.badge}>{badge}</span>
               <svg className={styles.wavyUnderline} viewBox="0 0 100 10" preserveAspectRatio="none">
-                <path d="M0 5 Q 25 0, 50 5 T 100 5" stroke="#28a745" strokeWidth="2" fill="none" />
+                <path d="M0 5 Q 25 0, 50 5 T 100 5" stroke="#e09500" strokeWidth="2" fill="none" />
               </svg>
             </div>
 

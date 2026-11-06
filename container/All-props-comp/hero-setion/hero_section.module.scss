@@ -31,7 +31,7 @@
     font-size: 36px;
     font-weight: 800;
     margin-bottom: 20px;
-    span { color: #ffab2e; }
+    span { color: #f9a825; }
 
     @media (max-width: 768px) { font-size: 26px; }
     @media (max-width: 480px) { font-size: 22px; }
@@ -68,7 +68,7 @@
       justify-content: center;
       min-width: 20px;
       height: 20px;
-      background-color: #ffab2e;
+      background-color: #f9a825;
       color: #fff;
       border-radius: 50%;
       margin-right: 12px;
@@ -102,7 +102,7 @@
   cursor: pointer;
 }
 
-.btnPrimary { background-color: #ffab2e; color: #fff; }
+.btnPrimary { background-color: #f9a825; color: #fff; }
 .btnSecondary { background-color: #5b7696; color: #fff; }
 
 .formContainer {
@@ -137,7 +137,7 @@
     border-radius: 5px;
     font-size: 14px;
     color: #333;
-    &:focus { border-color: #ffab2e; outline: none; }
+    &:focus { border-color: #f9a825; outline: none; }
   }
 
   /* CUSTOM DROPDOWN - HAR WINDOW ME SAME */
@@ -161,7 +161,7 @@
     cursor: pointer;
     transition: 0.3s;
 
-    &.active { border-color: #ffab2e; }
+    &.active { border-color: #f9a825; }
     
     .arrow { font-size: 10px; color: #666; }
   }
@@ -190,13 +190,13 @@
     background: #fff;
 
     &:hover {
-      background-color: #ffab2e; // Hover Yellow
+      background-color: #f9a825; // Hover Yellow
       color: #fff;
     }
   }
 
   .submitBtn {
-    background-color: #ffab2e;
+    background-color: #f9a825;
     color: #fff;
     padding: 15px;
     border: none;

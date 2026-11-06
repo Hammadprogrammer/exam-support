@@ -37,7 +37,7 @@
 
     .subtitle {
       display: block;
-      color: #5cb2e4;
+      color: #16305c;
       font-weight: 600;
       font-size: 1.1rem;
       margin-bottom: 15px;
@@ -46,7 +46,7 @@
     .title {
       font-size: clamp(2rem, 4vw, 3rem);
       font-weight: 800;
-      color: #4CAF50;
+      color: #f9a825;
       margin-bottom: 25px;
       line-height: 1.2;
     }
@@ -114,14 +114,14 @@
       }
 
       &.locationIcon { background-color: #4b5563; }
-      &.emailIcon { background-color: #5cb2e4; }
+      &.emailIcon { background-color: #16305c; }
       &.phoneIcon { background-color: #4b5563; }
     }
 
     h3 {
       font-size: 1.2rem;
       font-weight: 700;
-      color: #4CAF50;
+      color: #f9a825;
       margin-bottom: 12px;
     }
 

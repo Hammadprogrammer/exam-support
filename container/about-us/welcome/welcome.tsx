@@ -37,7 +37,7 @@ const HeroSection = () => {
             <span className={styles.badge}>Welcome to</span>
             <h2>All Exam <span>Help</span></h2>
             <p>
-            At All Exam Help, we are an examination and test provider offering online exam and test support to all users. With years of experience and a team of expert exam helpers, we help students and professionals maintain confidence and realize their academic potential by taking their exams and tests on their behalf. With us, success is guaranteed.
+            At Exam Support Online, we are an examination and test provider offering online exam and test support to all users. With years of experience and a team of expert exam helpers, we help students and professionals maintain confidence and realize their academic potential by taking their exams and tests on their behalf. With us, success is guaranteed.
 
             </p>
           </div>

@@ -4,12 +4,12 @@ import ContentSectionTwo from "@/container/All-props-comp/content_section_two/co
 const ContentSectionTwoHome = () => {
   return (
     <ContentSectionTwo
-      title1="Computer Science Exam Help - Timely Submissions with Proven Results"
-      desc1="Exam management can be stressful, but our trusted online exam help makes it easy and confidential. You can hire for online exams, which ensure accurate, private, and timely submission of completed assessments. Every exam will be taken care of because all of our student exam help services can be taken care of by PhD-qualified exam takers. Our student exam help services work to ensure that you don't have to stress. Our expert services give you peace of mind while we guarantee great results. Whether you hire exam tutors, hire for multiple-choice tests, or take timed exams, our exam help specialists will take care of everything fast and accurately. We also have dedicated computer science exam help services. We ensure the best grades in both technical and theory courses."
-      desc2="Our platform is known as the best computer science exam helpers for hire on the web. It is a place for students to get professional help with technical exams. When you decide to hire an exam helper, you will be working with subject experts who focus on exams. We are familiar with the exam format. In addition, we know how to get you the right answers. Just use our service, and you will get a timely submission and guaranteed results. Students looking for an online computer science exam can trust our PhD experts with their coding, algorithms, and theory-based papers. We ensure complete satisfaction in every exam. Let us take away the burden of meeting deadlines with our secure and reliable exam-taking service."
-      title2="Satisfactory Exam Help with the Right Answers"
-      img1="/ctwo.jpg"
-      img2="/sthree.jpg"
+      title1="Help Me Get Expert Help for Taking My Computer Science Exam"
+      desc1="In today's modern world, getting help from a reliable service provider is difficult. Nowadays, everyone is providing online exam help, but they are mostly running scams. So here, Exam Support Online provides reliable and professional computer exam support. We help you connect with master's or PhD-level tutors who provide timely and dependable support. Do you know what makes us the best choice? We are a legitimate service provider with 15 years of experience offering the best computer science guidance throughout the USA."
+      desc2="Exam Support Online is known for providing fast service. We have been named the number one service provider because we provide computer science exam support on short notice. This means you can contact us anytime; we aim to provide quality assistance to help you prepare for your exams. Moreover, we have a number of computer experts who have been teaching various subjects for more than years. That’s the reason we respond quickly without taking any extra time to determine the best answer or solution to your questions."
+      title2="We Do Your Computer Science Exam on Short Notice"
+      img1="/img/subject/1.jpg"
+      img2="/img/subject/2.png"
     />
   );
 };

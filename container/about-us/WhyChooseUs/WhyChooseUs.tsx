@@ -68,7 +68,7 @@ const WhyChooseUs = () => {
         <motion.div className={styles.header} variants={itemVariants}>
           <span className={styles.topTitle}>Why</span>
           <h2 className={styles.mainTitle}>Choose Us</h2>
-          <p className={styles.subSubtitle}>it's All Exam Help is why both students and professionals rely on All Exam Help</p>
+          <p className={styles.subSubtitle}>it's Exam Support Online is why both students and professionals rely on Exam Support Online</p>
         </motion.div>
 
         <div className={styles.grid}>

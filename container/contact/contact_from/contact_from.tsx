@@ -89,7 +89,7 @@ const ContactForm = () => {
           <h2 className={styles.title}>
             Have Any Questions! <span>Say Hello</span>
             <svg className={styles.squiggle} viewBox="0 0 100 20" preserveAspectRatio="none">
-              <path d="M0,10 Q25,0 50,10 T100,10" fill="none" stroke="#4CAF50" strokeWidth="2" />
+              <path d="M0,10 Q25,0 50,10 T100,10" fill="none" stroke="#f9a825" strokeWidth="2" />
             </svg>
           </h2>
         </motion.div>

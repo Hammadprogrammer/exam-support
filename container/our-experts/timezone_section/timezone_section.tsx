@@ -20,7 +20,7 @@ const TimezoneSection = () => {
           >
             <div className={styles.imageWrapper}>
               {/* Keeping your original image path */}
-              <Image src="/ac2.jpg" alt="Global support" width={600} height={450} />
+              <Image src="/img/experts/6.jpg" alt="Global support" width={600} height={450} />
             </div>
           </motion.div>
 
@@ -35,7 +35,7 @@ const TimezoneSection = () => {
             <span className={styles.badge}>Available 24/7 Around the Clock</span>
             <h2 className={styles.title}>Regardless of the Time Zone You are in</h2>
             <p className={styles.description}>
-Our squad of pros is spread across countries and time zones, so we’re here 24/7, patrolling the free essay writing space. Have an early-morning exam? A weekend deadline? A pop quiz you never saw coming? We’ve got you covered. 24/7 with a flexible schedule makes sure you’re never in your career at a time when you’re really at a make-or-break place academically. No matter if you are from the USA, Australia, Canada, or any other country, All Exam Help is at your fingertips any time, anywhere.            </p>
+Our squad of pros is spread across countries and time zones, so we’re here 24/7, patrolling the free essay writing space. Have an early-morning exam? A weekend deadline? A pop quiz you never saw coming? We’ve got you covered. 24/7 with a flexible schedule makes sure you’re never in your career at a time when you’re really at a make-or-break place academically. No matter if you are from the USA, Australia, Canada, or any other country, Exam Support Online is at your fingertips any time, anywhere.            </p>
           
           </motion.div>
 

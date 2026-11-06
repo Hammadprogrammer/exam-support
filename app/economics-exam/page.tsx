@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Economics Exam, Cheap Economics Exam Help Services Online",
-  description: "Get Cheap Solution for Your Online Economics Exam by Proven Experts. We Offer Grade Guarantee with Money-Back. Direct Tutor Access for All Subject including Economics Exam.",
+  title: "Economics Exam Help - Take My Online Economics Exam",
+  description: "Prepare for your online economics exam with PhD-qualified tutors at Exam Support Online. Secure, affordable economics exam support with a money-back guarantee and 24/7 help.",
   alternates: {
     canonical: "/economics-exam/",
   },

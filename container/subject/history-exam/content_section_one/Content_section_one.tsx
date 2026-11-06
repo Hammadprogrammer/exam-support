@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Confidential Exam Help with Reliability"
-        description1="Students needing help with online History can trust us, we will make sure that our experienced professionals sit your exam with confidence and complete confidentiality. Our support with exam services cater to all exam help services. We ensure the correct and punctual submission of any online exam. Our experts take pride in their ability to assist with your history exam. We can handle everything with precision. Our subject experts have years of experience and guarantee the best possible results. We handle the entire process with security and effectiveness. We deliver professionals who provide accuracy, confidentiality, and guaranteed results. We strive to establish exam support services that alleviate your stress with exams. We ensure reliable outcomes every time in any history subjects."
-        heading2="Hire History Exam Taker - Professional History Exam Help Service"
-        description2="When you hire a history exam helper, you choose the route of simplicity, peace of mind, and successful results. Our site provides help with online exams, and we ensure that each exam you need help with is taken care of by professional experts. When students get help with online exams, they can simply relax while their professionals perform to the best of their abilities. We provide a secure and authentic history exam help service, which is 100% private and confidential. The professional history exam expert takes care of everything because that is what they do. We ensure the best history exam results. Our team of experts consists of PhD professionals who understand the complexities of the history subject. The professionals guarantee accuracy and successful results. Our expertise is based on total satisfaction and your online history exam needs."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Ready for an A? Book Your Affordable History Exam Help Today"
+        description1="Stop worrying about how much good help is going to cost you. We completely understand that students already have enough expenses, from tuition and books to rent and daily needs. For this reason, we keep our history exam help at a price point that every student can easily afford. No hidden fees, no surprise charges. Only pay for the help you need, whether it’s one session before a quiz or full support before your final exam. Plus, your first session comes with 50% off, so you can try our service without spending too much. And just because our prices are low doesn’t mean the quality is also low. We assure you that you will receive a professional and expert assistant that you haven’t gotten from anyone else in the USA."
+        heading2="Secure Your GPA and Meet Your History Requirements With Our Take My Online History Help"
+        description2="You will feel less stressed when you hire a history exam expert. You no longer have to worry about your grades; Exam Support Online is available to help you with your academic challenges. Here, we provide secure and authentic history exam preparation services while respecting your privacy and confidentiality. Our professional history exam experts help you understand difficult topics and prepare for your exams, giving you the flexibility to enjoy your night and weekend or even spend time with your family."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

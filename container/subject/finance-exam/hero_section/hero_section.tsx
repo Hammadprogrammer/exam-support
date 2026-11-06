@@ -9,22 +9,19 @@ const HeroSection = () => {
         slides={[
           {
             topText: "Finance Exam Help",
-            heading: <>Hire Professional Finance Exam Help Services</>,
+            heading: <>Hire an Expert Professional to Help Me with My Finance Exam and Secure Better Grades</>,
             subText: (
               <p>
-                Students seeking finance exam help should utilize our 
-                reliable online exam assistance services. Here we offer 
-                a professional finance exam help service, so your Exam 
-                is handled with accuracy and confidentiality.
+                Business students are packed with finance exams. Even the best students are stretched to the limit by quantitative analysis, risk modeling, and complicated valuation. Here, we have onboarded master&apos;s or PhD tutors who help you prepare for the finance exam and achieve better grades. Plus, we are a 100% confidential, trusted, and affordable exam support service.
               </p>
             ),
             bullets: [
-              "100% Confidential",
-              "PhD Experts in Finance",
-              "On-Time Submission",
-              "Trusted Exam Takers"
+              "100% Privacy",
+              "Plagiarism-Free Work",
+              "Expert Assistance",
+              "Affordable Pricing"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

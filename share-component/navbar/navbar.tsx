@@ -92,7 +92,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/" prefetch={false}>
-                <Image src="/logo1.png" alt="Logo" width={220} height={50} priority className="w-auto h-12 lg:h-14" />
+                <Image src="/exam-support-online-logo.png" alt="Exam Support Online" width={220} height={50} priority className="w-auto h-12 lg:h-14" />
               </Link>
             </div>
 
@@ -152,7 +152,7 @@ const Navbar = () => {
               <a href="tel:+12123476533" className="flex items-center gap-1.5 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
                 <PhoneInTalk fontSize="small" /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center gap-1.5 bg-[#28a745] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#218838] transition-colors">
+              <button onClick={openTawkToChat} className="flex items-center gap-1.5 bg-[#e09500] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#218838] transition-colors">
                 <Chat fontSize="small" /> Live Chat
               </button>
               <Link href="/contact/" prefetch={false} className="flex items-center gap-1.5 bg-[#63a4ff] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#4d94f7] transition-colors">
@@ -174,7 +174,7 @@ const Navbar = () => {
       <div className={`fixed inset-0 bg-black/50 z-[1000] transition-opacity duration-300 lg:hidden ${mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`} onClick={handleDrawerToggle}>
         <div className={`fixed inset-y-0 right-0 w-[300px] bg-white shadow-xl transform transition-transform duration-300 ease-in-out ${mobileOpen ? 'translate-x-0' : 'translate-x-full'}`} onClick={e => e.stopPropagation()}>
           <div className="flex justify-between items-center p-5 border-b border-gray-100">
-            <Image src="/logo1.png" alt="Logo" width={120} height={40} className="w-auto h-8" />
+            <Image src="/exam-support-online-logo.png" alt="Exam Support Online" width={120} height={40} className="w-auto h-8" />
             <button onClick={handleDrawerToggle} className="text-gray-600">
               <CloseIcon />
             </button>
@@ -231,7 +231,7 @@ const Navbar = () => {
               <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-4 py-3 rounded-md font-bold w-full">
                 <PhoneInTalk /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center justify-center gap-2 bg-[#28a745] text-white px-4 py-3 rounded-md font-bold w-full">
+              <button onClick={openTawkToChat} className="flex items-center justify-center gap-2 bg-[#e09500] text-white px-4 py-3 rounded-md font-bold w-full">
                 <Chat /> Live Chat
               </button>
               <Link href="/get-started/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#63a4ff] text-white px-4 py-3 rounded-md font-bold w-full">

@@ -23,14 +23,14 @@ const ClientReviewsHome = () => {
       name: "Michael R.",
       location: "Florida",
       stars: 5,
-      reviewText: "Was able to trust the experts, responded rapidly and safely. I got good marks thanks to them. All exam help is far the best online exam support.!!!"
+      reviewText: "Was able to trust the experts, responded rapidly and safely. I got good marks thanks to them. Exam Support Online is far the best online exam support.!!!"
     },
     {
       image: "/t3.jpg",
       name: "Jessica M.",
       location: "California",
       stars: 5,
-      reviewText: "All Exam Help is a great supplement for my online studies. I had trouble finishing my online course, but they provided great help. Thank you."
+      reviewText: "Exam Support Online is a great supplement for my online studies. I had trouble finishing my online course, but they provided great help. Thank you."
     }
   ];
 

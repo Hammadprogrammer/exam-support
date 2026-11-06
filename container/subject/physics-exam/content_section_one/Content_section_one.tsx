@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Affordable Physics Exam Help Services to Boost Your Grades"
-        description1="Good grades in physics are easier when you are supported in the right way. Our low-cost exam help service provides you with professional advice at a low price. You can collaborate with our experienced tutors who can teach such concepts as ethics, logic, and critical thinking in simple terms. They allow you to revise important issues, develop study plans, and sample questions. Our service is also affordable; you do not have to worry about excessively spending. You can hire us to assist with the exam to enhance your knowledge and grades, with everything being confidential and secure."
-        heading2="Get Help with Online Physics Exam to Handle Your Midterms and Finals"
-        description2="Physics exams (midterm and final) can be intense, particularly when a student has a tight timetable or a number of other subjects that they are about to write. Our professionals specializing in hiring people to take your exams can handle your online physics exams with care and professionalism. They are familiar with how to do timed exams, tricky essay questions, and analysis of an argument. By engaging a trusted tutor, you can be less stressed and feel more positive about your results."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Here We Keep Your Physics Exam Completely Private"
+        description1="If security is the reason stopping you from seeking physics exam help, you should contact us. We handle your academic information with care. Moreover, our entire team operates under signed NDA agreements before accessing any student information. Your name, program, institution, and every detail of our arrangement stay within our internal team only. Not only that, but we also remove your data after your physics class final grade is confirmed, according to our data retention policy. We take every possible step to protect your privacy."
+        heading2="Why Should You Choose Exam Support Online for Online Physics Exams?"
+        description2="Does your physics evaluation dissatisfy you regardless of how much effort you put in? Well, this happens with most of the students. Try our service; we know our professional support and expert guidance will surely bring you back to us again. Our class helpers on our panel are chosen very wisely, after going through various evaluations and proper training, and then given a chance to deal with the students."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

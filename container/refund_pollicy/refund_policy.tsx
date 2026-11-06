@@ -36,7 +36,7 @@ const Refund = () => {
         <motion.h1 className={styles.mainTitle} variants={itemVariants}>Refund Policy</motion.h1>
         
         <motion.p className={styles.introText} variants={itemVariants}>
-          We will ensure that at All Exam Help you succeed. We have created a refund policy that will give you the confidence and the peace of mind when using our services.
+          We will ensure that at Exam Support Online you succeed. We have created a refund policy that will give you the confidence and the peace of mind when using our services.
         </motion.p>
 
         <div className={styles.policyContent}>

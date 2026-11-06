@@ -5,15 +5,15 @@ const GetQuoteHome = () => {
   return (
     <GetQuote
       topLabel="Get A Quote"
-      heading="Do My Exam"
-      description="It's a simple way to start your exam support journey and save while boosting your grades."
-      contactHeading="Place your Order here"
-      contactDescription="We guarantee you get the support you can trust at the moment it's needed the most."
+      heading="Need Help With An Online Exam?"
+      description="Let Exam Support Online handle it securely and affordably."
+      contactHeading="Place Your Request Here"
+      contactDescription="We’ll match you with support you can trust when you need it most."
       phone="+12123476533"
       email="info@allexamhelp.com"
       liveChatText='Live Chat: Type "Yes" to Start'
-      formHeading="Enjoy a 50% Discount on Signup"
-      formDescription="Sign up today and receive a free quote for our services, plus an instant 50% discount."
+      formHeading="Enjoy a 50% Discount on Sign-up"
+      formDescription="Sign up today, get a free quote, and save 50% on your first session. No commitment needed."
       btnText="Get Instant Quote"
     />
   );

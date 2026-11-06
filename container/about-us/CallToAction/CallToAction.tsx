@@ -49,7 +49,7 @@ const CallToAction = () => {
             <div className={styles.content}>
               <h2 className={styles.title}>Call-to-Action</h2>
               <p className={styles.description}>
-                Already successful with your online tests? Join hands with All Exam Help now and lead a stress-free academic life.
+                Already successful with your online tests? Join hands with Exam Support Online now and lead a stress-free academic life.
               </p>
               
               <div className={styles.features}>

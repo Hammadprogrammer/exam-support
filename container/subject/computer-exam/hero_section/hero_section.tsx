@@ -8,23 +8,21 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Computer Science Exam",
-            heading: <>Hire Computer Science Exam Tutors Online</>,
+            topText: "Computer Science Exam Help",
+            heading: <>Can I Pay Someone to Take My Computer Science Exam For Better Grades</>,
             subText: (
               <p>
-                Contact secure online exam help from professionals 
-                that ensure accuracy, confidentiality and submission. 
-                Our PhD specialists provide trusted computer science 
-                exam help with guaranteed top results.
+                We provide a simple, secure, private, and stress-free online exam service. You might be thinking, &quot;How?&quot; We have expert professionals who first meet with you, break down your requirements, and then create a specialized plan to help you prepare for your proctored exam. With our expert help, you can get:
               </p>
             ),
             bullets: [
-              "Timely Completion",
-              "All Topics Covered",
-              "Stress-Free",
-              "Affordable Rates"
+              "PhD-qualified exam taker",
+              "Top-tier exam help",
+              "24/7 customer support",
+              "Zero-risk privacy",
+              "Guaranteed result"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

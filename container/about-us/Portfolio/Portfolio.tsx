@@ -18,7 +18,7 @@ const Portfolio = () => {
     {
       title: "Online PMP Exam",
       bgColor: "#edf2ff", 
-      btnColor: "#5cb2e4", // Blue
+      btnColor: "#16305c", // Blue
       image: "/p2.png",
       btnText: "Join With Us →",
       url: "/online-pmp-exam"
@@ -26,7 +26,7 @@ const Portfolio = () => {
     {
       title: "GED Exams",
       bgColor: "#edf2ff", // Light blue
-      btnColor: "#5cb2e4", // Blue
+      btnColor: "#16305c", // Blue
       image: "/p2.png",
       btnText: "Join With Us →",
       url: "/online-ged-test"

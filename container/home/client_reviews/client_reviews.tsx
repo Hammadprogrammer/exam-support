@@ -6,39 +6,46 @@ const ClientReviewsHome = () => {
   const reviewsData = [
     {
       image: "t2.jpg", 
-      name: "Ryan T.",
+      name: "Sarah Mitchell",
       location: "New York",
       stars: 5,
-      reviewText: "Professional, quick, and trustworthy. Studying became much smoother with online exam support, and it played a big role in enabling me to score more than I expected."
+      reviewText: "I had experienced different sites for help on my online exam and got scammed. I was very nervous about using this website, but the tutor here provided excellent support in a timely manner, and my final score was outstanding."
     },
     {
-      image: "t4.jpg", 
-      name: "Sophia L.",
+      image: "t1.jpg", 
+      name: "James Anderson",
       location: "Texas",
       stars: 5,
-      reviewText: "Awesome help and support! The team made my experience of writing the exam comfortable, anxiety-free, and hugely successful. Very satisfied."
+      reviewText: "I absolutely love their service. I needed urgent online exam help and one of their professors helped me within the very next hour."
     },
     {
-      image: "t1.jpg",
-      name: "Michael R.",
+      image: "t4.jpg",
+      name: "Emily Roberts",
       location: "Florida",
       stars: 5,
-      reviewText: "Was able to trust the experts, responded rapidly and safely. I got good marks thanks to them. All exam help is far the best online exam support.!!!"
+      reviewText: "My exam preparation was carefully managed by Exam Support Online. It was well worth the money to get help from their website."
     },
     {
       image: "t3.jpg",
-      name: "Jessica M.",
+      name: "Daniel Carter",
       location: "California",
       stars: 5,
-      reviewText: "All Exam Help is a great supplement for my online studies. I had trouble finishing my online course, but they provided great help. Thank you."
+      reviewText: "I had no trouble managing my exam time. My grades were even higher than I had ever expected, thanks to the guidance and support I received."
+    },
+    {
+      image: "t1.jpg",
+      name: "Michael Harris",
+      location: "Illinois",
+      stars: 5,
+      reviewText: "I was struggling with a few topics and honestly didn't know how to prepare for my exam. The tutor explained everything in a way that actually made sense. I felt much more confident going into the exam, and I'm really happy with how things turned out."
     }
   ];
 
   return (
     <ClientReviews 
       badgeTitle="Client Reviews"
-      mainTitle="Hear from Our Happy Clients"
-      description="Awesome quality and service! The exam help was accurate, private, and helped my self-confidence. Would recommend to anyone wanting great results."
+      mainTitle="98% of Students Achieved Successful Grades With Us"
+      description="Exam Support Online provides unbeatable exam support that stays accurate and private. We also offer affordable services that help boost your self-confidence and improve your academic performance."
       buttonText="Contact Us"
       buttonLink="/contact/"
       reviews={reviewsData}

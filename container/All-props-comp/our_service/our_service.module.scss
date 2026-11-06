@@ -11,7 +11,7 @@
     right: 0;
     width: 300px;
     height: 300px;
-    background: radial-gradient(circle, rgba(76, 175, 80, 0.05) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(249, 168, 37, 0.05) 0%, transparent 70%);
     z-index: 0;
   }
 }
@@ -38,7 +38,7 @@
 
     .h4 {
       font-size: 2.5rem;
-      color: #4CAF50;
+      color: #f9a825;
       font-weight: 700;
       margin: 0;
 
@@ -103,8 +103,10 @@
 
   &:hover {
     transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 20px 45px rgba(22, 48, 92, 0.18);
+    border-color: #f9a825;
   }
+  border: 1px solid #eef1f6;
 
   .imageBox {
     position: relative;
@@ -132,29 +134,33 @@
 
     .cardDescription {
       font-size: 0.95rem;
-      color: #4da8da; // Light blue as requested/seen in image
+      color: #2a4d8f; // Light blue as requested/seen in image
       margin-bottom: 20px;
       line-height: 1.5;
       flex-grow: 1;
     }
 
     .learnMoreBtn {
-      background: #73c2fb;
-      color: #fff;
+      background: linear-gradient(135deg, #f9a825 0%, #f5b81f 100%);
+      color: #16305c;
       border: none;
-      padding: 10px 20px;
+      padding: 11px 24px;
       border-radius: 8px;
-      font-weight: 600;
+      font-weight: 700;
       display: flex;
       align-items: center;
       justify-content: center;
       gap: 8px;
       cursor: pointer;
-      transition: background 0.3s ease;
+      transition: all 0.3s ease;
       align-self: center;
+      box-shadow: 0 4px 14px rgba(249, 168, 37, 0.35);
 
       &:hover {
-        background: #5dade2;
+        background: linear-gradient(135deg, #16305c 0%, #2a4d8f 100%);
+        color: #fff;
+        box-shadow: 0 6px 18px rgba(22, 48, 92, 0.35);
+        transform: translateY(-2px);
       }
 
       .arrowIcon {
@@ -180,9 +186,9 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 
   &:hover {
-    background: #4CAF50;
+    background: linear-gradient(135deg, #16305c 0%, #2a4d8f 100%);
     color: #fff;
-    border-color: #4CAF50;
+    border-color: #16305c;
   }
 
   @media (max-width: 768px) {
@@ -205,7 +211,7 @@
     transition: all 0.3s ease;
 
     &.activeDot {
-      background: #4CAF50;
+      background: linear-gradient(90deg, #f9a825, #ffc94d);
       width: 24px;
       border-radius: 10px;
     }

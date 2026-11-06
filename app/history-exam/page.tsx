@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "History Exam, Hire History Exam Experts for Online Exam",
-  description: "Struggling with History Exam? Let Experts Take My Online History Exam and Score High with Accurate, Step-by-Step History Exam Help. Get Connected with Your History Expert Today.",
+  title: "History Exam Help - Take My Online History Exam For Me",
+  description: "Struggling with your history exam? Exam Support Online connects you with expert history tutors for secure, affordable exam preparation and better grades without stress.",
   alternates: {
     canonical: "/history-exam/",
   },

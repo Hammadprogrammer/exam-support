@@ -8,24 +8,20 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Secure High Grades",
-            heading: <>Affordable History Exam Helpers For Hire</>,
+            topText: "History Exam Help",
+            heading: <>Take My Online History Exam For Me and Achieve Better Grades Without Stress</>,
             subText: (
               <p>
-                Students needing history exam help can finally stop 
-                stressing and rely on our online exam help services. 
-                We have exam helper for hire with expertise to 
-                ensure everything is secure, accurate, 
-                and submitted on time.
+                Stop panicking about your upcoming history exam. This is the ideal site to ask us for online history exam help; our online specialists are ready to help you prepare. We handle every test and quiz with intense care. With our professional online history exam help, we aim to help you achieve better grades in specific sections as well as in your overall coursework. So, let us quote &quot;take my history exam for me&quot;; we offer expert guidance to help you prepare for your history exam.
               </p>
             ),
             bullets: [
-              "Expert Takers",
-              "Guaranteed A and A Plus",
-              "24/7 Support",
-              "100% Confidential"
+              "Expert Tutor",
+              "Guaranteed Result",
+              "24 Hour Support",
+              "Safety and Security"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

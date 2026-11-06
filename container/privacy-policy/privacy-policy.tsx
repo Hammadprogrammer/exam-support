@@ -35,7 +35,7 @@ const PrivacyPolicy = () => {
         <motion.h1 className={styles.mainTitle} variants={itemVariants}>Privacy Policy</motion.h1>
         
         <motion.p className={styles.introText} variants={itemVariants}>
-          We take your privacy and personal information seriously in All Exam Help. The privacy policy is our statement of how we gather, use, and protect your information when you utilize our services. Through All Exam Help, you agree to the practices as outlined in this policy.
+          We take your privacy and personal information seriously in Exam Support Online. The privacy policy is our statement of how we gather, use, and protect your information when you utilize our services. Through Exam Support Online, you agree to the practices as outlined in this policy.
         </motion.p>
 
         <div className={styles.policyContent}>

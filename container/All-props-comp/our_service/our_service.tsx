@@ -92,7 +92,7 @@ const OurService = ({ services, h6, h4, description }: OurServiceProps) => {
           <div className={styles.h4Wrapper}>
             <h4 className={styles.h4}>{h4}</h4>
             <svg className={styles.wavyLine} viewBox="0 0 100 20" preserveAspectRatio="none">
-              <path d="M0,10 C10,10 10,15 20,15 C30,15 30,10 40,10 C50,10 50,15 60,15 C70,15 70,10 80,10 C90,10 90,15 100,15" fill="none" stroke="#4CAF50" strokeWidth="2" strokeLinecap="round" />
+              <path d="M0,10 C10,10 10,15 20,15 C30,15 30,10 40,10 C50,10 50,15 60,15 C70,15 70,10 80,10 C90,10 90,15 100,15" fill="none" stroke="#f9a825" strokeWidth="2" strokeLinecap="round" />
             </svg>
           </div>
           <p className={styles.description}>{description}</p>

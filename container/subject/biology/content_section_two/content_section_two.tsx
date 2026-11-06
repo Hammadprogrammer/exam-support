@@ -4,12 +4,12 @@ import ContentSectionTwo from "@/container/All-props-comp/content_section_two/co
 const ContentSectionTwoHome = () => {
   return (
     <ContentSectionTwo
-      title1="Experienced Biology Exam Takers for Hire to Guide Your Biology Studies"
-      desc1="Our biology tutors are experts and individually hired for experience tutoring in their respective levels, you’ll get access to expert help and advice, customized study plans, and practice resources at a cost that’s right for your budget. This makes it easier to stay in school and focus on learning instead of worrying about money. We also offer special rates for extended study plans and group sessions, so you can split the price with your friends and get expert help for every big exam. They do this in ways that show the relevance of the subject and can provide authentic examples based on real-life informality. Tutors also instruct in study habits, memory tools, and exam tactics that make learning more successful and less stressful."
-      desc2="We know that safety and privacy are important to you when looking for an online exam helper. All your sessions, study resources, and personal details are safe with us. You can feel free to ask questions and get an in-depth explanation without the fear of a confidentiality breach. With our safe and secure online platform, students can now concentrate on learning without interruptions or hesitation. Whether you have a difficult, challenging, or tricky midterm, our tutors can help you to learn what you need, when you need it. Students communicate freely with tutors, which facilitates comprehension and improves performance in all biology-related topics."
-      title2="Secure and Private Online Biology Exam Help Services"
-      img1="/ctwo.jpg"
-      img2="/sthree.jpg"
+      title1="Expert Tutor Available To Take Your Biology Class Online"
+      desc1="Biology students face a stressful routine of daily classes, regular assignments, and weekly quizzes. For this reason, they often feel the need to seek professional and reliable support. And Exam Support Online is doing the same. We have vetted biology experts who are not just random freelancers. We have onboarded them after they passed our strict requirements. So you don't need to worry about that. Here, we also assure you that you'll receive assistance that not only helps you achieve better results but also keeps you updated on weekly progress. This way you can better get confident about the biology course."
+      desc2="Your money is valuable; spend it wisely! Here, we completely understand that students are already struggling with their academic responsibilities. For this reason, we always believe in helping them securely without charging any extra amount. We design our system in a way where you can ask any question and can get an in-depth explanation without worrying about a breach of confidentiality. With our safe and secure platform, students come to us session after session because we take it as our highest priority to protect their personal details and provide reliable support throughout their biology courses."
+      title2="Reliable Take My Biology Exam Service With Guaranteed Exam Success"
+      img1="/img/subject/1.jpg"
+      img2="/img/subject/2.png"
     />
   );
 };

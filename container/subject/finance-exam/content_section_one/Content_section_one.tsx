@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Reliable Finance Exam Assistance with Online Exam Help"
-        description1="Designed to ensure students can effortlessly succeed in exams. We are one of the world's leading expert teams. We can help you achieve with our professional finance exam help. As part of our online exam help, we help you navigate every stage of your exam, from start to finish. With our financial exam team, we ensure every paper is completed with accuracy, privacy, and submitted on time. We ensure deadlines will never be an issue. The exam taker will have the exam done to your details and your specifications. Don't stress about complicated financial calculations or a financial case study, we'll complete everything on your behalf! By engaging our remote exam help services, you'll have our secure exam services with PhD experts that protect your documents."
-        heading2="Acquisition Finance Exam Helper – Reputable and Secure"
-        description2="When you hire exam helper, you can get access to highly skilled individuals under very limited circumstances. Finance exam helpers for hire have many years of experience working with exams. They confirm that they will not compromise on anything about your career. We are equipped to grease the wheels while maintaining confidentiality. We will complete any project on time. We value your privacy and security systems. Use our exam help services to help improve your grades without the agony of preparing and studying alone. The finance exam helps us deliver a 100% satisfaction rate. We are acquainted with students from all around the world. You can choose us for reliable service to support their exam results."
-        image1="/c14.jpg"
-        image2="/contentone.jpg"
+        heading1="Take My Finance Exam For Me With Full Security"
+        description1="Are you stressed about how to keep your personal information secure? First of all, Exam Support Online never hires freelance tutors who may leak your information. We have vetted, degree-holding professionals who guide you through concepts, provide sample assignment solutions, and explain how to approach questions with confidence. Students often consider it a risk to get help with their online finance exams. But here, you can feel confident because we take every measure to secure your information and never share it with anyone without your consent."
+        heading2="Get Affordable Pricing on Our Quality Finance Help"
+        description2="Finance students already know how fast money disappears, between tuition, textbooks, and that BA II Plus calculator that somehow costs a fortune. So, the last thing you need is tutoring that eats up the rest of your budget. Here, we have kept our finance help priced for real students. You can pick one session before a midterm, a few sessions around a tough chapter like capital budgeting, or a full semester plan if you want steady support. Every price is shown upfront, so nothing extra pops up when you check out. Plus, your first session comes with a discount, which makes it easy to try us out first. And you know, a lower price doesn’t mean a lower standard. Our tutors still walk you through NPV, WACC, and bond valuation step by step until it clicks."
+        image1="/img/subject/3.jpg"
+        image2="/img/subject/4.png"
       />
     </>
   );

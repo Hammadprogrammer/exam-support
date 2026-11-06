@@ -19,7 +19,7 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Hire Computer Science Exam Tutors Online - All Exam Help",
+  title: "Hire Computer Science Exam Tutors Online - Exam Support Online",
   description: "Contact secure online exam help from professionals that ensure accuracy, confidentiality and submission. Our PhD specialists provide trusted computer science exam help with guaranteed top results.",
   alternates: {
     canonical: "/computer-exam/",

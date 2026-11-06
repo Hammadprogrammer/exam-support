@@ -9,22 +9,19 @@ const HeroSection = () => {
         slides={[
           {
             topText: "Economics Exam Help",
-            heading: <>Get Cheap Economics Exam Assistance Solutions</>,
+            heading: <>Pay a Top-Rated Tutor for Your Economics Exam Preparation</>,
             subText: (
               <p>
-                At our reliable online exam help portal, you can trust. 
-                We facilitate and support students by connecting them 
-                to professional experts. If students are hiring an exam 
-                taker, we want students to relax.
+                Do not suffer in silence when preparing for online economics exams. It will not only affect your grades but also your mental health. We have hired PhD-qualified tutors who excel in economics and can help you prepare for your exams while protecting your academic progress. Here, we promise that our professional tutors provide reliable academic support while handling your personal information carefully. We also aim to help you improve your grades while you take back your nights and weekends.
               </p>
             ),
             bullets: [
-              "Secure Login",
-              "Quick Turnaround",
-              "Verified Experts",
-              "Customized Solutions"
+              "Master's and PhD Experts",
+              "100% Money-Back Guarantee",
+              "Punctuality",
+              "Security"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/img/subject/hero-section-bg-img.jpg"
           }
         ]}
       />

@@ -19,8 +19,8 @@ import GetQuoteHome from '@/container/home/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
 
 export const metadata: Metadata = {
-  title: "Physics Exam, Online Physics Exam Help Services by Experts",
-  description: "Beat Physics Exam Stress Today! Get Trusted Online Physics Exam Help, Simple Explanations, and Fast Support to Raise Your Grades without Breaking Your Budge.",
+  title: "Physics Exam Help - Pay Someone to Help with My Online Physics Exam",
+  description: "Beat physics exam stress with Exam Support Online. PhD-level physics tutors offer step-by-step guidance, 24-hour support, and complete privacy to help you reach A or B grades.",
   alternates: {
     canonical: "/physics-exam/",
   },

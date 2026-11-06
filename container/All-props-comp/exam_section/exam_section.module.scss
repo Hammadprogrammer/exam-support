@@ -21,7 +21,7 @@
   .badge {
     display: inline-block;
     padding: 6px 16px;
-    background: rgba(26, 188, 156, 0.1);
+    background: rgba(249, 168, 37, 0.1);
     color: #1abc9c;
     border-radius: 50px;
     font-size: 0.85rem;
@@ -88,8 +88,8 @@
     transform: translateY(-5px);
 
     .iconCircle {
-      background: #4da8da; 
-      box-shadow: 0 8px 20px rgba(26, 188, 156, 0.3);
+      background: #2a4d8f; 
+      box-shadow: 0 8px 20px rgba(249, 168, 37, 0.3);
     }
 
     .iconInner {
@@ -99,7 +99,7 @@
 
     /* Hover par green ki jagah blue color */
     .subjectName {
-      color: #4da8da; 
+      color: #2a4d8f; 
     }
   }
 }
@@ -134,7 +134,7 @@
 }
 
 .iconInner {
-  color: #4da8da; /* Original Blue Icon Color */
+  color: #2a4d8f; /* Original Blue Icon Color */
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: 1;
   display: flex;
@@ -175,10 +175,10 @@
   transition: all 0.3s ease;
 
   &:hover {
-    background: #4da8da;
+    background: #2a4d8f;
     color: #fff;
-    border-color: #4da8da;
-    box-shadow: 0 6px 20px rgba(26, 188, 156, 0.3);
+    border-color: #2a4d8f;
+    box-shadow: 0 6px 20px rgba(249, 168, 37, 0.3);
   }
 
   &.prevBtn {
