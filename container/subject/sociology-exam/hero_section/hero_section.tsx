@@ -24,7 +24,7 @@ const HeroSection = () => {
               "Urgent Exam Availability",
               "Reliable Timely Guidelines"
             ],
-            bgImage: "/img/subject/hero-section-bg-img.jpg" 
+            bgImage: "/subject/hero.jpg" 
           }
         ]}
       />

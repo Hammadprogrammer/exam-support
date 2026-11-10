@@ -38,10 +38,10 @@ const ServicesOne = () => {
           >
             <div className={styles.imageWrapper}>
               <div className={styles.mainImage}>
-                <Image src="/img/experts/1.jpg" alt="Student studying" width={400} height={500} />
+                <Image src="/our-experts/3.jpg" alt="Student studying" width={400} height={500} />
               </div>
               <div className={styles.smallImage1}>
-                <Image src="/img/experts/2.jpg" alt="Team meeting" width={250} height={200} />
+                <Image src="/our-experts/2.jpg" alt="Team meeting" width={250} height={200} />
               </div>
               <div className={styles.iconBox}>
                 <div className={styles.iconInner}>

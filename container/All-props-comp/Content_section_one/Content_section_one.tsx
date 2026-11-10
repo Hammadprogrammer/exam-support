@@ -78,7 +78,7 @@ const ContentOne: React.FC<ContentSectionProps> = ({
             {(image1 || !image2) && (
               <div className={`${styles.imageBox} ${styles.imageBox1}`}>
                 <img
-                  src={image1 || "/contentone.jpeg"}
+                  src={image1 || "/subject/3.jpg"}
                   alt={h1 || "Student Success"}
                   loading="lazy"
                 />

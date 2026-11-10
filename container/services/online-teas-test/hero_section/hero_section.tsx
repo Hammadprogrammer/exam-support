@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Privacy always protected",
               "Trusted by nursing students"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Reliable ATI TEAS Test Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Perfect for busy students",
               "Boost confidence and results"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Expert Guidance Anytime",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Experienced ATI TEAS helpers",
               "Never face exams alone"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

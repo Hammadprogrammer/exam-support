@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Experienced exam takers",
               "Expert exam assistance"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Premium CompTIA Exam Help Online",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "PhD professionals",
               "Guaranteed high scores"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Timely Submission",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Refund policy",
               "Technical experts"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

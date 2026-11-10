@@ -20,8 +20,8 @@ const ContentThree: React.FC<ContentProps> = ({
   description1, 
   heading2, 
   description2, 
-  image1 = "/sthree.jpg", 
-  image2 = "/content_two_1.png",
+  image1 = "/subject/5.png", 
+  image2 = "/subject/1.jpg",
   topHeading,
   topDescription,
   features
@@ -101,4 +101,4 @@ const ContentThree: React.FC<ContentProps> = ({
   );
 };
 
-export default ContentThree;
+export default ContentThree;

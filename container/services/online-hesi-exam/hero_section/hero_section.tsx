@@ -17,7 +17,7 @@ const HeroSection = () => {
               "24/7 Live Support",
               "Affordable Prices"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "HESI Exam Help",
@@ -28,7 +28,7 @@ const HeroSection = () => {
               "Practice HESI Examinations",
               "Quick and quality Service within your time"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Study Smarter, Score Higher",
@@ -40,7 +40,7 @@ const HeroSection = () => {
               "Live One-on-one tutoring sessions",
               "Student Only Discounts"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

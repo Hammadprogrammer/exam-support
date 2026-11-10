@@ -17,7 +17,7 @@ const HeroSection = () => {
               "High scores assured",
               "Cost-friendly services"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Stress-Free Exam Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Safe and discreet process",
               "Perfect for busy students"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Get Full-Time Help",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "24/7 live support",
               "Affordable pricing for students"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

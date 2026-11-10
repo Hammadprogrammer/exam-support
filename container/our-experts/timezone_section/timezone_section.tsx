@@ -20,7 +20,7 @@ const TimezoneSection = () => {
           >
             <div className={styles.imageWrapper}>
               {/* Keeping your original image path */}
-              <Image src="/img/experts/6.jpg" alt="Global support" width={600} height={450} />
+              <Image src="/our-experts/6.jpg" alt="Global support" width={600} height={450} />
             </div>
           </motion.div>
 

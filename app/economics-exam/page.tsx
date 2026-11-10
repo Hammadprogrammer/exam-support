@@ -1,49 +1,18 @@
 import React from 'react'
 import type { Metadata } from 'next'
-import HeroSection from '@/container/subject/economics-exam/hero_section/hero_section'
-import OurServiceSection from '@/container/services/online-exam-help/our_service/our_service'
-
-import ContentSectionOne from '@/container/subject/economics-exam/content_section_one/Content_section_one'
-
-import CounterSectionHome from '@/container/services/online-exam-help/counter_section/counter_section'
-import ExamSection from '@/container/home/exam_section/exam_section'
-
-import ContentSectionTwoHome from '@/container/subject/economics-exam/content_section_two/content_section_two'
-
-import AboutTeamHome from '@/container/services/online-exam-help/about_team/about_team'
-
-import WhyStudentHireSection from '@/container/home/why_student_hire/why_student_hire'
-import FeatureSectionHome from '@/container/home/feature_section/feature_section'
-import TrustedByHome from '@/container/home/trusted_by/trusted_by'
-import GetQuoteHome from '@/container/home/get_quote/get_quote'
-import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
+import SubjectPage from '@/container/subject/subject_page/subject_page'
+import data from '@/container/subject/economics-exam/data'
 
 export const metadata: Metadata = {
-  title: "Economics Exam Help - Take My Online Economics Exam",
-  description: "Prepare for your online economics exam with PhD-qualified tutors at Exam Support Online. Secure, affordable economics exam support with a money-back guarantee and 24/7 help.",
+  title: "Pay Someone to Take My Online Economics Exam for Me and Get an A",
+  description: "Exam Support Online is an advanced service provider where you can get online class help at highly affordable rates.",
   alternates: {
     canonical: "/economics-exam/",
   },
 }
 
 const page = () => {
-  return (
-    <>
-      <HeroSection />
-      <OurServiceSection />
-      <CounterSectionHome />
-      <ContentSectionTwoHome />
-      <AboutTeamHome />
-      <ContentSectionOne />
-      <ExamSection />
-      <WhyStudentHireSection />
-      <FeatureSectionHome />
-      <TrustedByHome />
-      <GetQuoteHome />
-      <ClientReviewsHome />
-    </>
-  )
+  return <SubjectPage data={data} />
 }
 
 export default page
-

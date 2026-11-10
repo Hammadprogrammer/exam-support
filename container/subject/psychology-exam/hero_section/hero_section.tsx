@@ -23,7 +23,7 @@ const HeroSection = () => {
               "Quick Help for Tough Questions and Case Studies",
               "Several Class Times to Accommodate Your Busy"
             ],
-            bgImage: "/img/subject/hero-section-bg-img.jpg" 
+            bgImage: "/subject/hero.jpg" 
           }
         ]}
       />

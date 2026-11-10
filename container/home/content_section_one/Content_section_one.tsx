@@ -4,12 +4,12 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Best Online Exam Help You Can Access Anytime, Anywhere!"
-        description1="When a student demands that someone take their online exam, this doesn't mean they can't take their exam on their own. Often, it's because of low confidence. This makes it difficult for them to express new ideas clearly in writing and demonstrate what they've learned during exams. For all these problems, we have a solid solution. Our expert tutors are ready to collaborate with you and guide you in the right direction, helping you improve your chances of academic success while giving you peace of mind and better results with full cognitive potential."
-        heading2="I Want To Hire Someone To Take My Exam and Get Full Assistance Without Stress"
-        description2="No doubt exams put lots of pressure on students, which can even ruin students' grades. Our expert tutors are here to help you understand difficult topics, even those you have been avoiding for so long. They give you full help with time management, question strategy, and the topics you keep getting wrong. Here, we also promise to keep your privacy and personal information protected at all times. We completely understand how difficult it can be to trust someone with your online exam preparation, but here we assure you that our dedicated team will help you build confidence, improve your performance, and achieve better results."
-        image1="/img/home/1.png"
-        image2="/img/home/2.png"
+        heading1="Pay Someone to Take My Exam for Me with Confidence"
+        description1="Stress about exams is natural, but you don’t have to face it alone. Our professional online exam takers provide you with the security you need to get the results you desire from even the most challenging exams. We provide safe, secure, and confidential guidance and make sure that your privacy will never be shared with any third party. We are the first resource that not only has a high success rate but also promises you peace of mind, better grades, and the confidence to do well on the rest of the test. Whatever the topic or the exam type, we have experts to help you! Choose us today, and you will experience a difference in your success."
+        heading2="Stress-Free Do My Exam for Me Service – Pass without Worry"
+        description2="Exams can create a lot of pressure and anxiety, but with our do my exam help, all you have to do is sit back and rely on our professionals to assist you. We have you covered from the subject by subject, everything is broken down and explained until it makes sense, even the “hard” stuff. From answering questions to time management, our experts ensure that your experience is a hassle-free one. We keep your privacy, security, and grades protected at all times. We know how annoying this is for you, and we're ready to take on the work because your privacy, security, and grades are always protected for you! With our confidence boost and 24/7 support, all of your exams will seem easy, guaranteed!"
+        image1="/home/2.png"
+        image2="/home/3.jpg"
       />
     </>
   );

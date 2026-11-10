@@ -28,7 +28,7 @@ const CallToAction = () => {
           >
             <div className={styles.imageBox}>
               <Image 
-                src="/cta1.jpg" 
+                src="/about/3.png" 
                 alt="CTA Image" 
                 width={600} 
                 height={500}

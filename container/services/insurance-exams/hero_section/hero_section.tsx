@@ -17,7 +17,7 @@ const HeroSection = () => {
               "24/7 Student Assistance",
               "Cost-Value Packages"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Satisfied Experts",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Timely assistance and result-driven plans",
               "24/7 availability of experts"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Get On-Time",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Interactive, engaging, and private online sessions",
               "Discounts for loyal clients"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

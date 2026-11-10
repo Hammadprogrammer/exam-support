@@ -38,7 +38,7 @@ const page = () => {
                   <ContentSectionOne />
                   <ExamSection />
 
-      <WhyStudentHireSection />
+      <WhyStudentHireSection centerImage="/service/vector.jpg" />
 
       <ContentSectionThree />
       <FeatureSectionHome />

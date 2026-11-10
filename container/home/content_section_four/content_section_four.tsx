@@ -4,12 +4,12 @@ import ContentFour from "@/container/All-props-comp/content_section_four/content
 const ContentSectionFour = () => {
   return (
     <ContentFour
-      heading="Academic Success Starts With Reliable Online Exam Assistance"
-      description="Lowering the pressure and reducing the constant daily struggle, including work and everything else, doesn’t make your exam go well. Sometimes you just need support that handles everything on its own. It doesn't mean you haven’t tried, but that there just wasn’t enough time to handle everything on your own. We've seen a lot of cases like this. That's why our tutors don't just hand you notes and leave. They sit with you and explain every topic until you fully understand it. And for exams, they keep updating you on what you're studying and how you're progressing, while keeping your safety and security in mind."
-      subHeading="Taking My Online Exam Is Easier With Our Expert Tutor"
-      subDescription="We maintain a private and secure environment to ensure students receive professional exam help from our experienced tutor. Our system is based around professional help from our experienced tutor; for this reason, they maintain accuracy, privacy, and a detail-oriented approach in their entire work. We also conduct weekly personalized sessions to explain difficult concepts in detail, helping students cover topics in less time. Our tutors continue to sit with students, explaining each concept step by step to help them avoid common mistakes and complete their exam preparation smoothly and without unnecessary interruptions."
-      image1="/img/home/8.jpg"
-      image2="/img/home/9.jpg"
+      heading="Guaranteed Success for Do My Online Exam for Me"
+      description="Students put in a lot of effort and manage their time and anxiety to get over their challenges, but regrettably, sometimes they fail because of too much stress and not enough time. Our professionals provide safe handling, tried-and-true formulae, and personalized tech assistance to help you get out of the toughest circumstances. We help you score higher in your online exam more comfortably. We guide you throughout the process, making sure you know every step of the exam. Backed by You do the best you can to be prepared, and do your best, and we'll help with problems and tricky questions. Count on our expert guidance to get you the advantage you need for sure success."
+      subHeading="Take My Exam is the Easy Way with Our Tutors"
+      subDescription="With our tutors at your disposal, exams don’t need to be so stressful. We offer high-quality, proven preparation so you can be confident and ready to take on every question. Our staff maintains absolute discretion and employs successful methods for optimizing your results. With personalized instruction, you'll get more done in less time, tackle hard concepts, and really concentrate on what's important. With a wealth of experience and a proven record of success, we’re here to help make sure passing your online exam is easy, effortless, and rewarding. We help accommodate your individual exam studying needs with a custom-made study package that works around your availability. We want you to feel confident and have reliable results, EVERY single time! With us, it’s no longer just a good grade that you can be sure of, but an amazing one!"
+      image1="/home/10.jpg"
+      image2="/home/11.jpg"
     />
   );
 };

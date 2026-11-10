@@ -4,14 +4,16 @@ import Hero from '@/container/All-props-comp/hero-setion/hero_section';
 
 const HeroSection = () => {
   const heroBullets = [
-    "Smart Study Plans",
-    "Expert Tutors",
-    "Less Stress",
-    "Real Progress"
+    "Smart Study Methods",
+    "Expert Guidance",
+    "Stress-Free Learning",
+    "Proven Success"
   ];
 
   const heroBgImages = [
-    "/img/home/hero-section.jpg"
+    "/home/hero.jpg",
+    "/home/1.png",
+    "/home/9.jpg"
   ];
 
   return (
@@ -19,11 +21,11 @@ const HeroSection = () => {
       <Hero 
         topText="Study Less Score More"
         heading={
-          <>Pay Someone To Take My Exam<br/>and Chase Your Dream Results</>
+          <>Do My Exam For Me<br/>Service To Boost Score,</>
         }
         subText={
           <p>
-            Many online academic support services outsource their work to third-party agencies, which can result in security warnings within the learning system. We connect you with vetted professional tutors who help you learn more, faster, and easier. Don&apos;t lose your chance to score higher grades. Consult with our trained staff available 24/7, and get the academic support you need to make your grades skyrocket.
+            All Exam Help offers a smart way to learn with online support and guidance. We concentrate on helping you learn more, faster, and easier. No overthinking, just confidence . we&apos;re behind you all the way.
           </p>
         }
         bullets={heroBullets}

@@ -53,7 +53,7 @@ const AboutTeam: React.FC<AboutTeamProps> = ({
   heading = "Reliable Trusted Experts to Take Exam for Me",
   statValue = 85,
   statLabel = "Satisfied Students and parents",
-  imageSrc = "/sthree.jpg",
+  imageSrc = "/subject/1.jpg",
   features = [
     {
       icon: <AutoStoriesIcon />,

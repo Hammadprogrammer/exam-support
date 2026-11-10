@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Course can be done at any time",
               "Focuses on great grades"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Help with an Online Course",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Submissions for every course",
               "Get remarkable success"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Online Course Help",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Development of personalized strategies",
               "Monitor students and the course process"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

@@ -29,7 +29,7 @@ interface WhyStudentHireProps {
 const WhyStudentHire: React.FC<WhyStudentHireProps> = ({
   heading = "Why Students Hire Our Fast, Simple, and Secure Take My Exam Assistance",
   subHeading = "We make taking exams easy, effortless, and safe with the help of trusted industry experts. Our team guarantees the most discreet and professional exam assistance, with the best outcomes. With us, you get peace of mind and the grades you've always desired.",
-  centerImage = "/stt.png",
+  centerImage = "/home/Vector image.jpg",
   featuresLeft = [
     {
       icon: <HandshakeIcon />,

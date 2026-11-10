@@ -11,7 +11,7 @@ const HeroSection = () => {
       {/* 1. Main Background Image */}
       <div className={styles.bgLayer}>
         <Image 
-          src="/bg-shape-1.png" 
+          src="/about/bg-shape-1.png" 
           alt="background" 
           fill 
           priority 
@@ -51,7 +51,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
         >
           <div className={styles.imgContainer}>
-            <Image src="/about2.jpg" alt="about" fill />
+            <Image src="/about/2.jpg" alt="about" fill />
             
             {/* 4 Year Badge on top of image */}
             <motion.div 

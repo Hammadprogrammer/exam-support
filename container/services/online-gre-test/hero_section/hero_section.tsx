@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Guaranteed higher scores",
               "Stress-free process"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "GRE Success Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Time-saving tips",
               "Score-boosting practice"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Guaranteed GRE Success",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Confidential and safe process",
               "Perfect for busy students"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

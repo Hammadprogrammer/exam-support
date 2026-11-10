@@ -9,10 +9,11 @@ const AboutTeamHome = () => {
       heading="Reliable Trusted Experts to Take Exam for Me"
       statValue={85}
       statLabel="Satisfied Students and parents"
-      imageSrc="/about.jpg"
+      imageSrc="/service/1.jpg"
     />
   );
 };
 
 export default AboutTeamHome;
+
 

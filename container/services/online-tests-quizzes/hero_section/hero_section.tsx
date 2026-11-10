@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Round-the-Clock Support",
               "Student-Friendly Pricing"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Stress-Free test Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Safe and discreet process",
               "Perfect for busy students"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Guaranteed top Results",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "High scores assured",
               "Affordable test-taking service"
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

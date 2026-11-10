@@ -1,49 +1,18 @@
 import React from 'react'
 import type { Metadata } from 'next'
-import HeroSection from '@/container/subject/finance-exam/hero_section/hero_section'
-import OurServiceSection from '@/container/services/online-exam-help/our_service/our_service'
-
-import ContentSectionOne from '@/container/subject/finance-exam/content_section_one/Content_section_one'
-
-import CounterSectionHome from '@/container/services/online-exam-help/counter_section/counter_section'
-import ExamSection from '@/container/home/exam_section/exam_section'
-
-import ContentSectionTwoHome from '@/container/subject/finance-exam/content_section_two/content_section_two'
-
-import AboutTeamHome from '@/container/services/online-exam-help/about_team/about_team'
-
-import WhyStudentHireSection from '@/container/home/why_student_hire/why_student_hire'
-import FeatureSectionHome from '@/container/home/feature_section/feature_section'
-import TrustedByHome from '@/container/home/trusted_by/trusted_by'
-import GetQuoteHome from '@/container/home/get_quote/get_quote'
-import ClientReviewsHome from '@/container/services/online-exam-help/client_reviews/client_reviews'
+import SubjectPage from '@/container/subject/subject_page/subject_page'
+import data from '@/container/subject/finance-exam/data'
 
 export const metadata: Metadata = {
-  title: "Finance Exam Help - Hire an Expert for My Online Finance Exam",
-  description: "Get confidential, affordable finance exam help from master's and PhD tutors at Exam Support Online. Master valuation, risk modeling, and quantitative analysis to secure better grades.",
+  title: "Get Expert Help to Prepare for My Proctored Finance Exam for Better Performance",
+  description: "If you are looking for expert help with your finance exam, get our professional help and boost your grades.",
   alternates: {
     canonical: "/finance-exam/",
   },
 }
 
 const page = () => {
-  return (
-    <>
-      <HeroSection />
-      <OurServiceSection />
-      <CounterSectionHome />
-      <ContentSectionTwoHome />
-      <AboutTeamHome />
-      <ContentSectionOne />
-      <ExamSection />
-      <WhyStudentHireSection />
-      <FeatureSectionHome />
-      <TrustedByHome />
-      <GetQuoteHome />
-      <ClientReviewsHome />
-    </>
-  )
+  return <SubjectPage data={data} />
 }
 
 export default page
-

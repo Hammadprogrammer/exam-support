@@ -23,9 +23,9 @@ interface HeroProps {
 }
 
 const defaultBgImages = [
-  "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?q=80&w=1949&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop"
+  "/home/hero.jpg",
+  "/home/1.png",
+  "/home/9.jpg"
 ];
 
 const slideVariants: Variants = {

@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Timely submission of work",
               "Quality assurance guaranteed"
             ],
-            bgImage: "/bg1.avif"
+            bgImage: "/service/hero.jpg"
           },
           {
             topText: "Professional Assignment Experts",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Secure and safe operations",
               "Guaranteed quality"
             ],
-            bgImage: "/bg2.avif"
+            bgImage: "/service/7.jpg"
           },
           {
             topText: "Guaranteed Secure Online Help",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Timely and Reliable Service",
               "Order Expert Professional."
             ],
-            bgImage: "/bg3.avif"
+            bgImage: "/service/9.jpg"
           }
         ]}
       />

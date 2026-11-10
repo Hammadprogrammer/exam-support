@@ -4,12 +4,12 @@ import ContentFive from "@/container/All-props-comp/content_section_five/content
 const ContentSectionFive = () => {
   return (
     <ContentFive
-      heading="Is It Possible to Increase CGPA By Paying Someone to Do My Online Exam"
-      description="If you are thinking of paying someone to do your exam, first consider your school’s rules. Most universities treat it as academic misconduct, and the risk to your grades and enrollment is far bigger than one exam. That’s why we connect you with an expert tutor. We have carefully selected a team of qualified tutors with academic expertise in many different subjects. And you know, they handle every exam while keeping you in touch about what's going on in your course. We have designed our system to make exams safer, with personalized sessions built around your course and your exam dates. Over time, those improved scores add up, and that’s how your CGPA starts to rise the right way."
-      subHeading="Get Excellent Service With Our Do My Online Exam for Me Support"
-      subDescription="Online exam services have become increasingly popular due to the rise of online learning, which has also increased the demand for remote exam support. Services like online exam support are designed to help students with the right support and guidance while preparing for exams through an online platform and tool. One of the primary reasons students turn to us for online exams is the convenience we provide. This means we adjust to your exam prep needs and offer customized solutions that lead to exam success. So you can study effectively, improve your performance and rely on our academic support without taking unnecessary stress."
-      image1="/img/home/10.jpg"
-      image2="/img/home/11.jpg"
+      heading="Pay Someone to Take My Exam with a Proven Success Rate"
+      description="Easily get an A or even an A+ without cracking your head when you hire our professional exam takers who are trusted by students in different areas of study. Being experienced and well accomplished, our professionals make sure you give the correct answers to help you manage your exam time more efficiently. Each service is 100% safe and confidential, so you can have peace of mind. Our experts offer assistance as per your exam requirements. When you select take my online exam for me, you have the freedom to concentrate on your studies and spare time for your friends."
+      subHeading="Do My Online Exam for Me to Score Higher"
+      subDescription="Achieve higher results with ease by hiring us. Our tutors are experts in many different subjects, and they provide accurate and dependable support that can guarantee your success in any exam. Whether it’s personalized instruction, proven strategies, or managing time, the most challenging exams can be streamlined. We secure total privacy and confidentiality, so you can focus on performing well without any concern. Our experience and commitment will help you not only to pass but to excel, thus it will be a lot easier for you to achieve your academic goals confidently. Our expert consultants will be happy to help. They adjust to your exam prep needs, providing customized support that leads to exam success. You can just focus more on studying effectively and get higher scores, with less stress and time!"
+      image1="/home/1.png"
+      image2="/home/4.png"
     />
   );
 };
