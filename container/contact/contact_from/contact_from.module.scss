@@ -51,7 +51,7 @@
     padding: 40px;
     border-radius: 20px;
     box-shadow: 0 10px 50px rgba(0, 0, 0, 0.08);
-    border: 1px solid #f1f5f9;
+    border: 1px solid #dbe2f0;
     
     @media (max-width: 768px) {
       padding: 30px 20px;
@@ -71,21 +71,21 @@
       label {
         font-size: 0.95rem;
         font-weight: 600;
-        color: #4b5563;
+        color: #4a5578;
         
         span {
-          color: #ef4444;
+          color: #e09500;
         }
       }
 
       input, textarea {
         width: 100%;
         padding: 15px 20px;
-        border: 1px solid #e2e8f0;
+        border: 1px solid #dbe2f0;
         border-radius: 8px;
         font-size: 1rem;
         transition: all 0.3s ease;
-        background-color: #f8fafc;
+        background-color: #f7f9fd;
         color: #000000; // Black text when typing
 
         &:focus {
@@ -96,7 +96,7 @@
         }
 
         &::placeholder {
-          color: #94a3b8;
+          color: #8a97b8;
         }
       }
 
@@ -119,7 +119,7 @@
       box-shadow: 0 4px 12px rgba(22, 48, 92, 0.2);
 
       &:hover {
-        background-color: #4a9bd9;
+        background-color: #f9a825;
         transform: translateY(-2px);
         box-shadow: 0 6px 20px rgba(22, 48, 92, 0.3);
       }
@@ -168,7 +168,7 @@
     }
 
     p {
-      color: #64748b;
+      color: #4a5578;
       line-height: 1.6;
     }
   }

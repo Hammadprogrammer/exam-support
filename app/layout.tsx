@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://allexamhelp.com'),
+  metadataBase: new URL('https://examsupportonline.com'),
   title: "Exam Support Online",
   description: "Get expert assistance for your classes and assignments with Exam Support Online.",
   // Client ka Google Search Console verification code

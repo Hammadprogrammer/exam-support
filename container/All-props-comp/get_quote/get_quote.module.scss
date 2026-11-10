@@ -10,7 +10,7 @@
   .topLabel {
     font-size: 16px;
     font-weight: 600;
-    color: #333;
+    color: #1f2a44;
     display: block;
     margin-bottom: 8px;
     text-transform: uppercase;
@@ -36,7 +36,7 @@
 
   .subText {
     font-size: 16px;
-    color: #555;
+    color: #4a5578;
     max-width: 650px;
     margin: 0 auto;
     line-height: 1.6;
@@ -57,7 +57,7 @@
 // Left Column: Contact Info
 .contactCol {
   flex: 1;
-  background: #f8f9fa;
+  background: #f7f9fd;
   border-radius: 20px;
   padding: 40px;
   display: flex;
@@ -76,7 +76,7 @@
 
   .contactDesc {
     font-size: 15px;
-    color: #666;
+    color: #4a5578;
     line-height: 1.6;
     margin-bottom: 35px;
     font-style: italic;
@@ -103,7 +103,7 @@
 
   .contactText {
     font-size: 16px;
-    color: #333;
+    color: #1f2a44;
     line-height: 1.4;
 
     strong {
@@ -147,7 +147,7 @@
 
   .formDesc {
     font-size: 14px;
-    color: #444;
+    color: #4a5578;
     text-align: center;
     margin-bottom: 30px;
     line-height: 1.5;
@@ -167,7 +167,7 @@
   input {
     width: 100%;
     padding: 15px 18px;
-    border: 1.5px solid #bdc3c7;
+    border: 1.5px solid #dbe2f0;
     border-radius: 10px;
     font-size: 15px;
     background: #ffffff;
@@ -183,7 +183,7 @@
     }
 
     &::placeholder {
-      color: #999; // Placeholder thoda light rakha hai contrast ke liye
+      color: #8a97b8; // Placeholder thoda light rakha hai contrast ke liye
     }
   }
 }
@@ -202,7 +202,7 @@
   box-shadow: 0 4px 6px rgba(224, 149, 0, 0.2);
 
   &:hover {
-    background-color: #218838;
+    background-color: #f9a825;
     transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(224, 149, 0, 0.3);
   }

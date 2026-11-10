@@ -177,7 +177,7 @@ const SubjectPage = ({ data }: { data: SubjectPageData }) => {
         contactHeading={getQuote.contactHeading}
         contactDescription={getQuote.contactDescription}
         phone="+12123476533"
-        email="info@allexamhelp.com"
+        email="info@examsupportonline.com"
         liveChatText='Live Chat: Type "Yes" to Start'
         formHeading={getQuote.formHeading}
         formDescription={getQuote.formDescription}

@@ -56,7 +56,7 @@ const ClientReviews = ({
               <svg className={styles.squiggle} viewBox="0 0 160 15" fill="none">
                 <path 
                   d="M2 10c15-10 30-10 45 0s30 10 45 0 30-10 45 0" 
-                  stroke="#7ED957" 
+                  stroke="#e09500" 
                   strokeWidth="5" 
                   strokeLinecap="round" 
                 />

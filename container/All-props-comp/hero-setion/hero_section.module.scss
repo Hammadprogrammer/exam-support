@@ -41,7 +41,7 @@
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 30px;
-    color: #e0e0e0;
+    color: #c9d4ea;
     @media (max-width: 480px) { font-size: 15px; }
   }
 }
@@ -103,7 +103,7 @@
 }
 
 .btnPrimary { background-color: #f9a825; color: #fff; }
-.btnSecondary { background-color: #5b7696; color: #fff; }
+.btnSecondary { background-color: #2a4d8f; color: #fff; }
 
 .formContainer {
   flex: 0.8;
@@ -117,7 +117,7 @@
   @media (max-width: 480px) { padding: 20px; }
 
   .formHeading {
-    color: #00234b;
+    color: #16305c;
     font-size: 18px;
     font-weight: 800;
     text-align: center;
@@ -133,10 +133,10 @@
   input {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ddd;
+    border: 1px solid #dbe2f0;
     border-radius: 5px;
     font-size: 14px;
-    color: #333;
+    color: #1f2a44;
     &:focus { border-color: #f9a825; outline: none; }
   }
 
@@ -150,10 +150,10 @@
   .selectedBox {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ddd;
+    border: 1px solid #dbe2f0;
     border-radius: 5px;
     font-size: 14px;
-    color: #333;
+    color: #1f2a44;
     background: #fff;
     display: flex;
     justify-content: space-between;
@@ -163,7 +163,7 @@
 
     &.active { border-color: #f9a825; }
     
-    .arrow { font-size: 10px; color: #666; }
+    .arrow { font-size: 10px; color: #4a5578; }
   }
 
   .optionsList {
@@ -172,7 +172,7 @@
     left: 0;
     width: 100%;
     background: #ffffff; // Hamesha White
-    border: 1px solid #ddd;
+    border: 1px solid #dbe2f0;
     border-radius: 5px;
     z-index: 100;
     padding: 0;
@@ -204,6 +204,6 @@
     font-weight: 800;
     cursor: pointer;
     text-transform: uppercase;
-    &:hover { background-color: #e69a28; }
+    &:hover { background-color: #e09500; }
   }
 }

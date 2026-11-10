@@ -2,8 +2,8 @@ RewriteEngine On
 
 # 1. Force HTTPS and Remove WWW (Sahi Hai)
 RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} ^www\.allexamhelp\.com [NC]
-RewriteRule ^(.*)$ https://allexamhelp.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^www\.examsupportonline\.com [NC]
+RewriteRule ^(.*)$ https://examsupportonline.com/$1 [L,R=301]
 
 # 2. Redirect index.php to Home Page
 # WordPress ki purani entry ko khatam karne ke liye
@@ -11,7 +11,7 @@ RewriteCond %{THE_REQUEST} ^.*/index\.php [NC]
 RewriteRule ^(.*)index\.php$ / [R=301,L]
 
 # 3. Next.js Static Pages Fix (Bina .html ke pages kholne ke liye)
-# Agar aapne about.html upload ki hai, to ye use hireclassbuddy.com/about par chalayega
+# Agar aapne about.html upload ki hai, to ye use examsupportonline.com/about par chalayega
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]

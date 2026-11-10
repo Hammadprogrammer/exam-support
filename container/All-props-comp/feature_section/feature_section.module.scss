@@ -1,7 +1,7 @@
 .featuresSection {
   padding: 60px 0;
-  background-color: #f4f7fc; // Light cyan background from screenshot
-  color: #333333;
+  background-color: #eef2fa; // Light navy tint background
+  color: #1f2a44;
 }
 
 .mainHeading {
@@ -9,7 +9,7 @@
   font-weight: 700;
   text-align: center;
   margin-bottom: 20px;
-  color: #e09500; // Green heading
+  color: #e09500; // Gold heading
 
   @media (max-width: 768px) {
     font-size: 28px;
@@ -20,7 +20,7 @@
   text-align: center;
   max-width: 800px;
   margin: 0 auto 50px;
-  color: #666666;
+  color: #4a5578;
   line-height: 1.6;
   font-size: 16px;
 
@@ -67,7 +67,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #64b5f6; // Light blue icon color
+  color: #1a237e; // Brand navy blue icon color
   
   svg {
     font-size: 50px;
@@ -78,12 +78,12 @@
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 12px;
-  color: #e09500; // Green card heading
+  color: #e09500; // Gold card heading
 }
 
 .cardDescription {
   font-size: 15px;
   line-height: 1.6;
-  color: #666666;
+  color: #4a5578;
   margin: 0;
-}
+}

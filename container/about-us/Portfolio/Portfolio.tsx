@@ -9,15 +9,15 @@ const Portfolio = () => {
   const portfolioItems = [
     {
       title: "Online Exam Help",
-      bgColor: "#e8f7f2", // Light green
-      btnColor: "#4a4a4a", // Dark grey
+      bgColor: "#eef2fa", // Light navy
+      btnColor: "#16305c", // Dark grey
       image: "/about/3.png", 
       btnText: "Join With Us →",
       url: "/online-exam-help"
     },
     {
       title: "Online PMP Exam",
-      bgColor: "#edf2ff", 
+      bgColor: "#eef2fa", 
       btnColor: "#16305c", // Blue
       image: "/about/4.png",
       btnText: "Join With Us →",
@@ -25,7 +25,7 @@ const Portfolio = () => {
     },
     {
       title: "GED Exams",
-      bgColor: "#edf2ff", // Light blue
+      bgColor: "#eef2fa", // Light blue
       btnColor: "#16305c", // Blue
       image: "/about/4.png",
       btnText: "Join With Us →",
@@ -33,8 +33,8 @@ const Portfolio = () => {
     },
     {
       title: "Proctored Exam Help",
-      bgColor: "#e8f7f2", // Light green
-      btnColor: "#4a4a4a", // Dark grey
+      bgColor: "#eef2fa", // Light navy
+      btnColor: "#16305c", // Dark grey
       image: "/about/3.png",
       btnText: "Join With Us →",
       url: "/proctored-exam-help"

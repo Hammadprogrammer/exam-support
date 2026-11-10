@@ -11,7 +11,7 @@ const Contenttwo = () => {
     imageUrl: "/about/2.jpg",
     imageAlt: "Our Mission",
     imageLeft: false, // Image on left, text on right
-    backgroundColor: "#f8f9fa" // Light gray background
+    backgroundColor: "#f7f9fd" // Light navy theme background
   };
 
   return <AboutSection {...contenttwoData} />;

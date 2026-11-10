@@ -86,7 +86,7 @@ const Navbar = () => {
 
   return (
     <div className={styles.navbarWrapper}>
-      <nav className="w-full bg-white border-b border-gray-100 shadow-sm fixed top-0 left-0 z-50">
+      <nav className="w-full bg-white border-b border-[#e6ebf5] shadow-sm fixed top-0 left-0 z-50">
         <div className="max-w-7xl mx-auto px-4 lg:px-8">
           <div className="flex justify-between items-center h-[90px]">
             {/* Logo */}
@@ -149,20 +149,20 @@ const Navbar = () => {
 
             {/* Desktop Action Buttons */}
             <div className="hidden lg:flex items-center space-x-3">
-              <a href="tel:+12123476533" className="flex items-center gap-1.5 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
+              <a href="tel:+12123476533" className="flex items-center gap-1.5 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
                 <PhoneInTalk fontSize="small" /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center gap-1.5 bg-[#28a745] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#218838] transition-colors">
+              <button onClick={openTawkToChat} className="flex items-center gap-1.5 bg-[#f9a825] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#e09500] transition-colors">
                 <Chat fontSize="small" /> Live Chat
               </button>
-              <Link href="/contact/" prefetch={false} className="flex items-center gap-1.5 bg-[#63a4ff] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#4d94f7] transition-colors">
+              <Link href="/contact/" prefetch={false} className="flex items-center gap-1.5 bg-[#16305c] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#2a4d8f] transition-colors">
                 Get Started <ArrowForward fontSize="small" />
               </Link>
             </div>
 
             {/* Mobile menu button */}
             <div className="lg:hidden flex items-center">
-              <button onClick={handleDrawerToggle} className="text-gray-800 p-2">
+              <button onClick={handleDrawerToggle} className="text-[#1f2a44] p-2">
                 <MenuIcon fontSize="large" />
               </button>
             </div>
@@ -173,9 +173,9 @@ const Navbar = () => {
       {/* Mobile Drawer */}
       <div className={`fixed inset-0 bg-black/50 z-[1000] transition-opacity duration-300 lg:hidden ${mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`} onClick={handleDrawerToggle}>
         <div className={`fixed inset-y-0 right-0 w-[300px] bg-white shadow-xl transform transition-transform duration-300 ease-in-out ${mobileOpen ? 'translate-x-0' : 'translate-x-full'}`} onClick={e => e.stopPropagation()}>
-          <div className="flex justify-between items-center p-5 border-b border-gray-100">
+          <div className="flex justify-between items-center p-5 border-b border-[#e6ebf5]">
             <Image src="/logo1.png" alt="Logo" width={150} height={48} className="w-auto h-10" />
-            <button onClick={handleDrawerToggle} className="text-gray-600">
+            <button onClick={handleDrawerToggle} className="text-[#4a5578]">
               <CloseIcon />
             </button>
           </div>
@@ -188,7 +188,7 @@ const Navbar = () => {
 
               <li className={`${styles.mobileListItem} ${(isCategoryActive('/services') || services.some(s => isActive(s.url))) ? styles.mobActive : ''}`} onClick={() => handleDropdown('ser')}>
                 <div className={styles.labelWithIcon}><School /> Services</div>
-                <KeyboardArrowDown sx={{ color: '#000', transform: openDropdown === 'ser' ? 'rotate(180deg)' : 'none', transition: '0.3s' }} />
+                <KeyboardArrowDown sx={{ color: '#1f2a44', transform: openDropdown === 'ser' ? 'rotate(180deg)' : 'none', transition: '0.3s' }} />
               </li>
               <div className={`overflow-hidden transition-all duration-300 ${openDropdown === 'ser' ? 'max-h-[1000px]' : 'max-h-0'}`}>
                 <div className={styles.mobileSubList}>
@@ -204,7 +204,7 @@ const Navbar = () => {
 
               <li className={`${styles.mobileListItem} ${(isCategoryActive('/subjects') || subjects.some(s => isActive(s.url))) ? styles.mobActive : ''}`} onClick={() => handleDropdown('sub')}>
                 <div className={styles.labelWithIcon}><AutoStories /> Subjects</div>
-                <KeyboardArrowDown sx={{ color: '#000', transform: openDropdown === 'sub' ? 'rotate(180deg)' : 'none', transition: '0.3s' }} />
+                <KeyboardArrowDown sx={{ color: '#1f2a44', transform: openDropdown === 'sub' ? 'rotate(180deg)' : 'none', transition: '0.3s' }} />
               </li>
               <div className={`overflow-hidden transition-all duration-300 ${openDropdown === 'sub' ? 'max-h-[1000px]' : 'max-h-0'}`}>
                 <div className={styles.mobileSubList}>
@@ -228,13 +228,13 @@ const Navbar = () => {
             </ul>
 
             <div className="p-5 mt-2 space-y-3">
-              <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-blue-500 to-blue-600 text-white px-4 py-3 rounded-md font-bold w-full">
+              <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-3 rounded-md font-bold w-full">
                 <PhoneInTalk /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center justify-center gap-2 bg-[#28a745] text-white px-4 py-3 rounded-md font-bold w-full">
+              <button onClick={openTawkToChat} className="flex items-center justify-center gap-2 bg-[#f9a825] text-white px-4 py-3 rounded-md font-bold w-full">
                 <Chat /> Live Chat
               </button>
-              <Link href="/get-started/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#63a4ff] text-white px-4 py-3 rounded-md font-bold w-full">
+              <Link href="/get-started/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#16305c] text-white px-4 py-3 rounded-md font-bold w-full">
                 Get Started <ArrowForward />
               </Link>
             </div>

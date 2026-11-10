@@ -1,5 +1,5 @@
 .mainWrapper {
-      background: #fdfdfd;
+      background: #f7f9fd;
 
   }
 .main {
@@ -22,7 +22,7 @@
     display: inline-block;
     padding: 6px 16px;
     background: rgba(249, 168, 37, 0.1);
-    color: #1abc9c;
+    color: #2a4d8f;
     border-radius: 50px;
     font-size: 0.85rem;
     font-weight: 700;
@@ -34,7 +34,7 @@
   .mainTitle {
     font-size: 2.5rem;
     font-weight: 800;
-    color: #333;
+    color: #1f2a44;
     margin-bottom: 15px;
     line-height: 1.2;
 
@@ -45,7 +45,7 @@
 
   .subtitle {
     font-size: 1.1rem;
-    color: #666;
+    color: #4a5578;
     line-height: 1.6;
   }
 }
@@ -72,7 +72,7 @@
 
 .card {
   background: #fff;
-  border: 1px solid #f0f0f0;
+  border: 1px solid #dbe2f0;
   border-radius: 12px;
   padding: 30px 15px;
   display: flex;
@@ -84,7 +84,7 @@
 
   &:hover {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
-    border-color: #e8e8e8;
+    border-color: #c9d4ea;
     transform: translateY(-5px);
 
     .iconCircle {
@@ -97,7 +97,7 @@
       color: #fff; 
     }
 
-    /* Hover par green ki jagah blue color */
+    /* Hover par gold ki jagah navy color */
     .subjectName {
       color: #2a4d8f; 
     }
@@ -108,7 +108,7 @@
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  background: #f0f4f8; 
+  background: #eef2fa; 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -134,7 +134,7 @@
 }
 
 .iconInner {
-  color: #2a4d8f; /* Original Blue Icon Color */
+  color: #2a4d8f; /* Brand navy icon color */
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: 1;
   display: flex;
@@ -149,7 +149,7 @@
 .subjectName {
   font-size: 1.15rem;
   font-weight: 700;
-  color: #4ade80; /* Base state is still green, hover state is blue */
+  color: #e09500; /* Base state is brand gold, hover state is navy */
   margin: 0;
   text-align: center;
   transition: color 0.4s ease;
@@ -158,8 +158,8 @@
 
 .navBtn {
   background: #fff;
-  border: 1px solid #f0f0f0;
-  color: #1abc9c;
+  border: 1px solid #dbe2f0;
+  color: #2a4d8f;
   width: 44px;
   height: 44px;
   border-radius: 50%;

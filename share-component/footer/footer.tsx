@@ -57,7 +57,7 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="bg-[#1c202e] text-white py-16">
+    <footer className="bg-[#0e1c36] text-white py-16">
       <div className="container mx-auto px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-x-4 gap-y-10 lg:gap-8 mb-16">
           
@@ -135,10 +135,10 @@ const Footer = () => {
           <div className="lg:w-1/4">
             <h4 className="text-white font-bold mb-5 text-xl tracking-wide">Follow Us</h4>
             <div className="flex gap-4">
-              <Link href="https://www.facebook.com/p/All-Exam-Help-61565603774858/?_rdc=2&_rdr#" className="text-white hover:text-[#a0abc0] transition-colors"><Facebook fontSize="medium" /></Link>
-              <Link href="https://www.youtube.com/channel/UCl374uHuik09T7e5Uw_N64Q" className="text-white hover:text-[#a0abc0] transition-colors"><YouTube fontSize="medium" /></Link>
-              <Link href="https://www.pinterest.com/allexamhelp0/" className="text-white hover:text-[#a0abc0] transition-colors"><Pinterest fontSize="medium" /></Link>
-              <Link href="https://www.instagram.com/all_exam_help/" className="text-white hover:text-[#a0abc0] transition-colors"><Instagram fontSize="medium" /></Link>
+              <Link href="https://www.facebook.com/p/All-Exam-Help-61565603774858/?_rdc=2&_rdr#" className="text-white hover:text-[#f9a825] transition-colors"><Facebook fontSize="medium" /></Link>
+              <Link href="https://www.youtube.com/channel/UCl374uHuik09T7e5Uw_N64Q" className="text-white hover:text-[#f9a825] transition-colors"><YouTube fontSize="medium" /></Link>
+              <Link href="https://www.pinterest.com/allexamhelp0/" className="text-white hover:text-[#f9a825] transition-colors"><Pinterest fontSize="medium" /></Link>
+              <Link href="https://www.instagram.com/all_exam_help/" className="text-white hover:text-[#f9a825] transition-colors"><Instagram fontSize="medium" /></Link>
             </div>
           </div>
         </div>

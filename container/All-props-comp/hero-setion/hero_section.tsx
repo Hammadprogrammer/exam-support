@@ -184,7 +184,7 @@ const Hero: React.FC<HeroProps> = ({
                     <span className="text-[#FFC107] font-bold text-base sm:text-lg md:text-xl relative inline-block pb-2 tracking-wider">
                       {current.topText}
                       <svg className="absolute -bottom-1 left-0 w-full h-2 z-[-1]" viewBox="0 0 100 20" preserveAspectRatio="none">
-                        <path d="M0,10 Q12.5,20 25,10 T50,10 T75,10 T100,10" fill="none" stroke="#10b981" strokeWidth="4" />
+                        <path d="M0,10 Q12.5,20 25,10 T50,10 T75,10 T100,10" fill="none" stroke="#FFC107" strokeWidth="4" />
                       </svg>
                     </span>
                  </motion.div>
@@ -194,7 +194,7 @@ const Hero: React.FC<HeroProps> = ({
                 {current.heading}
               </motion.h1>
               
-              <motion.div variants={childVariants} className="text-sm sm:text-base md:text-lg text-gray-200 mb-6 max-w-2xl lg:mx-0 leading-relaxed font-medium">
+              <motion.div variants={childVariants} className="text-sm sm:text-base md:text-lg text-[#c9d4ea] mb-6 max-w-2xl lg:mx-0 leading-relaxed font-medium">
                 {current.subText}
               </motion.div>
 
@@ -202,7 +202,7 @@ const Hero: React.FC<HeroProps> = ({
                   <ul className="space-y-3 text-left">
                     {current.bullets && current.bullets.map((point, index) => (
                       <li key={index} className="text-sm sm:text-base md:text-lg font-medium text-white tracking-wide flex items-start">
-                        <span className="shrink-0 w-2 h-2 bg-[#10b981] rounded-full mt-1.5 mr-3"></span>
+                        <span className="shrink-0 w-2 h-2 bg-[#FFC107] rounded-full mt-1.5 mr-3"></span>
                         <span>{point}</span>
                       </li>
                     ))}
@@ -212,7 +212,7 @@ const Hero: React.FC<HeroProps> = ({
               <motion.div variants={childVariants}>
                 <Link 
                   href="/contact/" 
-                  className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-[#10b981] rounded-lg hover:bg-[#059669] transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 active:scale-95"
+                  className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-[#FFC107] rounded-lg hover:bg-[#e09500] transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 active:scale-95"
                 >
                   Get Started ➜
                 </Link>
@@ -228,10 +228,10 @@ const Hero: React.FC<HeroProps> = ({
               
               <div className="bg-white rounded-2xl shadow-2xl p-6 sm:p-8 pt-10 sm:pt-12 relative z-10">
                 <div className="text-center mb-6">
-                  <h3 className="text-[#3b82f6] text-lg md:text-xl font-bold relative inline-block uppercase tracking-wide pb-2 z-10">
+                  <h3 className="text-[#16305c] text-lg md:text-xl font-bold relative inline-block uppercase tracking-wide pb-2 z-10">
                     GET 60% FLAT DISCOUNT!
                     <svg className="absolute -bottom-2 left-0 w-full h-3 z-[-1]" viewBox="0 0 100 20" preserveAspectRatio="none">
-                      <path d="M0,10 Q12.5,20 25,10 T50,10 T75,10 T100,10" fill="none" stroke="#10b981" strokeWidth="3" />
+                      <path d="M0,10 Q12.5,20 25,10 T50,10 T75,10 T100,10" fill="none" stroke="#FFC107" strokeWidth="3" />
                     </svg>
                   </h3>
                 </div>
@@ -244,7 +244,7 @@ const Hero: React.FC<HeroProps> = ({
                         name="name" 
                         value={formData.name}
                         onChange={(e) => setFormData({...formData, name: e.target.value})}
-                        className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors placeholder-gray-400 text-gray-800 text-sm"
+                        className="w-full px-4 py-3 rounded-lg border border-[#dbe2f0] focus:outline-none focus:border-[#f9a825] focus:ring-1 focus:ring-[#f9a825] transition-colors placeholder-[#8a97b8] text-[#1f2a44] text-sm"
                         required 
                       />
                     </div>
@@ -255,7 +255,7 @@ const Hero: React.FC<HeroProps> = ({
                         name="email" 
                         value={formData.email}
                         onChange={(e) => setFormData({...formData, email: e.target.value})}
-                        className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors placeholder-gray-400 text-gray-800 text-sm"
+                        className="w-full px-4 py-3 rounded-lg border border-[#dbe2f0] focus:outline-none focus:border-[#f9a825] focus:ring-1 focus:ring-[#f9a825] transition-colors placeholder-[#8a97b8] text-[#1f2a44] text-sm"
                         required 
                       />
                     </div>
@@ -266,7 +266,7 @@ const Hero: React.FC<HeroProps> = ({
                         name="phone" 
                         value={formData.phone}
                         onChange={(e) => setFormData({...formData, phone: e.target.value})}
-                        className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-colors placeholder-gray-400 text-gray-800 text-sm"
+                        className="w-full px-4 py-3 rounded-lg border border-[#dbe2f0] focus:outline-none focus:border-[#f9a825] focus:ring-1 focus:ring-[#f9a825] transition-colors placeholder-[#8a97b8] text-[#1f2a44] text-sm"
                         required 
                       />
                     </div>
@@ -274,7 +274,7 @@ const Hero: React.FC<HeroProps> = ({
                     <button 
                       type="submit" 
                       disabled={loading}
-                      className="w-full py-4 text-white font-bold text-lg rounded-lg transition-all mt-4 bg-[#7DD3FC] hover:bg-[#38bdf8] disabled:bg-gray-300 shadow-md hover:shadow-lg active:scale-[0.98]"
+                      className="w-full py-4 text-white font-bold text-lg rounded-lg transition-all mt-4 bg-[#f9a825] hover:bg-[#e09500] disabled:bg-[#c9d4ea] shadow-md hover:shadow-lg active:scale-[0.98]"
                     >
                       {loading ? "Submitting..." : "Get Instant Quote"}
                     </button>
@@ -285,9 +285,9 @@ const Hero: React.FC<HeroProps> = ({
                           initial={{ opacity: 0, y: 10 }}
                           animate={{ opacity: 1, y: 0 }}
                           exit={{ opacity: 0, y: -10 }}
-                          className="flex items-center justify-center gap-2 text-emerald-600 bg-emerald-50 border border-emerald-200 rounded-lg py-3 px-4 mt-4 font-semibold text-sm"
+                          className="flex items-center justify-center gap-2 text-[#16305c] bg-[#eef2fa] border border-[#dbe2f0] rounded-lg py-3 px-4 mt-4 font-semibold text-sm"
                         >
-                          <svg className="w-5 h-5 text-emerald-500 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                          <svg className="w-5 h-5 text-[#e09500] shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                           </svg>
                           <span>Form submitted successfully!</span>

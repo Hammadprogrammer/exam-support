@@ -63,12 +63,12 @@ Contact our support team anytime — We’re here 24/7 to guide you toward stres
 
               {/* Email Card */}
               <motion.div className={styles.card} variants={itemVariants}>
-                <a href="mailto:info@allexamhelp.com" className={styles.cardLink}>
+                <a href="mailto:info@examsupportonline.com" className={styles.cardLink}>
                   <div className={`${styles.iconBox} ${styles.emailIcon}`}>
                     <EmailIcon />
                   </div>
                   <h3>Email Us</h3>
-                  <p>info@allexamhelp.com</p>
+                  <p>info@examsupportonline.com</p>
                 </a>
               </motion.div>
 

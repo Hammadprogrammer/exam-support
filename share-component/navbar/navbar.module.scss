@@ -16,7 +16,7 @@
 }
 
 .navLink {
-  color: #374151;
+  color: #1f2a44;
   font-weight: 500;
   font-size: 15px;
   text-decoration: none;
@@ -25,11 +25,11 @@
   padding: 0.5rem 0;
 
   &:hover {
-    color: #2563eb;
+    color: #e09500;
   }
 
   &.active {
-    color: #2563eb;
+    color: #e09500;
     font-weight: 600;
 
     &::after {
@@ -39,7 +39,7 @@
       left: 0;
       right: 0;
       height: 2px;
-      background: #2563eb;
+      background: #e09500;
       border-radius: 2px;
     }
   }
@@ -52,7 +52,7 @@
 }
 
 .dropdownLabel {
-  color: #374151;
+  color: #1f2a44;
   font-weight: 500;
   font-size: 15px;
   cursor: pointer;
@@ -63,11 +63,11 @@
   padding: 0.5rem 0;
 
   &:hover {
-    color: #2563eb;
+    color: #e09500;
   }
 
   &.activeText {
-    color: #2563eb;
+    color: #e09500;
     font-weight: 600;
   }
 }
@@ -83,7 +83,7 @@
   left: 50%;
   transform: translateX(-50%);
   background: white;
-  border: 1px solid #e5e7eb;
+  border: 1px solid #dbe2f0;
   border-radius: 12px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
   padding: 1.5rem;
@@ -104,7 +104,7 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 0.75rem;
-  color: #374151;
+  color: #1f2a44;
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
@@ -113,18 +113,18 @@
   white-space: nowrap;
 
   &:hover {
-    background: #f3f4f6;
-    color: #2563eb;
+    background: #f7f9fd;
+    color: #e09500;
   }
 
   &.dropdownActive {
-    background: #eff6ff;
-    color: #2563eb;
+    background: #fff8eb;
+    color: #e09500;
   }
 
   svg {
     font-size: 18px;
-    color: #6b7280;
+    color: #8a97b8;
   }
 }
 
@@ -142,18 +142,18 @@
 }
 
 .mobileListItem {
-  border-bottom: 1px solid #f3f4f6;
+  border-bottom: 1px solid #f7f9fd;
   transition: background 0.2s ease;
 
   &:hover {
-    background: #f9fafb;
+    background: #f7f9fd;
   }
 
   &.mobActive {
-    background: #eff6ff;
+    background: #fff8eb;
 
     a {
-      color: #2563eb;
+      color: #e09500;
       font-weight: 600;
     }
   }
@@ -163,7 +163,7 @@
     align-items: center;
     gap: 0.75rem;
     padding: 1rem 1.25rem;
-    color: #374151;
+    color: #1f2a44;
     text-decoration: none;
     font-size: 15px;
     font-weight: 500;
@@ -171,11 +171,11 @@
 
     svg {
       font-size: 20px;
-      color: #6b7280;
+      color: #8a97b8;
     }
 
     &:hover {
-      color: #2563eb;
+      color: #e09500;
     }
   }
 }
@@ -185,7 +185,7 @@
   align-items: center;
   gap: 0.75rem;
   padding: 1rem 1.25rem;
-  color: #374151;
+  color: #1f2a44;
   font-size: 15px;
   font-weight: 500;
   cursor: pointer;
@@ -193,16 +193,16 @@
 
   svg {
     font-size: 20px;
-    color: #6b7280;
+    color: #8a97b8;
   }
 
   &:hover {
-    color: #2563eb;
+    color: #e09500;
   }
 }
 
 .mobileSubList {
-  background: #f9fafb;
+  background: #f7f9fd;
   padding: 0.5rem 0;
 
   a {
@@ -210,7 +210,7 @@
     align-items: center;
     gap: 0.75rem;
     padding: 0.75rem 1.25rem 0.75rem 2.5rem;
-    color: #4b5563;
+    color: #4a5578;
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
@@ -218,18 +218,18 @@
 
     svg {
       font-size: 18px;
-      color: #9ca3af;
+      color: #8a97b8;
     }
 
     &:hover {
-      color: #2563eb;
-      background: #f3f4f6;
+      color: #e09500;
+      background: #f7f9fd;
     }
 
     &.mobSubActive {
-      color: #2563eb;
+      color: #e09500;
       font-weight: 600;
-      background: #eff6ff;
+      background: #fff8eb;
     }
   }
 }

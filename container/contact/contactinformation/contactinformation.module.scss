@@ -52,7 +52,7 @@
     }
 
     .description {
-      color: #64748b;
+      color: #4a5578;
       line-height: 1.8;
       max-width: 550px;
       font-size: 1.1rem;
@@ -80,7 +80,7 @@
     align-items: center;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid #f1f5f9;
+    border: 1px solid #dbe2f0;
     overflow: hidden;
 
     &:hover {
@@ -113,9 +113,9 @@
         font-size: 28px;
       }
 
-      &.locationIcon { background-color: #4b5563; }
+      &.locationIcon { background-color: #4a5578; }
       &.emailIcon { background-color: #16305c; }
-      &.phoneIcon { background-color: #4b5563; }
+      &.phoneIcon { background-color: #4a5578; }
     }
 
     h3 {
@@ -126,7 +126,7 @@
     }
 
     p {
-      color: #64748b;
+      color: #4a5578;
       font-size: 0.95rem;
       line-height: 1.5;
     }

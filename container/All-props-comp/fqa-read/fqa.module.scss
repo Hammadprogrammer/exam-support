@@ -18,7 +18,7 @@
 
 .leftCard {
   flex: 1;
-  background-color: #f3f3f3;
+  background-color: #eef2fa;
   padding: 60px 40px;
   border-radius: 20px;
   text-align: center;
@@ -26,14 +26,14 @@
   position: relative; 
 
   .title {
-    color: #61bb74;
+    color: #e09500;
     font-size: 44px;
     font-weight: 700;
     margin-bottom: 20px;
   }
 
   .text {
-    color: #666;
+    color: #4a5578;
     font-size: 16px;
     line-height: 1.6;
     margin-bottom: 35px;
@@ -62,13 +62,13 @@
 
 .item {
   margin-bottom: 8px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #dbe2f0;
   border-radius: 4px;
   overflow: hidden;
 }
 
 .header {
-  background-color: #f0f0f0;
+  background-color: #eef2fa;
   padding: 18px 20px;
   display: flex;
   justify-content: space-between;
@@ -77,19 +77,19 @@
   transition: background 0.2s;
 
   &.active {
-    background-color: #cccccc; 
+    background-color: #fff8eb; 
   }
 
   .qText {
     font-size: 15px;
-    color: #333;
+    color: #1f2a44;
     font-weight: 600;
   }
 
   .icon {
     font-size: 22px;
     font-weight: bold;
-    color: #000000; // Pure Black Icons
+    color: #1f2a44; // Dark navy icons
     line-height: 1;
   }
 }
@@ -100,11 +100,11 @@
 }
 
 .body {
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #dbe2f0;
 }
 
 .aText {
-  color: #777;
+  color: #4a5578;
   font-size: 14px;
   line-height: 1.6;
   padding: 20px;

@@ -10,7 +10,7 @@ const GetQuoteHome = () => {
       contactHeading="Place your Order here"
       contactDescription="We guarantee you get the support you can trust at the moment it's needed the most."
       phone="+12123476533"
-      email="info@allexamhelp.com"
+      email="info@examsupportonline.com"
       liveChatText='Live Chat: Type "Yes" to Start'
       formHeading="Enjoy a 50% Discount on Signup"
       formDescription="Sign up today and receive a free quote for our services, plus an instant 50% discount."

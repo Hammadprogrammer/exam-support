@@ -27,7 +27,7 @@
     .subTitle {
       font-size: 1.5rem;
       font-weight: 600;
-      color: #7ab342;
+      color: #e09500;
       
       @media (max-width: 768px) {
         font-size: 1.2rem;
@@ -56,7 +56,7 @@
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid #f0f0f0;
+    border: 1px solid #dbe2f0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -74,13 +74,13 @@
     .cardTitle {
       font-size: 1.5rem;
       font-weight: 700;
-      color: #7ab342;
+      color: #e09500;
       margin-bottom: 15px;
     }
 
     .cardDescription {
       font-size: 1rem;
-      color: #666;
+      color: #4a5578;
       line-height: 1.6;
     }
   }
@@ -89,7 +89,7 @@
     max-width: 900px;
     margin: 0 auto;
     font-size: 1.1rem;
-    color: #555;
+    color: #4a5578;
     line-height: 1.8;
     font-style: italic;
     

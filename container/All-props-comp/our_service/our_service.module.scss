@@ -1,6 +1,6 @@
 .main {
   padding: 40px 0;
-  background: #fdfdfd;
+  background: #f7f9fd;
   position: relative;
   overflow: hidden;
 
@@ -24,7 +24,7 @@
 
   .h6 {
     font-size: 1rem;
-    color: #666;
+    color: #4a5578;
     font-weight: 500;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -58,7 +58,7 @@
 
   .description {
     font-size: 1.1rem;
-    color: #888;
+    color: #4a5578;
     max-width: 800px;
     margin: 20px auto 0;
     line-height: 1.6;
@@ -125,21 +125,21 @@
 
     .cardTitle {
       font-size: 1.25rem;
-      color: #333;
+      color: #1f2a44;
       font-weight: 700;
       margin-bottom: 12px;
     }
 
     .cardDescription {
       font-size: 0.95rem;
-      color: #2a4d8f; // Light blue as requested/seen in image
+      color: #2a4d8f; // Brand navy
       margin-bottom: 20px;
       line-height: 1.5;
       flex-grow: 1;
     }
 
     .learnMoreBtn {
-      background: #73c2fb;
+      background: #f9a825;
       color: #fff;
       border: none;
       padding: 10px 20px;
@@ -154,7 +154,7 @@
       align-self: center;
 
       &:hover {
-        background: #5dade2;
+        background: #e09500;
       }
 
       .arrowIcon {
@@ -166,8 +166,8 @@
 
 .navBtn {
   background: #fff;
-  border: 1px solid #eee;
-  color: #333;
+  border: 1px solid #dbe2f0;
+  color: #1f2a44;
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -200,7 +200,7 @@
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: #ddd;
+    background: #dbe2f0;
     cursor: pointer;
     transition: all 0.3s ease;
 

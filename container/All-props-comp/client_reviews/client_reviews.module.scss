@@ -47,7 +47,7 @@
   .smallHeading {
     font-size: 20px;
     font-weight: 700;
-    color: #4b5563;
+    color: #4a5578;
     line-height: 1.2;
   }
 
@@ -66,7 +66,7 @@
   .mainHeading {
     font-size: 44px;
     font-weight: 800;
-    color: #7ED957;
+    color: #e09500;
     line-height: 1.1;
     margin: 15px 0 20px;
 
@@ -76,7 +76,7 @@
   }
 
   .description {
-    color: #6b7280;
+    color: #4a5578;
     font-size: 15px;
     line-height: 1.6;
     margin-bottom: 30px;
@@ -158,7 +158,7 @@
 
   .reviewText {
     font-size: 18px;
-    color: #374151;
+    color: #1f2a44;
     line-height: 1.6;
     margin-bottom: 20px;
     font-weight: 400;
@@ -168,11 +168,11 @@
     .name {
       font-size: 22px;
       font-weight: 800;
-      color: #1f2937;
+      color: #1f2a44;
       margin: 0;
     }
     .location {
-      color: #9ca3af;
+      color: #8a97b8;
       font-size: 16px;
     }
   }
@@ -190,7 +190,7 @@
   :global(.swiper-pagination-bullet) {
     width: 10px;
     height: 10px;
-    background: #e2e8f0;
+    background: #dbe2f0;
     opacity: 1;
   }
 

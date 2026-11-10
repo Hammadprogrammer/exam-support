@@ -11,7 +11,7 @@ const Contentthree = () => {
     imageUrl: "/about/1.jpg",
     imageAlt: "Our Mission",
     imageLeft: true, 
-    backgroundColor: "#f8f9fa" 
+    backgroundColor: "#f7f9fd" 
   };
 
   return <AboutSection {...contenttwoData} />;

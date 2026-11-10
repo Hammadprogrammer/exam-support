@@ -16,7 +16,7 @@
   .heading {
     font-size: 38px;
     font-weight: 700;
-    color: #e09500; // Match reference green
+    color: #e09500; // Match reference gold
     line-height: 1.2;
     margin-bottom: 25px;
 
@@ -28,7 +28,7 @@
   .subHeading {
     font-size: 17px;
     line-height: 1.6;
-    color: #666666;
+    color: #4a5578;
     font-weight: 500;
   }
 }
@@ -65,8 +65,8 @@
   align-items: flex-start;
 
   .iconWrapper {
-    background: #fff8eb; // Very light blue
-    color: #f9a825; // Match reference light blue
+    background: #fff8eb; // Very light gold
+    color: #f9a825; // Brand gold
     width: 55px;
     height: 55px;
     border-radius: 10px;
@@ -84,14 +84,14 @@
     .featureTitle {
       font-size: 24px;
       font-weight: 700;
-      color: #e09500; // Match reference green
+      color: #e09500; // Match reference gold
       margin-bottom: 8px;
       line-height: 1.1;
     }
 
     .featureDesc {
       font-size: 15px;
-      color: #777777;
+      color: #4a5578;
       line-height: 1.5;
       margin: 0;
     }
