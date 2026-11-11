@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Need help with your philosophy online exam? Our qualified tutors are available day/night at take philosophy exam to ensure you’re supported every step of the journey.',
     bullets: ['Step-by-Step Concept Explanations', 'Topic-wise Custom Study Plans', 'Live or Timed Online Exams Support', 'Fast Responses'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

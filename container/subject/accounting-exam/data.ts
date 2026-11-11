@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Connecting accounting concepts to exam questions for high-scoring results! ExamSupportOnline is here to strengthen your understanding and academic performance. Just tell us to take my online accounting exam for me, and let our experts handle everything for you.',
     bullets: ['Subject Expertise', 'Timely Support', 'Student-Friendly Budget', 'High-end Encryption'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

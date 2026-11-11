@@ -157,7 +157,7 @@ const Hero: React.FC<HeroProps> = ({
             x: { type: "spring", stiffness: 300, damping: 30 },
             opacity: { duration: 0.3 }
           }}
-          className="absolute inset-0 w-full h-full bg-cover bg-center"
+          className="absolute inset-0 w-full h-full bg-[length:100%_auto] bg-top bg-no-repeat"
           style={{ backgroundImage: `url('${current.bgImage}')` }}
         />
       </AnimatePresence>

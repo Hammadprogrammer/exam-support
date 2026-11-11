@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Subject Matter Specialists for Precision",
               "Guaranteed Top Performance"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/hero.jpg"
           },
           {
             topText: "Online Class Help with Trusted Experts",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "PhD Experts with Experience",
               "100% Satisfaction"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/1.png"
           },
           {
             topText: "Hire Online Class Taker",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Receive Outstanding Updates",
               "Timely Submission"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/9.jpg"
           }
         ]}
       />

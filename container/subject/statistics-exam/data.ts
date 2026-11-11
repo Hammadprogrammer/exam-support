@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       "Are you feeling overwhelmed by the prospect of taking a statistics exam? There is nothing abnormal about that; now you've come to the right place. We understand your academic goal, and we care about it as much as you do. That's why we connect you with our team of experienced statisticians to help you with statistics test help and the quiz. Here, we guarantee you will pass the exam with the highest grades, without making you pay an unnecessary amount for the assistance.",
     bullets: ['Smart Study Plans', 'Expert Statistics Tutors', 'Secure and Private', 'Guaranteed Result'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

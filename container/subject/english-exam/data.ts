@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Stop panicking about your upcoming English exam. Let\'s connect! Exam Support Online is one of the best English exam services, where you can get expert guidance from specialized professionals who can help you understand and complete your online assessment on time. Join our family now and see the difference that professional academic support can make in your educational journey.',
     bullets: ['We provide PhD online exam takers', '150+ knowledgeable tutors for concept building', '1000 satisfied studnets.'],
+    bgImage: '/home/9.jpg',
   },
   services: {
     badge: 'Our Services',

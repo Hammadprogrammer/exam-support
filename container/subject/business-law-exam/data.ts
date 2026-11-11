@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Your business law exam deserves a well-planned approach, and we offer exactly that. Take my online business law exam for me is all a student has to ask to get our trustworthy services, which are known for successful results and pure credibility.',
     bullets: ['Legal Expertise', 'Timely Support', 'Direct Collaboration', 'Instant Expert Assignment'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

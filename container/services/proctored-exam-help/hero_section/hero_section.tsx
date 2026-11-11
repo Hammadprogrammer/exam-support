@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Stress-free solutions",
               "No questions asked"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/9.jpg"
           },
           {
             topText: "24/7 Proctored Exam Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Confidential and secure",
               "Available for all exam types"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/hero.jpg"
           },
           {
             topText: "Help with Proctored Exam",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Help for any subject",
               "Flawless performance guaranteed"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/1.png"
           }
         ]}
       />

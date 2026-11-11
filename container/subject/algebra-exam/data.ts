@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Behind every successful algebra exam is an expert exam-taker! We have a team of qualified specialists who understand mathematical concepts, exam formats, and possess problem-solving techniques. Tell us to take my algebra exam and improve your scores right away.',
     bullets: ['Timely Support', 'Complete Confidentiality', 'Successful Results', 'Secure Transactions'],
+    bgImage: '/home/1.png',
   },
   services: {
     badge: 'Our Services',

@@ -23,7 +23,7 @@ const HeroSection = () => {
               "Live or Timed Online Exams Support",
               "Fast Responses"
             ],
-            bgImage: "/subject/hero.jpg" 
+            bgImage: "/home/hero.jpg" 
           }
         ]}
       />

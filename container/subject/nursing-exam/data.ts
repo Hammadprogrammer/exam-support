@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Obtaining professional assistance through nursing exam help will ensure that students can achieve success without stress. Thanks to our team, who are reliable nursing exam helpers.',
     bullets: ['Easy Process', 'Total Privacy', 'High-Quality Grades', 'Money-Back Guarantee'],
+    bgImage: '/home/9.jpg',
   },
   services: {
     badge: 'Our Services',

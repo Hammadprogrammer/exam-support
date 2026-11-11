@@ -11,6 +11,7 @@ const data: SubjectPageData = {
       'Providing 24-hour support for all your queries and concept clarification.',
       'Helping you work towards achieving A or B grades.',
     ],
+    bgImage: '/home/1.png',
   },
   services: {
     badge: 'Our Services',

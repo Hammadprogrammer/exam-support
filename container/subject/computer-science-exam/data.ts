@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'We provide a simple, secure, private, and stress-free online exam service. You might be thinking, " How? We have expert professionals who first meet with you, break down your requirements, and then create a specialized plan to help you prepare for your proctored exam. With our expert help, you can get:',
     bullets: ['PhD-qualified exam taker', 'Top-tier exam help', '24/7 customer support', 'Zero-risk privacy', 'Guaranteed result'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

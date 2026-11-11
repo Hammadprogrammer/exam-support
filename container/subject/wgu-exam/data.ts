@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'WGU exams are getting difficult? Visit our site. Here, our expert tutors help students get their desired results at an affordable price. We provide reliable online WGU exam support with professional guidance to help you achieve your academic goals.',
     bullets: ['Expert Tutors', 'Affordable Pricing', '24/7 Support', 'Guaranteed Results'],
+    bgImage: '/home/1.png',
   },
   services: {
     badge: 'Our Services',

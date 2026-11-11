@@ -24,7 +24,7 @@ const HeroSection = () => {
               "On-Time and Accurate Submissions",
               "Trusted Exam Experts for Hire"
             ],
-            bgImage: "/subject/hero.jpg" 
+            bgImage: "/home/1.png" 
           }
         ]}
       />

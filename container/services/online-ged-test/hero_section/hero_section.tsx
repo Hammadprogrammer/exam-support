@@ -17,7 +17,7 @@ const HeroSection = () => {
               "24/7 Live Support",
               "Affordable Prices"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/hero.jpg"
           },
           {
             topText: "Pass with Confidence",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Fast & Reliable Assistance",
               "Guaranteed Satisfaction"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/1.png"
           },
           {
             topText: "Your Success, Our Priority",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "24/7 Live Tutoring Sessions",
               "Low-priced Test Preparation Packages"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/9.jpg"
           }
         ]}
       />

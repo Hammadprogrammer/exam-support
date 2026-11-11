@@ -23,7 +23,7 @@ const HeroSection = () => {
               "High-Quality Grades",
               "Money-Back Guarantee"
             ],
-            bgImage: "/subject/hero.jpg" 
+            bgImage: "/home/9.jpg" 
           }
         ]}
       />

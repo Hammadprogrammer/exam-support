@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Business students face a heavy load of finance exams. Even the best students are stretched thin by quantitative analysis, risk modeling, and complex valuation. Here, we have onboarded master\'s or PhD tutors who help you prepare for the finance exam and achieve better grades. Plus, we are a 100% confidential, trusted, and affordable exam support service.',
     bullets: ['100% Privacy', 'Plagiarism-Free Work', 'Expert Assistance'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

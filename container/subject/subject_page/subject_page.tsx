@@ -125,7 +125,7 @@ const SubjectPage = ({ data }: { data: SubjectPageData }) => {
             heading: <>{hero.heading}</>,
             subText: <p>{hero.subText}</p>,
             bullets: hero.bullets,
-            bgImage: hero.bgImage || '/subject/hero.jpg',
+            bgImage: hero.bgImage || '/home/hero.jpg',
           },
         ]}
       />

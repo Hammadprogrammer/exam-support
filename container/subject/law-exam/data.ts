@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Dear students, you don\'t need to worry about your law exam. We will take your law exam and save you time and effort. Our expert professionals are here to take your law exam and make sure you achieve the grades that you deserve.',
     bullets: ['Trusted Professional, PHD Experts', 'Ensured A+ results', 'Pocket Friendly Price', 'Experienced Law Exam Takers', 'Secure and Encrypted Process'],
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

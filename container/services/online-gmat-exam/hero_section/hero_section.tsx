@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Easy process",
               "Global access"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/1.png"
           },
           {
             topText: "Hire Experts with Privacy",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "No third parties",
               "24/7 support"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/9.jpg"
           },
           {
             topText: "Trusted GMAT Experts",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Full test coverage",
               "Score guaranteed"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/hero.jpg"
           }
         ]}
       />

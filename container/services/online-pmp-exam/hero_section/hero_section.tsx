@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Expert support for success",
               "Stay confident and ready"
             ],
-            bgImage: "/service/hero.jpg" // image_85f075.jpg ke liye
+            bgImage: "/home/1.png" // image_85f075.jpg ke liye
           },
           {
             topText: "Expert Guidance Anytime",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Expert PMP exam helpers",
               "Never feel alone"
             ],
-            bgImage: "/service/7.jpg" // image_85f098.jpg ke liye
+            bgImage: "/home/9.jpg" // image_85f098.jpg ke liye
           },
           {
             topText: "Confidential and Secure Service",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Privacy always protected",
               "Trusted worldwide support"
             ],
-            bgImage: "/service/9.jpg" // image_85f0d3.jpg ke liye
+            bgImage: "/home/hero.jpg" // image_85f0d3.jpg ke liye
           }
         ]}
       />

@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Guaranteed high-quality results",
               "Complete privacy and satisfaction"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/hero.jpg"
           },
           {
             topText: "Exam Help by Professionals",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "PhD professionals available anytime",
               "Real estate exam services you can trust"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/1.png"
           },
           {
             topText: "Reliable Online Test Support",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "Dedicated support team available 24/7",
               "100% satisfaction guarantee always"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/9.jpg"
           }
         ]}
       />

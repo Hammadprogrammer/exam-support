@@ -17,7 +17,7 @@ const HeroSection = () => {
               "Quick and Quality Service within Tour Time",
               "247 Online Support to Cater Urgent Needs"
             ],
-            bgImage: "/service/hero.jpg"
+            bgImage: "/home/9.jpg"
           },
           {
             topText: "Online PSI Help",
@@ -29,7 +29,7 @@ const HeroSection = () => {
               "Live One-on-One Tutoring Sessions",
               "Student Only Discounts"
             ],
-            bgImage: "/service/7.jpg"
+            bgImage: "/home/hero.jpg"
           },
           {
             topText: "Get On-Time",
@@ -41,7 +41,7 @@ const HeroSection = () => {
               "24/7 Live Support",
               "Affordable Prices"
             ],
-            bgImage: "/service/9.jpg"
+            bgImage: "/home/1.png"
           }
         ]}
       />

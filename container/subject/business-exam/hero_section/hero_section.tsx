@@ -16,7 +16,7 @@ const HeroSection = () => {
               "Secure & Confidential",
               "On-Time Completion"
             ],
-            bgImage: "/subject/hero.jpg"
+            bgImage: "/home/hero.jpg"
           }
         ]}
       />

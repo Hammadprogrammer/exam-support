@@ -7,6 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Stop panicking about your upcoming history exam. This is the ideal site to ask us to take an online history exam for you; our online specialists are ready to help you prepare. We handle every test and quiz with great care. With our professional online history exam help, we aim to help you achieve better grades in specific sections as well as in your overall coursework. So, let us quote "take my history exam for me"; we offer expert guidance to help you prepare for your history exam.',
     bullets: ['Expert Tutor', 'Guaranteed Result', '24 Hour Support', 'Safety and Security'],
+    bgImage: '/home/1.png',
   },
   services: {
     badge: 'Our Services',

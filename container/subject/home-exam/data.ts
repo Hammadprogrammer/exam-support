@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Many online academic support services outsource their work to third-party agencies, which can result in security warnings within the learning system. We connect you with vetted professional tutors who help you learn more, faster, and easier. Don\'t lose your chance to score higher grades. Consult with our trained staff available 24/7, and get the academic support you need to make your grades skyrocket.',
     bullets: ['Smart Study Plans', 'Expert Tutors', 'Less Stress', 'Real Progress'],
-    bgImage: '/subject/hero.jpg',
+    bgImage: '/home/9.jpg',
   },
   services: {
     badge: 'Our Services',
