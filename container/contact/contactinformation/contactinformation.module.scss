@@ -79,13 +79,23 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: all 0.3s ease;
     border: 1px solid #dbe2f0;
     overflow: hidden;
+    cursor: pointer;
 
     &:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 15px 50px rgba(0, 0, 0, 0.08);
+      transform: translateY(-10px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+      border-color: #f9a825;
+
+      .iconBox.locationIcon,
+      .iconBox.emailIcon,
+      .iconBox.phoneIcon {
+        background-color: #f9a825;
+        color: #ffffff;
+        transform: scale(1.1);
+      }
     }
 
     .cardLink {
@@ -112,6 +122,8 @@
       svg {
         font-size: 28px;
       }
+
+      transition: all 0.3s ease;
 
       &.locationIcon { background-color: #4a5578; }
       &.emailIcon { background-color: #16305c; }

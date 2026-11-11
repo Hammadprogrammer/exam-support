@@ -69,25 +69,34 @@
     text-align: center;
     transition: all 0.3s ease;
 
+    cursor: pointer;
+
     &:hover {
-      box-shadow: 0 15px 30px rgba(249, 168, 37, 0.15);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
       border-color: #f9a825;
-      transform: translateY(-5px);
-      
+      transform: translateY(-10px);
+
       .iconWrapper {
-        color: #f9a825;
+        background: #f9a825;
+        color: #ffffff;
         transform: scale(1.1);
       }
     }
 
     .iconWrapper {
-      font-size: 40px;
+      width: 60px;
+      height: 60px;
+      background: #eef2fa;
       color: #f9a825;
-      margin-bottom: 15px;
+      border-radius: 16px;
+      margin: 0 auto 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       transition: all 0.3s ease;
-      
+
       svg {
-        font-size: inherit;
+        font-size: 28px;
       }
     }
 

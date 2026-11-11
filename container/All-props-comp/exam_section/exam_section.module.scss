@@ -83,12 +83,12 @@
   cursor: pointer;
 
   &:hover {
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
-    border-color: #c9d4ea;
-    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+    border-color: #f9a825;
+    transform: translateY(-10px);
 
     .iconCircle {
-      background: #2a4d8f; 
+      background: #f9a825;
       box-shadow: 0 8px 20px rgba(249, 168, 37, 0.3);
     }
 

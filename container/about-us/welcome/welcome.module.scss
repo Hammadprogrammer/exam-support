@@ -115,7 +115,6 @@
       width: min(100%, 450px);
       height: 450px;
       border-radius: 30px;
-      overflow: hidden;
 
       @media (max-width: 768px) {
         height: 350px;
@@ -128,6 +127,7 @@
         width: 100%;
         height: 100%;
         object-fit: cover;
+        border-radius: inherit;
         transition: transform 0.5s ease;
 
         @media (max-width: 768px) {
@@ -137,53 +137,6 @@
 
    
 
-      // 4 Year Badge on top
-      .yearBadge {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background: linear-gradient(135deg, #f9a825, #e09500);
-        width: 180px;
-        height: 180px;
-        border-radius: 50%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        color: white;
-        font-weight: 800;
-        box-shadow: 0 8px 25px rgba(249, 168, 37, 0.4);
-        z-index: 10;
-        border: 3px solid rgba(255, 255, 255, 0.2);
-        backdrop-filter: blur(10px);
-
-        @media (max-width: 768px) {
-          width: 140px;
-          height: 140px;
-        }
-
-        .number { 
-          font-size: 22px; 
-          line-height: 28px;
-          margin-bottom: 2px;
-
-          @media (max-width: 768px) {
-            font-size: 1.2rem;
-          }
-        }
-        .text { 
-          font-size: 0.75rem; 
-          line-height: 1;
-          text-transform: uppercase;
-          letter-spacing: 1px;
-
-          @media (max-width: 768px) {
-            font-size: 0.6rem;
-          }
-        }
-      }
     }
   }
 }

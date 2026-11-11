@@ -186,6 +186,16 @@
   display: flex;
   gap: 20px;
   align-items: flex-start;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover {
+    .iconWrapper {
+      background: #f9a825;
+      color: #ffffff;
+      transform: scale(1.1);
+    }
+  }
 
   .iconWrapper {
     background: #fff8eb;
@@ -195,6 +205,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
+    transition: all 0.3s ease;
 
     svg {
       font-size: 32px;

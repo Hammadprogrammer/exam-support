@@ -75,10 +75,13 @@
     align-items: center;
     text-align: left;
     min-height: 250px;
-    transition: transform 0.3s ease;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
 
     &:hover {
-      transform: translateY(-5px);
+      transform: translateY(-10px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+      border-color: #f9a825;
     }
 
     .cardContent {
@@ -114,22 +117,23 @@
 
     .cardImage {
       position: absolute;
-      right: -20px;
-      bottom: -30px;
+      right: 0;
+      bottom: 0;
       width: 260px;
-      height: auto;
+      height: 100%; // Match the card div height
       z-index: 1;
 
       @media (max-width: 480px) {
         width: 180px;
-        right: -10px;
-        bottom: -20px;
+        right: 0;
+        bottom: 0;
       }
 
       .img {
         width: 100%;
-        height: auto;
-        filter: drop-shadow(0 10px 20px rgba(0,0,0,0.1));
+        height: 100%;
+        object-fit: cover;
+        object-position: bottom;
       }
     }
   }

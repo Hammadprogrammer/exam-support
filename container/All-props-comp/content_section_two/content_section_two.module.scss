@@ -39,6 +39,11 @@
 .img2 { order: 3; }
 .text2 { order: 4; }
 
+// Image anchoring: top image crops from top (bottom stays fully visible),
+// bottom image crops from bottom (top stays fully visible)
+.img1 .image { object-position: bottom; }
+.img2 .image { object-position: top; }
+
 .textBlock {
   @media (max-width: 992px) {
     padding-bottom: 20px;

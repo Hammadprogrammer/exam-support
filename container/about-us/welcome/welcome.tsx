@@ -51,18 +51,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
         >
           <div className={styles.imgContainer}>
-            <Image src="/about/2.jpg" alt="about" fill />
-            
-            {/* 4 Year Badge on top of image */}
-            <motion.div 
-              className={styles.yearBadge}
-              initial={{ scale: 0, x: "-50%", y: "-50%" }}
-              animate={{ scale: 1, x: "-50%", y: "-50%" }}
-              transition={{ delay: 1, type: "spring", stiffness: 200 }}
-            >
-              <span className={styles.number}>Years Of Experience</span>
-              {/* <span className={styles.text}>Years</span> */}
-            </motion.div>
+            <Image src="/service/6.jpg" alt="about" fill />
           </div>
         </motion.div>
 
