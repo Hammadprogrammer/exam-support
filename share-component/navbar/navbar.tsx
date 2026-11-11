@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { 
-  PhoneInTalk, Chat, ArrowForward, KeyboardArrowDown,
+  PhoneInTalk, ArrowForward, KeyboardArrowDown,
   School, Assignment, Quiz, Computer, Science, BusinessCenter, 
   Functions, HistoryEdu, Gavel, Psychology, People, BarChart, 
   LocalHospital, Biotech, PsychologyAlt, MenuBook, Home as HomeIcon,
@@ -64,12 +64,6 @@ const Navbar = () => {
 
   const handleDropdown = (name: string) => setOpenDropdown(openDropdown === name ? null : name);
 
-  const openTawkToChat = () => {
-    if (typeof window !== 'undefined' && (window as any).Tawk_API) {
-      (window as any).Tawk_API.maximize();
-    }
-  };
-
   const isActive = (path: string) => {
     if (!path) return false;
     const normalizedPath = path.replace(/\/+$/, "") || "/";
@@ -92,7 +86,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/" prefetch={false}>
-                <Image src="/logo1.png" alt="Logo" width={280} height={70} priority className="w-auto h-14 lg:h-[70px]" />
+                <Image src="/logo1.png" alt="Logo" width={340} height={85} priority className="w-auto h-[68px] lg:h-[85px]" />
               </Link>
             </div>
 
@@ -152,9 +146,6 @@ const Navbar = () => {
               <a href="tel:+12123476533" className="flex items-center gap-1.5 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
                 <PhoneInTalk fontSize="small" /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center gap-1.5 bg-[#f9a825] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#e09500] transition-colors">
-                <Chat fontSize="small" /> Live Chat
-              </button>
               <Link href="/contact/" prefetch={false} className="flex items-center gap-1.5 bg-[#16305c] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#2a4d8f] transition-colors">
                 Get Started <ArrowForward fontSize="small" />
               </Link>
@@ -174,7 +165,7 @@ const Navbar = () => {
       <div className={`fixed inset-0 bg-black/50 z-[1000] transition-opacity duration-300 lg:hidden ${mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`} onClick={handleDrawerToggle}>
         <div className={`fixed inset-y-0 right-0 w-[300px] bg-white shadow-xl transform transition-transform duration-300 ease-in-out ${mobileOpen ? 'translate-x-0' : 'translate-x-full'}`} onClick={e => e.stopPropagation()}>
           <div className="flex justify-between items-center p-5 border-b border-[#e6ebf5]">
-            <Image src="/logo1.png" alt="Logo" width={150} height={48} className="w-auto h-10" />
+            <Image src="/logo1.png" alt="Logo" width={200} height={50} className="w-auto h-12" />
             <button onClick={handleDrawerToggle} className="text-[#4a5578]">
               <CloseIcon />
             </button>
@@ -231,9 +222,6 @@ const Navbar = () => {
               <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-3 rounded-md font-bold w-full">
                 <PhoneInTalk /> Live Call
               </a>
-              <button onClick={openTawkToChat} className="flex items-center justify-center gap-2 bg-[#f9a825] text-white px-4 py-3 rounded-md font-bold w-full">
-                <Chat /> Live Chat
-              </button>
               <Link href="/get-started/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#16305c] text-white px-4 py-3 rounded-md font-bold w-full">
                 Get Started <ArrowForward />
               </Link>
