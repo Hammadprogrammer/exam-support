@@ -86,7 +86,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
               <Link href="/" prefetch={false}>
-                <Image src="/logo1.png" alt="Logo" width={340} height={85} priority className="w-auto h-[68px] lg:h-[85px]" />
+                <Image src="/logo1.png" alt="Logo" width={340} height={85} priority className={styles.logo} />
               </Link>
             </div>
 
@@ -165,7 +165,7 @@ const Navbar = () => {
       <div className={`fixed inset-0 bg-black/50 z-[1000] transition-opacity duration-300 lg:hidden ${mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`} onClick={handleDrawerToggle}>
         <div className={`fixed inset-y-0 right-0 w-[300px] bg-white shadow-xl transform transition-transform duration-300 ease-in-out ${mobileOpen ? 'translate-x-0' : 'translate-x-full'}`} onClick={e => e.stopPropagation()}>
           <div className="flex justify-between items-center p-5 border-b border-[#e6ebf5]">
-            <Image src="/logo1.png" alt="Logo" width={200} height={50} className="w-auto h-12" />
+            <Image src="/logo1.png" alt="Logo" width={200} height={50} className={styles.drawerLogo} />
             <button onClick={handleDrawerToggle} className="text-[#4a5578]">
               <CloseIcon />
             </button>

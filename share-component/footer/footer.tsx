@@ -59,8 +59,17 @@ const Footer = () => {
   return (
     <footer className="bg-[#0e1c36] text-white py-16">
       <div className="container mx-auto px-6 lg:px-8 max-w-7xl">
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-x-4 gap-y-10 lg:gap-8 mb-16">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-x-4 gap-y-10 lg:gap-8 mb-16">
           
+          <div className="col-span-2 md:col-span-4 lg:col-span-2">
+            <Link href="/" prefetch={false}>
+              <Image src="/logo1.png" alt="Exam Support Online" width={400} height={100} className="w-auto max-w-full h-24 bg-white rounded-lg p-2 mb-5" />
+            </Link>
+            <p className="text-[#a0abc0] text-[14px] leading-relaxed">
+              Exam Support Online provides expert help for online exams, classes, courses, and assignments. Our qualified tutors deliver reliable, confidential, and affordable support across every subject.
+            </p>
+          </div>
+
           <div className="lg:col-span-1">
             <h4 className="text-[17px] font-bold mb-6">Subjects</h4>
             <ul className="space-y-4">

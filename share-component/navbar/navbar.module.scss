@@ -7,6 +7,20 @@
   padding-top: 90px; // spacer for fixed navbar height
 }
 
+.logo {
+  height: 100px !important;
+  width: 100px;
+
+  @media (min-width: 1024px) {
+    height: 85px;
+  }
+}
+
+.drawerLogo {
+  height: 48px;
+  width: auto;
+}
+
 .centerNav {
   display: flex;
   align-items: center;
