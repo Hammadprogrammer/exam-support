@@ -20,10 +20,10 @@ const Breadcrumb: React.FC<BreadcrumbProps> = ({ title, currentPage }) => {
       >
         <h1>{title}</h1>
         <div className={styles.links}>
-          <Link href="/">
+          <Link href="/" className={styles.homeLink}>
             Home
           </Link>
-          <span>:</span>
+          <span className={styles.separator}>:</span>
           <span className={styles.active}>{currentPage}</span>
         </div>
       </motion.div>
