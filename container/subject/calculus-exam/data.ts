@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Complicated calculations and approaching exam deadlines? Asking us to take my calculus exam is the ultimate solution. We at ExamSupportOnline take your calculus exam for you with absolute precision and accuracy, transforming stress into complete success.',
     bullets: ['Subject Specialists', 'Timely Assistance', 'Secure Payments', 'Direct Collaboration'],
-    bgImage: '/home/1.png',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

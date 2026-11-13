@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Type "someone to take my online psychology exam" into the search bar, and you will find a number of websites. Well, psychology looks approachable from the outside, until it involves APA-formatted research papers or statistics-based units. To help you, we have introduced our psychology tutors to help you prepare for exams covering developmental stages, disorders, and research at affordable prices. We aim to take some of the pressure while helping you work toward the grades you want.',
     bullets: ['Experienced tutors explaining concepts step by step.', 'On-time support for queries and concept building.', 'Preparation support to help you work toward your desired A or B grades.'],
-    bgImage: '/home/9.jpg',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

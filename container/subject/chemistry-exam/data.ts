@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Whenever you are studying chemistry and facing difficulty achieving your desired marks, you no longer have to worry about it. At Exam Support Online, we have a specialized team of chemistry experts who can help you prepare for your exams with correct calculations, formulas, and proper solutions to complex reactions. We aim to help you achieve good grades at very affordable prices. With years of hands-on experience in the same field, our expert tutors understand the customers\' requirements and try their best to satisfy them.',
     bullets: ['Get Started'],
-    bgImage: '/home/9.jpg',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

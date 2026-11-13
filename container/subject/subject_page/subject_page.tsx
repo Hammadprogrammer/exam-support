@@ -41,7 +41,7 @@ const SERVICE_IMAGES = [
   '/home/2.png', '/home/3.jpg', '/home/4.png', '/home/5.jpg', '/home/6.jpg',
 ];
 
-const REVIEW_IMAGES = ['/t1.jpg', '/t2.jpg', '/t3.jpg', '/t4.jpg'];
+const REVIEW_IMAGES = ['/t1.jpg', '/t2.jpg', '/t3.jpg', '/t4.jpg', '/reviewer-ryan.png'];
 
 const SERVICE_LINKS: [RegExp, string][] = [
   [/proctored/i, '/proctored-exam-help'],
@@ -158,7 +158,7 @@ const SubjectPage = ({ data }: { data: SubjectPageData }) => {
         heading2={contentOne.heading2}
         description2={contentOne.description2}
         image1={contentOne.image1 || "/subject/2.png"}
-        image2={contentOne.image2 || "/subject/3.jpg"}
+        image2={contentOne.image2 || "/subject/hero.jpg"}
       />
       <ExamSection />
       <WhyStudentHire

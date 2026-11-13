@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Do not suffer in silence when preparing for online economics exams. It will not only affect your grades but also your mental health. We have hired PhD-qualified tutors who excel in economics and can help you prepare for your exams while protecting your academic progress. Here, we promise that our professional tutors provide reliable academic support while handling your personal information carefully. We also aim to help you improve your grades while you take back your nights and weekends.',
     bullets: ["Master's and PhD Experts", '100% Money-Back Guarantee', 'Punctuality', 'Security'],
-    bgImage: '/home/1.png',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       "The aim of every student is to score high on their Math Exam. In fact, they can, but the real challenge is managing time and responsibilities. No doubt, anyone can get easily frustrated by the tricky maths questions, and the online exams are timed, method-marked, and even unforgiving. One bad week or a frozen moment can ruin the whole grade. So, if that is the case and you are looking for online math exam help, you are in the right place. We can be your reliable support system to help you achieve your desired grades. We promise to guide you through the exceptional support of our PhD-level mathematicians in various math subjects without making you overpay for the assistance you need.",
     bullets: ['Smart Study Plans', 'Expert Math Tutors', 'Less Stress', 'Real Progress'],
-    bgImage: '/home/1.png',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',

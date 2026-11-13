@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'Many online academic support services outsource their work to third-party agencies, which can result in security warnings within the learning system. We connect you with vetted professional tutors who help you learn more, faster, and easier. Don\'t lose your chance to score higher grades. Consult with our trained staff available 24/7, and get the academic support you need to make your grades skyrocket.',
     bullets: ['Smart Study Plans', 'Expert Tutors', 'Less Stress', 'Real Progress'],
-    bgImage: '/home/9.jpg',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',
@@ -49,7 +49,7 @@ const data: SubjectPageData = {
     desc2:
       'No doubt exams put lots of pressure on students, which can even ruin students\' grades. Our expert tutors are here to help you understand difficult topics, even those you have been avoiding for so long. They give you full help with time management, question strategy, and the topics you keep getting wrong. Here, we also promise to keep your privacy and personal information protected at all times. We completely understand how difficult it can be to trust someone with your online exam preparation, but here we assure you that our dedicated team will help you build confidence, improve your performance, and achieve better results.',
     img1: '/subject/1.jpg',
-    img2: '/subject/3.jpg',
+    img2: '/subject/hero.jpg',
   },
   aboutTeam: {
     badge: 'About Our Team',

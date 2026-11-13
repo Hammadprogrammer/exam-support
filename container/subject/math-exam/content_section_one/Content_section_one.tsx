@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Professional Math Exam Takers to Guarantee Success."
         description2="When students pay for a math exam taker, they want professionals who will achieve high results while keeping their identity a secret. We provide secure help with exams online, and market the best candidates in the industry. Students can use reliable professional math exam help services. They can simply tell us when the exam is due. Each exam is given to a subject matter expert with years of experience. From solving complex questions and equations, let us do it all for you, while delivering each exam on time and with precision. Students don't worry about us keeping their details safe. We take student online security very seriously. That is how we do it online for students worldwide. Students can trust our service when using our math exam experts."
         image1="/subject/2.png"
-        image2="/subject/3.jpg"
+        image2="/subject/hero.jpg"
       />
     </>
   );

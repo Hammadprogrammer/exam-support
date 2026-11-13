@@ -7,7 +7,7 @@ const data: SubjectPageData = {
     subText:
       'If you are facing hurdles with a biology exam and often ask, "Can I hire someone to take my online biology exam?" Our answer to this question is a resounding yes. We have designed a remarkable biology exam help that caters to all biology exam needs. We understand that biology can be challenging with its complex topics and detailed diagrams; that\'s why we just want someone reliable to handle it for you safely and timely. Our biology tutor ensures your exam is completed flawlessly so you get the result you need without panic.',
     bullets: ['100% Unique work', 'Safe and Secure System', 'Timely Delivery'],
-    bgImage: '/home/9.jpg',
+    bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',
