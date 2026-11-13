@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Stress-Free Way to Take My Online Test Anytime"
         description2="It’s rare when you don’t have too many things happening at the same time with online testing. That’s why plenty of students are like, “Is there a ‘peaceful’ way to carry out my online test?” The answer is yes. Our expert tutors streamline everything for you with perfect time guidance and complete support. No need to worry about deadlines or tricky questions; our experts are accessible whenever you need them. That way, your online tests will be easy, convenient, and hassle-free."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

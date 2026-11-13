@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Pay Someone to Get Managed Real Estate Exam Help in Virginia."
         description2="Virginia students request our trusted online real estate exam help for reliable and anonymous support. Each exam is administered in a secure manner, with complete confidentiality of your information. We provide real estate exam takers for hire who are knowledgeable about Virginia property laws and licensing exam structure. Our experienced subject experts and PhD-level instructors provide accurate answers with timely submissions. Whether you need help with the real estate exam or want a seamless, trouble-free experience, we will take care of everything for you. Attain the highest credentials with privacy protection in our professional Virginia exam help. We provide complete encryption, no data leaks, and 100% confidentiality during the process. New York students take the exam with very little stress."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

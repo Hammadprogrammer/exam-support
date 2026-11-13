@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Trustworthy Online Insurance Exam Help Today"
         description2="When exams appear to be uneasy, our specialized online insurance exam help service ensures success. We have qualified specialists to assist you in taking your exams with peace of mind and precision. Every insurance exam taker hired on our team is specifically trained and has extensive experience with complicated insurance exam questions. We ensure confidentiality by using an encrypted system to keep all personal and academic material confidential. We encourage you to avoid the unneeded stress of managing your exams; we will do the work for you, and we will guarantee your successful score. With our help, you will be able to sit back, relax, and proceed with confidence. Your exam will be taught quickly and professionally, every time."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Get Professional Assistance with CompTIA Exam"
         description2="If you need CompTIA exam help, our team is composed of PhD-qualified experts and can handle your complete test. Based on the experience of test-taking, we clearly understand the level of significance, importance, accuracy, speed, and confidentiality. We protect your identity and your data using encrypted technology while creating the best results in online exams. Our experts have years of experience managing online exams for students. All of our experts will ensure the exams are completed accurately and as efficiently as possible. Use our service for reliable and hassle-free completion by CompTIA Exam takers for hire that suits your success. We have one simple mission to create some peace of mind, privacy and proven success rates for all of your CompTIA exams."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

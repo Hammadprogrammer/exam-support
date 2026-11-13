@@ -36,7 +36,7 @@ const page = () => {
       <AboutTeamHome />
       <ContentSectionOne />
       <ExamSection />
-      <WhyStudentHireSection centerImage="/subject/1.jpg" />
+      <WhyStudentHireSection centerImage="/subject/5.png" />
       <FeatureSectionHome />
       <TrustedByHome />
       <GetQuoteHome />

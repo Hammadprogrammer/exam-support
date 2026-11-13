@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Pay Someone to Take My Online ATI TEAS: Confidence for Test Day"
         description2="Our do my online ATI TEAS test help plan is customized. We don’t use a one-size-fits-all approach because we know that each student’s struggles are different. Some students require preparation assistance, some need continuous coaching, while others simply need help writing an exam. It’s why our service is flexible, tailored to whatever will help you most. Our online ATI TEAS test helpers are highly proficient in the test format and ready to help you in each area covered. Trust, privacy is what we stand for. Your form submission is processed properly, with your details kept confidential. Reliability, meanwhile, is also crucial. Don’t take our word for it, as we prove it time and time again in hundreds of students who've trusted us for the best online ATI TEAS test help and got results! It’s this mix of privacy, knowledge, and results that makes us unique. Choose us, choose peace of mind."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

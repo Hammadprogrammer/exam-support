@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Take My Online PMP Exam for Me – Get the Results On Time"
         description2="Online PMP exam is an established & confidential service designed for individuals who are ready to attain their PMP certification in a secure and private manner. We know how challenging it is to juggle your time around job, family, and other responsibilities, alongside preparing and taking your exams. Which is why we have a quick, stress-free way for those who need help they can count on. Our professional team works is highly confidential to make sure we protect your privacy every step of the way. No matter whether it’s that you’re pressed for time, have exam anxiety, or are wrestling with any other obstacle, we’re here to provide a safe route — one that is confidential, reliable, and consistent time and again."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

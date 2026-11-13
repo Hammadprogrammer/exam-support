@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="The Easy Way to Get Help with Online Exams Whenever You Need It"
         description2="The stress of taking online exams can feel overwhelming, especially if you’re already trying to balance a hectic schedule between work, family, and other academic obligations. Our exam help services are the best, and you can rest assured with us and receive a stress-free and professional solution to your exam. We pair you with a team offering an expert tutor who is not just an expert in tutoring but also familiar with online testing. Our flat process is fast, easy, secure, and customized to your particular course needs. The result is that we get to know the exam format, materials, and the time limit, and we prepare our experts accordingly. We go to great lengths to take every test seriously and with the highest degree of professionalism and confidentiality."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

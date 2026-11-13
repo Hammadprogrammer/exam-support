@@ -138,6 +138,7 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
+    align-self: stretch; // Match the text column's height
   }
 }
 
@@ -156,6 +157,20 @@
 
     &:hover {
       transform: scale(1.05);
+    }
+  }
+
+  // Desktop: split the stretched column height equally between the images
+  @media (min-width: 993px) {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+
+    img {
+      flex: 1;
+      height: auto;
+      min-height: 0;
     }
   }
 

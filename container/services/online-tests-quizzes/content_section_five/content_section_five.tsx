@@ -9,7 +9,7 @@ const ContentSectionFive = () => {
       subHeading="Get Step-By-Step Support to Take Test for Me Easily"
       subDescription="It’s easy to get confused by online tests if you’re not thoroughly prepared, and having step-by-step help definitely helps. When you hire our tutors to take test for me, our best tutors take you through, so you don’t feel all at sea. They talk through answers, solve tricky questions, and show you how to face each kind of test with confidence. Following these instructions, you will be able to complete your online exam stress-free. And this sort of expert assistance makes learning more pleasurable and test-taking far less stressful."
       image1="/service/10.jpg"
-      image2="/service/11.jpg"
+      image2="/about/2.jpg"
     />
   );
 };

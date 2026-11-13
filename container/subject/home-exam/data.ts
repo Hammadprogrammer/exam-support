@@ -17,7 +17,7 @@ const data: SubjectPageData = {
     items: [
       { title: 'Online Exam Help', description: 'Our tutors go through your course material, pick out what’s most likely to show up, and practice it with you until you feel confident.', image: '/service/1.jpg' },
       { title: 'Proctored Exam Help', description: 'Webcams and timers can make anyone nervous. We run timed mock tests under real conditions, so test day feels familiar.', image: '/service/2.png' },
-      { title: 'Online Tests & Quizzes', description: 'Weekly quizzes seem small, until you realize they’re worth 20% of your grade. We’ve seen it happen a lot. So we keep it simple: a quick session each week, go over what’s coming, and you’re good to go.', image: '/service/3.jpg' },
+      { title: 'Online Tests & Quizzes', description: 'Weekly quizzes seem small, until you realize they’re worth 20% of your grade. We’ve seen it happen a lot. So we keep it simple: a quick session each week, go over what’s coming, and you’re good to go.', image: '/service/11.jpg' },
       { title: 'GRE Test Help', description: 'Our multi-talented expert can help you with your GRE too. We ensure you can build strategies that save time and boost your score.', image: '/service/4.png' },
       { title: 'HESI Exam Help', description: 'From A2 to exit exams, we review key topics and practice question types you can solve on exam day.', image: '/service/5.png' },
       { title: 'PSI Exam Help', description: 'Licensing exam coming up? Our tutors walk you through the content and give you practice tests that match the PSI format.', image: '/service/6.jpg' },
@@ -25,7 +25,7 @@ const data: SubjectPageData = {
       { title: 'Online Course Help', description: 'From week one to the final, our tutors help you manage your coursework and keep moving forward.', image: '/service/8.jpg' },
       { title: 'GED Test Help', description: 'Math, science, social studies, and reasoning through language arts, we cover all four with clear lessons and practice.', image: '/service/9.jpg' },
       { title: 'ATI TEAS Test Help', description: 'Planning for nursing school? We help you prepare for every section of the TEAS with focused review and timed practice.', image: '/service/10.jpg' },
-      { title: 'CompTIA Exam Help', description: 'A+, Network+, Security+: our tutors explain the concepts with real-world examples and help you practice for the exam.', image: '/service/11.jpg' },
+      { title: 'CompTIA Exam Help', description: 'A+, Network+, Security+: our tutors explain the concepts with real-world examples and help you practice for the exam.', image: '/home/8.jpg' },
       { title: 'Real Estate Exam Help', description: 'Property laws, contracts, and real estate math- we break it all down so you can walk into your licensing exam with confidence.', image: '/about/3.png' },
       { title: 'PMP Exam Help', description: 'Our tutors help you study the PMBOK, understand the exam format, and practice with realistic questions.', image: '/about/4.png' },
       { title: 'Insurance Exam Help', description: 'Insurance terms can be confusing. Our tutors explain them in plain words and help you get ready for your state licensing exam.', image: '/our-experts/3.jpg' },

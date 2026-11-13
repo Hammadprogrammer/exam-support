@@ -9,7 +9,7 @@ const ContentSectionFive = () => {
       subHeading="Worried About Your Exam? Get Secure, Reliable & Affordable Proctoring Help Today!"
       subDescription="Nervous for your exam? Put your anxiety to rest and ensure your performance with our proctoring assistance. Our company is the perfect solution for students who need professional writing help. We will put you in touch with confirmed experts who can discreetly and quickly help you while protecting your privacy and maintaining the integrity of your exam. Our technology and confidentiality are maintained to ensure your success. Stop worrying and start passing—gain the confidence you deserve with our experts who take your proctored exams for you."
       image1="/service/10.jpg"
-      image2="/service/11.jpg"
+      image2="/about/2.jpg"
     />
   );
 };

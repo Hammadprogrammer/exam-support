@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Skilled PSI Exam Takers for Hire Offering Secure Exam Support"
         description2="PSI exams can be really tricky to handle. Our professional exam takers for hire offers a safe and reliable alternative. We provide secret service in which a subject specialist appears for an exam in your stead, using his specialized knowledge and experience to pass the exam successfully. At online PSI exam help, every one of our exam takers is a certified professional that has a proven track record of excellence in PSI exam. We have worked hard to maintain the highest level of security and privacy when it comes to your safety and this will never be compromised. We will show you how to avoid the long, arduous hours of studying so that you can obtain that coveted professional position quickly and easily."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

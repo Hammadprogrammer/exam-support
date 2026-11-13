@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Reliable Exam Help Services for Stress-Free HESI Prep"
         description2="We know how significant the HESI exam is to your nursing career. This is the reason why our HESI exam help services are meant to ensure you have full peace of mind. You do not need to go it alone in the preparation process with our professional assistance, materials, and 24/7 support. Our services are stable, secure, and customized to fit your needs, enabling you to learn at a relaxed pace without the pressure. We ensure that your HESI preparation is pain-free, effective, and easy-going throughout. We pair you with a tutor who has extensive experience learning the format and content of the HESI exam."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

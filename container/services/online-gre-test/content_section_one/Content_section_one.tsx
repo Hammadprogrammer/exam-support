@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Receive Expert GRE Test Prep Help from our Team of GRE Test Experts"
         description2="If you are looking for a shortcut to a top score, check out our professional services; you can even pay someone to take my online test for you. Our great tutors are not only highly knowledgeable about their content, but they also understand the online GRE test format and the enforcement of online proctoring, down to every twist and turn of the virtual environment. We give you a safe and confidential way to achieve the score you want to unlock doors to the graduate and doctoral programs of your dream. This service is for students whose schedules are overflowing or who find themselves unable to hit their target score. We take my online test. We offer to take my online test for you in a hassle-free way that would ensure good results."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

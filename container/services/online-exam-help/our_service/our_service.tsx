@@ -7,61 +7,61 @@ const OurServiceSection = () => {
     {
       title: "Online Exam Help",
       description: "Expert guidance and support to tackle online exams confidently and achieve better grades.",
-      image: "/service/1.jpg",
+      image: "/home/2.png",
       link: "/online-exam-help"
     },
     {
       title: "Proctored Exam Help",
       description: "Expert assistance for tests taken under proctor-supervised conditions.",
-      image: "/service/2.png",
+      image: "/home/3.jpg",
       link: "/proctored-exam-help"
     },
     {
       title: "Online Test & Quizzes",
       description: "Assistance with organizing test materials, interpreting subjects, and efficiently completing test requirements.",
-      image: "/service/3.jpg",
+      image: "/home/4.png",
       link: "/online-tests-quizzes"
     },
     {
       title: "GED Test Help",
       description: "Research, structure and take GED test at a professional level according to certification standards.",
-      image: "/service/4.png",
+      image: "/home/5.jpg",
       link: "/online-ged-test"
     },
     {
       title: "GRE Test Help",
       description: "We are offering you the best experts for GRE test preparation for your GRE certification completion.",
-      image: "/service/5.png",
+      image: "/home/6.jpg",
       link: "/online-gre-test"
     },
     {
       title: "ATI TEASE Test Help",
       description: "Reliable assistance to complete the online ATI TEASE test accurately and on time.",
-      image: "/service/6.jpg",
+      image: "/home/7.jpg",
       link: "/online-teas-test"
     },
     {
       title: "PMP Exam Help",
       description: "Our qualified and professional experts will help you pass your PMP certification exam with higher grades.",
-      image: "/service/7.jpg",
+      image: "/home/8.jpg",
       link: "/online-pmp-exam"
     },
     {
       title: "GMAT Test Help",
       description: "Help understanding lessons, getting through GMAT Test, and get your online certification for you.",
-      image: "/service/8.jpg",
+      image: "/home/10.jpg",
       link: "/online-gmat-exam"
     },
     {
       title: "HESI Exam Help",
       description: "Assistance with researching, structuring, and formatting your HESI exam for a clean, professional appearance.",
-      image: "/service/9.jpg",
+      image: "/home/11.jpg",
       link: "/online-hesi-exam"
     },
     {
       title: "PSI Exam Help",
       description: "Receive tailored support for PSI exam taken via professionals with secure and stable performance.",
-      image: "/service/4.png",
+      image: "/about/1.jpg",
       link: "/online-psi-exam"
     }
   ];

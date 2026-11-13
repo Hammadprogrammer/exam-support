@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Affordable Exam Help – Professional, Proctored Online Exam Support"
         description2="For help with your online proctored exams, trust our affordable proctored exam help. At Exam Support Online, we offer a cheap solution for students who require efficient and confidential help regarding getting around the difficulties presented by proctored online exams. Professional 24×7 support and experts. We have a large, highly qualified faculty team of experts who are well-experienced in their own field. When you select our service, you will receive quality writing help, in addition to spending your money on a solution to your needs with regard to maintaining your academic integrity and achieving success without the burden of hefty pricing that would drain your account. We put help taking proctored exams within reach of all students."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

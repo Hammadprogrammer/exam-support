@@ -10,7 +10,7 @@ const ContentSectionOne = () => {
         heading2="High-Quality Online Course Assistance from Course Takers"
         description2="When a student does not need immediate support, our online course help can be planned as a longer-term, sustainable strategy to help students achieve academic success. We will pair a student with an online course taker to hire for any number of reasons, such as for the opportunity to participate, an online course taker specialist to ensure quality, security, and on-time completion of various assignments or course. Each online course is conducted in a confidential manner, and student information is encrypted. Our service specializes in accommodating students with suggestions and recommendations that assist them with their online classes without compromising their academic goals, while ensuring their privacy is highly regarded and functionality is maintained."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

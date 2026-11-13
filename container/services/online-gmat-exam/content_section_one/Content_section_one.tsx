@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Hire Experts to Do My Online GMAT Exam for Cheap"
         description2="Need GMAT assistance for your tight budget? You can now pay us to do your online test. Achieve the best results without the high cost. Our team has been working on everything from the technical setup to completing tests securely. We’ve helped students from different walks of life, and our success stories give us the confidence we need to assure you! Whether you just need help with one section of the test or the whole shebang, our service adjusts to your needs. Besides, we shall keep your information 100% confidential! Your personal information is not shared, and your identity is always kept anonymous. It’s not just a service–it’s a partnership that safeguards your academic future."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

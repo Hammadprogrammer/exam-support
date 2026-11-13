@@ -36,9 +36,9 @@ const WHY_ICONS = [
 ];
 
 const SERVICE_IMAGES = [
-  '/subject/1.jpg', '/subject/2.png', '/subject/3.jpg', '/subject/1.jpg', '/subject/5.png', '/subject/4.png',
-  '/subject/4.png', '/subject/5.png', '/subject/3.jpg', '/subject/2.png', '/subject/5.png', '/subject/2.png',
-  '/subject/1.jpg', '/subject/3.jpg', '/subject/2.png',
+  '/service/1.jpg', '/service/2.png', '/service/4.png', '/service/5.png', '/service/6.jpg',
+  '/service/7.jpg', '/service/8.jpg', '/service/9.jpg', '/service/10.jpg', '/service/11.jpg',
+  '/home/2.png', '/home/3.jpg', '/home/4.png', '/home/5.jpg', '/home/6.jpg',
 ];
 
 const REVIEW_IMAGES = ['/t1.jpg', '/t2.jpg', '/t3.jpg', '/t4.jpg'];
@@ -162,7 +162,7 @@ const SubjectPage = ({ data }: { data: SubjectPageData }) => {
       />
       <ExamSection />
       <WhyStudentHire
-        centerImage="/subject/1.jpg"
+        centerImage="/our-experts/vector.jpg"
         heading={whyHire.heading}
         subHeading={whyHire.subHeading}
         featuresLeft={whyFeatures.slice(0, half)}

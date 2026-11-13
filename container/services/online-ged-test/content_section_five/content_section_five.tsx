@@ -9,7 +9,7 @@ const ContentSectionFive = () => {
       subHeading="Take My GED Exam for Me with Unmatched Customer Support!"
       subDescription="You need a partner that you can rely on when you are ready to move forward with your education. Our service not only provides a top-notch online GED exam-taking experience but also offers unmatched 24/7 customer service. We know that the GED Preparation and Examination process can be very stressful, which is why our group is committed to providing personalized support throughout. Not only will we answer your first questions to give live updates and after-exam tips, but we will also make the process as easy and stress-free as possible. You not only get an expert to help you pass your test, but you also get a personal support team who cares about your success."
       image1="/service/10.jpg"
-      image2="/service/11.jpg"
+      image2="/about/2.jpg"
     />
   );
 };

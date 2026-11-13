@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Personalized Support with Online Class and Class Taking Services Anytime"
         description2="When deadlines are near, more students need online class help or expert help with classes to improve their grades and alleviate the burden. Qualified PhD specialists ensure that your challenges are addressed on time, accurately, and confidentially. We can also help you with complete help with class if you have a lot going on in multiple subjects, often on a tight schedule. You will receive each class submission on time, original content, and guaranteed results behind each class we take. We have experts available at any time to administer your classes. If you are a student committed to excellence, we have the most dependable and trusted class-taking service you will find anywhere today."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

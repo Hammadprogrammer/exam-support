@@ -9,7 +9,7 @@ const ContentSectionOne = () => {
         heading2="Online Assignment Help Services Guaranteeing Safe and Timely Completion"
         description2="Our online assignment help services focus on handling your assignments professionally and safely. Students can rely on our PhD in-house professionals to deliver accurate assignments within the requested time. The team has a number of experts to complete your assignment task without any delay; therefore, we promise on-time delivery. Each of our qualified assignment takers for hire is well-versed in academic structure and completes each assignment accurately. We guarantee good results, and students trust us to handle assignments with reliability and complete discretion. You can let go and trust our credentialed professionals to complete your assignments accurately, on time, and correctly."
         image1="/service/2.png"
-        image2="/service/3.jpg"
+        image2="/service/11.jpg"
       />
     </>
   );

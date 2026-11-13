@@ -9,7 +9,7 @@ const ContentSectionFive = () => {
       subHeading="Exam Support Online | Hire Our Top-Notch and Reliable Exam Takers"
       subDescription="When it comes to any of your academic concerns, especially when it comes to our unmatched quality online exam help services -- secure your success with brilliant results. We know how stressful and high-stakes taking online exams can be and we’re here to help you succeed. We carefully manage all parts of the test to ensure everything runs smoothly and securely. When you hire our service, you will receive an aid with passing your exam, a reliable partnership ready to support you in your studies and your further career, and the courage to face the future without fearing complex tasks. With professionalism, confidentiality, and quality always at the top of our list, you can rest assured you won't be disappointed with your student exam success. We believe that top-tier tutoring should be available to all, that nothing should be left to chance, and that high prices shouldn’t prohibit success."
       image1="/service/10.jpg"
-      image2="/service/11.jpg"
+      image2="/about/2.jpg"
     />
   );
 };
