@@ -126,19 +126,28 @@
   transition: all 0.2s ease;
   white-space: nowrap;
 
+  svg {
+    font-size: 18px;
+    color: #1f2a44;
+    transition: color 0.2s ease;
+  }
+
   &:hover {
     background: #f7f9fd;
     color: #e09500;
+
+    svg {
+      color: #e09500;
+    }
   }
 
   &.dropdownActive {
     background: #fff8eb;
     color: #e09500;
-  }
 
-  svg {
-    font-size: 18px;
-    color: #8a97b8;
+    svg {
+      color: #e09500;
+    }
   }
 }
 
@@ -169,6 +178,18 @@
     a {
       color: #e09500;
       font-weight: 600;
+
+      svg {
+        color: #e09500;
+      }
+    }
+
+    .labelWithIcon {
+      color: #e09500;
+
+      svg {
+        color: #e09500;
+      }
     }
   }
 
@@ -185,11 +206,16 @@
 
     svg {
       font-size: 20px;
-      color: #8a97b8;
+      color: #1f2a44;
+      transition: color 0.2s ease;
     }
 
     &:hover {
       color: #e09500;
+
+      svg {
+        color: #e09500;
+      }
     }
   }
 }
@@ -207,11 +233,16 @@
 
   svg {
     font-size: 20px;
-    color: #8a97b8;
+    color: #1f2a44;
+    transition: color 0.2s ease;
   }
 
   &:hover {
     color: #e09500;
+
+    svg {
+      color: #e09500;
+    }
   }
 }
 
@@ -232,18 +263,27 @@
 
     svg {
       font-size: 18px;
-      color: #8a97b8;
+      color: #4a5578;
+      transition: color 0.2s ease;
     }
 
     &:hover {
       color: #e09500;
       background: #f7f9fd;
+
+      svg {
+        color: #e09500;
+      }
     }
 
     &.mobSubActive {
       color: #e09500;
       font-weight: 600;
       background: #fff8eb;
+
+      svg {
+        color: #e09500;
+      }
     }
   }
 }
