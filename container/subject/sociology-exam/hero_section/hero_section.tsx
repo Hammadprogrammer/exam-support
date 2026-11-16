@@ -9,20 +9,22 @@ const HeroSection = () => {
         slides={[
           {
             topText: "Quick & Reliable Support",
-            heading: <>Hire Our Skilled Sociology Exam Help For Top Results</>,
+            heading: <>Hire Someone to Take My Sociology Exam With Guaranteed Exam Success</>,
             subText: (
               <p>
-                Our sociology tutors can tackle all topics of the sociology, 
-                from classical theories to contemporary methods. They 
-                make simple study plans and coach you through the 
-                challenges,
+                At Exam Support Online, our excellent sociology exam help is the
+                best way to solve your issues. Our experts are experienced and
+                have a strong interest in sociology, so they fully understand
+                the subject, ensuring you get the support you need. So, no
+                matter what problem you face, we help you with:
               </p>
             ),
             bullets: [
-              "Precise Discussions of Sociology Concepts",
-              "Live Help Exam Preparation",
-              "Urgent Exam Availability",
-              "Reliable Timely Guidelines"
+              "Subject Expert",
+              "Secure IP Login",
+              "Money-Back Guarantee",
+              "Support to Help You Aim for A or B Grades",
+              "Stress-Free Exam Preparation"
             ],
             bgImage: "/home/1.png" 
           }

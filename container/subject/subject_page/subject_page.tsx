@@ -78,6 +78,11 @@ const SERVICE_LINKS: [RegExp, string][] = [
   [/math/i, '/math-exam'],
   [/philosophy/i, '/philosophy-exam'],
   [/law/i, '/law-exam'],
+  [/hiset/i, '/hiset-exam'],
+  [/lsat/i, '/lsat-exam'],
+  [/six sigma/i, '/lean-six-sigma-exam'],
+  [/essay/i, '/essay-help'],
+  [/homework/i, '/homework-help'],
 ];
 
 const resolveLink = (title: string) => {

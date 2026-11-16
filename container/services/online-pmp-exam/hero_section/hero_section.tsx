@@ -8,40 +8,37 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Reliable PMP Exam Help",
-            heading: <>Trusted Online PMP Exam Help For Busy Students</>,
-            subText: <p>Looking for trustworthy take my PMP exam help? Our service offers complete privacy and expert guidance, ensuring you stay confident and prepared throughout your exam.</p>,
+            topText: "Take My PMP Exam",
+            heading: <>Hire Someone to Take My PMP Exam and Ensure Success</>,
+            subText: <p>Students consider us a bespoke platform to take the PMP exam in the USA because we provide top results in a secure, accurate, and timely manner. We have a professional team that takes your exam with full confidence and guarantees outcomes.</p>,
             bullets: [
-              "Reliable PMP exam help",
-              "Perfect for busy students",
-              "Expert support for success",
-              "Stay confident and ready"
+              "450+ PMP Specialists",
+              "1,000s of Happy Clients",
+              "10 Years of Delivering Student Support"
             ],
-            bgImage: "/home/1.png" // image_85f075.jpg ke liye
+            bgImage: "/home/1.png"
           },
           {
-            topText: "Expert Guidance Anytime",
-            heading: <>24/7 Online PMP Exam Helpers For Complete Support</>,
-            subText: <p>From preparation to live exam support, our professional online PMP exam helpers ensure you never feel alone during your exam journey.</p>,
+            topText: "Do My PMP Exam",
+            heading: <>Do My PMP Exam For Me By Certified Tutor</>,
+            subText: <p>Well, PMP is an internationally recognized certification; for this reason, students often need on-time and expert support. We offer help with the PMP exam process, executed in a professional manner. Moreover, our PMP-certified experts can take your test while ensuring a passing score. Our professionals are skilled at managing the examination procedure while guaranteeing accuracy and secrecy. Now you don&apos;t need to worry about the difficult domain or time limit anymore with our help. Our service has helped many students get their desired grades.</p>,
             bullets: [
-              "Help anytime you need",
-              "Flexible exam support",
-              "Expert PMP exam helpers",
-              "Never feel alone"
+              "450+ PMP Specialists",
+              "1,000s of Happy Clients",
+              "10 Years of Delivering Student Support"
             ],
-            bgImage: "/home/9.jpg" // image_85f098.jpg ke liye
+            bgImage: "/home/9.jpg"
           },
           {
-            topText: "Confidential and Secure Service",
-            heading: <>Private And Secure PMP Exam Assistance You Can Rely On</>,
-            subText: <p>Your privacy matters. We provide highly confidential assistance for busy students searching for “take my PMP exam for me” solutions without worry.</p>,
+            topText: "Take My PMP Exam",
+            heading: <>Tell Us to Take My PMP Exam and Get Relaxed</>,
+            subText: <p>We are here to assist you in passing the PMP exam without feeling overburdened or stressed. We can also help you if you want to pay someone to take your PMP exam. We provide expert advice throughout the preparation process. Fortunately, hundreds of candidates have achieved the highest scores with our simple, secure, and professional exam support. They choose us when they are lost in their exam preparation, and luckily, we support them by providing the right and on-time assistance.</p>,
             bullets: [
-              "100% confidential service",
-              "Safe, secure assistance",
-              "Privacy always protected",
-              "Trusted worldwide support"
+              "450+ PMP Specialists",
+              "1,000s of Happy Clients",
+              "10 Years of Delivering Student Support"
             ],
-            bgImage: "/home/hero.jpg" // image_85f0d3.jpg ke liye
+            bgImage: "/home/hero.jpg"
           }
         ]}
       />

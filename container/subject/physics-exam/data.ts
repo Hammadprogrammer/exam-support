@@ -59,13 +59,13 @@ const data: SubjectPageData = {
     features: [
       { title: 'Physics Specialists', desc: 'We have master\'s- or PhD-level tutors. Teaching multiple students for the past few years and bringing them their desired grades.' },
       { title: '100% Confidential', desc: 'Your privacy is our first responsibility, which is why we never share your information with anyone.' },
-      { title: 'Guaranteed Sucess', desc: 'You can confidently aim for A grades with us. Our tutors take your academic goals seriously and work hard to provide the promised support and results.' },
+      { title: 'Guaranteed Success', desc: 'You can confidently aim for A grades with us. Our tutors take your academic goals seriously and work hard to provide the promised support and results.' },
     ],
   },
   contentOne: {
     heading1: 'Here We Keep Your Physics Exam Completely Private',
     description1:
-      'If security is the reason stopping you from seeking physics exam help, you should contact us. We handle your academic information with care. Moreover, our entire team operates under signed NDA agreements before accessing any student information. Your name, program, institution, and every detail of our arrangement stay within our internal team only. Not only that, but we also remove your data after your physical class final grade is confirmed, according to our data retention policy. We take every possible step to protect your privacy.',
+      'If security is the reason stopping you from seeking physics exam help, you should contact us. We handle your academic information with care. Moreover, our entire team operates under signed NDA agreements before accessing any student information. Your name, program, institution, and every detail of our arrangement stay within our internal team only. Not only that, but we also remove your data after your physics class final grade is confirmed, according to our data retention policy. We take every possible step to protect your privacy.',
     heading2: 'How Students Excel With Our Take My Physics Exam Service',
     description2:
       'We provide reliable, secure, and on-time exam support all over the USA. Just send us a message and share your requirements; we will handle everything. Expert Tutors: We have expert subject specialists providing professional assistance and support to students all over the USA. Stress-Free Exams: We completely understand that exams are stressful, so we make it easy for you. Our tutors sit with you and break down all the topics to help you learn more easily. Simple Procedure: We make it easy to get help with your physics exam from an expert tutor in just a few steps. 24-Hour Support: We have an expert customer support team available to answer your questions, even during late hours. Safe and Secure: We promise to keep your information safe and secure. Whether it\'s your personal information or course details, we never share it with others. Instant Help: Get instant assistance with any topic at any time without worrying.',
@@ -73,7 +73,7 @@ const data: SubjectPageData = {
   whyHire: {
     heading: 'Why Should You Choose Exam Support Online for Online Physics Exams?',
     subHeading:
-      'Does your physics evaluation dissatisfy you regardless of how much effort you put in? Well, this happens with most of the students. Try our service; we know our professional support and expert guidance will surely come to you again. Our exam takers on our panel are chosen very wisely, after going through the various evaluations and proper training, and then given a chance to deal with the students.',
+      'Does your physics evaluation dissatisfy you regardless of how much effort you put in? Well, this happens with most of the students. Try our service; we know our professional support and expert guidance will surely bring you back to us. The exam takers on our panel are chosen very wisely, after going through the various evaluations and proper training, and then given a chance to deal with the students.',
     features: [
       { title: 'Expert Tutors', desc: 'We have expert subject specialists providing professional assistance and support to students all over the USA.' },
       { title: 'Stress-Free Exams', desc: 'We completely understand that exams are stressful, so we make it easy for you. Our tutors sit with you and break down all the topics to help you learn more easily.' },

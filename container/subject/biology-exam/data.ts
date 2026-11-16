@@ -5,7 +5,7 @@ const data: SubjectPageData = {
     topText: 'Biology Exam Help',
     heading: 'Guaranteed Quality Assistance With Online Biology Exam Help',
     subText:
-      'If you are facing hurdles with a biology exam and often ask, "Can I hire someone to take my online biology exam?" Our answer to this question is a resounding yes. We have designed a remarkable biology exam help that caters to all biology exam needs. We understand that biology can be challenging with its complex topics and detailed diagrams; that\'s why we just want someone reliable to handle it for you safely and timely. Our biology tutor ensures your exam is completed flawlessly so you get the result you need without panic.',
+      'If you are facing hurdles with a biology exam and often ask, "Can I hire someone to take my online biology exam?" Our answer to this question is a resounding yes. We have designed a remarkable biology exam help that caters to all biology exam needs. We understand that biology can be challenging with its complex topics and detailed diagrams; that\'s why you just want someone reliable to handle it for you safely and timely. Our biology tutor ensures your exam is completed flawlessly so you get the result you need without panic.',
     bullets: ['100% Unique work', 'Safe and Secure System', 'Timely Delivery'],
     bgImage: '/home/hero.jpg',
   },
@@ -44,7 +44,7 @@ const data: SubjectPageData = {
   contentTwo: {
     title1: 'Expert Tutor Available To Take Your Biology Class Online',
     desc1:
-      'Biology students face a stressful routine of daily classes, regular assignments, and weekly quizzes. For this reason, they often feel the need to seek professional and reliable support. And Exam Support Online is doing the same. We have vetted biology experts who are not just random freelancers. We have onboarded them after they passed our strict requirements. So you don\'t need to worry about that. Here, we also assure you that you\'ll receive assistance that not only helps you achieve better results but also keeps you updated on weekly progress. This way you can better get confident about the biology course.',
+      'Biology students face a stressful routine of daily classes, regular assignments, and weekly quizzes. For this reason, they often feel the need to seek professional and reliable support. And Exam Support Online is doing the same. We have vetted biology experts who are not just random freelancers. We have onboarded them after they passed our strict requirements. So you don\'t need to worry about that. Here, we also assure you that you\'ll receive assistance that not only helps you achieve better results but also keeps you updated on weekly progress. This way you can feel more confident about the biology course.',
     title2: 'Reliable Take My Biology Exam Service With Guaranteed Exam Success',
     desc2:
       'Your money is valuable; spend it wisely! Here, we completely understand that students are already struggling with their academic responsibilities. For this reason, we always believe in helping them securely without charging any extra amount. We design our system in a way where you can ask any question and can get an in-depth explanation without worrying about a breach of confidentiality. With our safe and secure platform, students come to us session after session because we take it as our highest priority to protect their personal details and provide reliable support throughout their biology courses.',
@@ -71,7 +71,7 @@ const data: SubjectPageData = {
     subHeading:
       'Our main objective is to support students who are struggling with their biology exam and looking for reliable support to take their biology exam. See how we help you with your online biology exam:',
     features: [
-      { title: 'Expert Biology Tutor', desc: 'We have PHD level tutor, helping students getting their desired result in an highly affordable price range.' },
+      { title: 'Expert Biology Tutor', desc: 'We have PhD-level tutors helping students achieve their desired results at a highly affordable price.' },
       { title: 'Fast Completion', desc: 'We provide fast and reliable academic support to help you manage tight deadlines without unnecessary stress.' },
       { title: 'Simple Procedure', desc: 'We designed our system in a simple way so that students can get on-time and professional support from us.' },
       { title: '24/7 Support', desc: 'Our team is available around the clock to help you with your studies and exam preparation whenever you need support.' },
@@ -93,11 +93,11 @@ const data: SubjectPageData = {
     badgeTitle: 'Client Review',
     mainTitle: 'Honest Reviews of Our Students',
     description:
-      'We have received positive feedback from students who achieved high grades and rated us 4.5/5 on Google. Check out these reviews to find out which topics needed help with and what they liked about our service.',
+      'We have received positive feedback from students who achieved high grades and rated us 4.5/5 on Google. Check out these reviews to find out which topics they needed help with and what they liked about our service.',
     items: [
-      { name: 'Emily Johnson', reviewText: "There was a test around the Krab's cycle that was quite difficult for me. But the expert tutor explained all these concepts and helped me pass my exam with high grades." },
+      { name: 'Emily Johnson', reviewText: "There was a test on the Krebs cycle that was quite difficult for me. But the expert tutor explained all these concepts and helped me pass my exam with high grades." },
       { name: 'Daniel Thompson', reviewText: 'This is definitely one of the outstanding services I have ever experienced. And I would recommend it to others as well. I mean, you can handle the rest of the course without taking any stress.' },
-      { name: 'Michael Anderson', reviewText: 'Genetics and cell biology are tough, and sometimes need one helping hand to explain each topic in detail. Exam Support Online did exactly the same for me.' },
+      { name: 'Michael Anderson', reviewText: 'Genetics and cell biology are tough, and sometimes need a helping hand to explain each topic in detail. Exam Support Online did exactly the same for me.' },
       { name: 'Sophia Williams', reviewText: 'This is my second time using their online exam service, and they again helped me in a way that I can\'t stop appreciating. The tutor understood my problems and guided me throughout my exam preparation. I\'m really happy with their support.' },
     ],
   },

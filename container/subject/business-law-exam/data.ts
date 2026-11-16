@@ -38,7 +38,7 @@ const data: SubjectPageData = {
     heading: 'Stats You Cannot Ignore',
     stats: [
       { value: 97, suffix: '%', label: 'Success Rate' },
-      { value: 10000, suffix: '+', label: 'Business Law Exam Covered' },
+      { value: 10000, suffix: '+', label: 'Business Law Exams Covered' },
       { value: 250, suffix: '+', label: 'Business Law Specialists' },
     ],
   },
@@ -48,7 +48,7 @@ const data: SubjectPageData = {
       'Business law requires way more than memorizing legal terms; one has to understand legislation, interpret cases, and apply principles accurately to different situations. We have specialists in business law who hold extensive knowledge and deep clarity in the field. They are strongly familiar with legal cases and their practical applications. Moreover, they have experience in online exam-taking with a deep understanding of exam patterns and question styles. The precision with which they attempt each business law exam question ensures absolute accuracy every time. All these qualities help us earn high grades for you, improving your academic performance.',
     title2: 'Take My Business Law Exam In A Confidential Manner - Ensuring 100% Security',
     desc2:
-      'The most concerning thing when it comes to asking a professional to take my law exam or business exam is confidentiality. We always prioritize it by implementing strong security protocols to protect student details and account information. Secure HTTPS connections and TLS encryption enable us to secure information transferred between users and the platform. In addition to that, restricted account access, multi-factor authentication, and secure payment processing further ensures complete confidentiality. All these measures create a reliable and well-protected digital experience. So, get our online business law support without worrying about any confidentiality breaches.',
+      'The most concerning thing when it comes to asking a professional to take my law exam or business exam is confidentiality. We always prioritize it by implementing strong security protocols to protect student details and account information. Secure HTTPS connections and TLS encryption enable us to secure information transferred between users and the platform. In addition to that, restricted account access, multi-factor authentication, and secure payment processing further ensure complete confidentiality. All these measures create a reliable and well-protected digital experience. So, get our online business law support without worrying about any confidentiality breaches.',
   },
   aboutTeam: {
     badge: 'About Our Team',
@@ -64,10 +64,10 @@ const data: SubjectPageData = {
   contentOne: {
     heading1: 'Take My Business Law Exam and Make Every Mark Count',
     description1:
-      'When you desire to stay at the top, every mark matters. You need a combination of skills to achieve your desired results, and our specialists possess them all. From strong conceptual understanding to effective time management, we make sure that you get to shine through the exam. We recognize different business law structures, understand the contractual requirements, and can differentiate between civil and criminal liabilities. Our specialists\' focused approach and our teamwork enable us to earn top scores for you every time. Hence, asking us to take my business law exam for me means avoiding any chances and securing desired results.',
+      'When you desire to stay at the top, every mark matters. You need a combination of skills to achieve your desired results, and our specialists possess them all. From strong conceptual understanding to effective time management, we make sure that you get to shine through the exam. We recognize different business law structures, understand the contractual requirements, and can differentiate between civil and criminal liabilities. Our specialists\' focused approach and our teamwork enable us to earn top scores for you every time. Hence, asking us to take your business law exam for you means avoiding any chances and securing desired results.',
     heading2: 'Online Business Law Exam Help With Personalized Tutoring Sessions',
     description2:
-      'It gets way easier to understand business law subject when every concept is explained as per your learning method. This is exactly how we help students who wish to take our preparation support. Our expert tutors design each session according to your syllabus, examination requirements, and areas of difficulty. We help you understand legal principles, business regulations, and corporate responsibilities with simple examples. We also help students get familiar with the IRAC method for organized legal analysis. We design our tutoring sessions according to your exam deadline and your learning capacity. Our experts show you how to identify legal issues, select relevant rules, and reach logical conclusions for successful results.',
+      'It gets way easier to understand the business law subject when every concept is explained as per your learning method. This is exactly how we help students who wish to use our preparation support. Our expert tutors design each session according to your syllabus, examination requirements, and areas of difficulty. We help you understand legal principles, business regulations, and corporate responsibilities with simple examples. We also help students get familiar with the IRAC method for organized legal analysis. We design our tutoring sessions according to your exam deadline and your learning capacity. Our experts show you how to identify legal issues, select relevant rules, and reach logical conclusions for successful results.',
   },
   whyHire: {
     heading: 'Why Is Exam Support Online The Top Choice Of Students For Business Law Exam Help?',

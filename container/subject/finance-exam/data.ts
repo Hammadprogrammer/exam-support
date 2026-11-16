@@ -47,15 +47,15 @@ const data: SubjectPageData = {
       'Yes, it is among the most asked questions. And we completely understand this when you have already been stretched thin between classes, employment obligations, and family. We help you focus on your career goals. When you hire our expert professionals, they deliver precise answers and help you work towards A grades while protecting your GPA and maintaining your sanity. Moreover, for security, we use encrypted automated tools to protect your personal information. We also follow secure account-handling practices. This makes us more reliable and secure.',
     title2: 'Hire Someone to Take My Online Finance Exam with Guaranteed Success',
     desc2:
-      'Finance is not an easy subject, especially with unclear concepts, theories, and more difficult parts. However, this subject needs the active participation of a qualified tutor for proper understanding. This is why you need help before finance exams ruin your GPA. Here, our qualified staff is acquainted with financial particulars, examinations, and academic demands, and they are able to help you correctly and on time when you need it the most. So, if you have ever wished someone could help you with your online finance exam, this is a great opportunity. Get the desired grades you desire more easily than before with a confidential process, quick booking, and trustworthy support.',
+      'Finance is not an easy subject, especially with unclear concepts, theories, and more difficult parts. However, this subject needs the active participation of a qualified tutor for proper understanding. This is why you need help before finance exams ruin your GPA. Here, our qualified staff is acquainted with financial particulars, examinations, and academic demands, and they are able to help you correctly and on time when you need it the most. So, if you have ever wished someone could help you with your online finance exam, this is a great opportunity. Achieve the grades you want more easily than before with a confidential process, quick booking, and trustworthy support.',
   },
   aboutTeam: {
     badge: 'About Our Team',
     heading: 'Master Your Finance Exam With Our Reliable Help Available 24/7',
     features: [
-      { title: 'Expert Professionals', desc: 'Our experts are masters of Excel financial modeling, BA II Plus calculators, and valuation software for advanced exams. Here we have simplified the complicated concept and deliver them in an on time manner.' },
+      { title: 'Expert Professionals', desc: 'Our experts are masters of Excel financial modeling, BA II Plus calculators, and valuation software for advanced exams. Here we have simplified the complicated concepts and delivered them in an on time manner.' },
       { title: '100% Calculation', desc: 'We understand that finance tests require accuracy. That\'s why our analysts ensure that there are no errors in math, while providing professional advice on how to take your finance exam.' },
-      { title: 'Safe & Private', desc: 'We have encrypted remote tools that won\'t pass through the proctoring software without being detected. So when you hire us to do your finance exam, your identity remains intact.' },
+      { title: 'Safe & Private', desc: 'We have encrypted remote tools that won\'t be detected by the proctoring software. So when you hire us to do your finance exam, your identity remains intact.' },
     ],
   },
   contentOne: {
@@ -69,11 +69,11 @@ const data: SubjectPageData = {
   whyHire: {
     heading: 'Why Opting For Our Take My Online Finance Exam Service',
     subHeading:
-      'We have gathered Master\'s and PhD experts who have helped thousands of studnets across the USA. The benefits you will get from the online platform are as follows.',
+      'We have gathered Master\'s and PhD experts who have helped thousands of students across the USA. The benefits you will get from the online platform are as follows.',
     features: [
       { title: 'Finance Expert', desc: 'Exam Support Online provides you with the opportunity to connect with global teachers. You can learn from the best teachers from anywhere in the world.' },
-      { title: 'Convient System', desc: 'We provide convenience here; students can easily access their portal from anywhere in the world.' },
-      { title: 'Reasonable Price', desc: 'We provide affordable pricing; therefore, students won\'t need a huge amount to borrow from their parents; rather, they can help themselves with pocket money.' },
+      { title: 'Convenient System', desc: 'We provide convenience here; students can easily access their portal from anywhere in the world.' },
+      { title: 'Reasonable Price', desc: 'We provide affordable pricing; therefore, students won\'t need to borrow a huge amount from their parents; rather, they can help themselves with pocket money.' },
       { title: '24 Hour Support', desc: 'Hence, students have a lot of questions in their minds, and to answer them, they need 24-hour support. Here we are doing the same, providing on-time assistance at any time of the day.' },
       { title: 'Flexible Approach', desc: 'We make it easy for you to get in touch with our expert professionals while sitting at home.' },
       { title: 'Money Back Guarantee', desc: 'We also offer you the opportunity to get your money back if you fail any of your exams.' },
@@ -82,7 +82,7 @@ const data: SubjectPageData = {
   getQuote: {
     topLabel: 'Get A Quote',
     heading: 'Hire An Exam Taking Expert',
-    description: 'Simply send us a quote or even chat with us anytime you want & we\'ll love to help you in Academics.',
+    description: 'Simply send us a quote or even chat with us anytime you want & we\'d love to help you in Academics.',
     contactHeading: 'Place Your Request Here',
     contactDescription: 'You may communicate with us through chat. Our professionals are available to respond to you at any time of the day.',
     formHeading: 'Early Bird Discount',
@@ -92,10 +92,10 @@ const data: SubjectPageData = {
     badgeTitle: 'Client Review',
     mainTitle: 'Check Success Stories',
     description:
-      'Our students have reviewed us as one of the best exam support services, considering us a number one service provider in the USA.',
+      'Our students have reviewed us as one of the best exam support services, rating us as the number-one service provider in the USA.',
     items: [
       { name: 'Emily Carter', reviewText: 'I am very satisfied with your finance exam support. Thank you for your effort and professionalism.' },
-      { name: 'Daniel Brooks', reviewText: 'I kept getting WACC and discount rate questions wrong. Even my practice tests kept going wrong. But the tutor I found there supported me a lot. Finally, I got an A with their help.' },
+      { name: 'Daniel Brooks', reviewText: 'I kept getting WACC and discount rate questions wrong. Even my practice tests kept going badly. But the tutor I found there supported me a lot. Finally, I got an A with their help.' },
       { name: 'Sarah Mitchell', reviewText: 'Excellent decision to choose Exam Support Online. I also recommend it to others who are struggling with their studies.' },
       { name: 'Jessica Wilson', reviewText: 'I was struggling with finance concepts and needed extra guidance. The tutor explained the difficult topics in a simple way and helped me feel more confident about my studies. I really appreciate the support.' },
     ],

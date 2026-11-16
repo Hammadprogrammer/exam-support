@@ -4,10 +4,10 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Why Our PMP Exam Helps: We are Confidential, Reliable, and Professional"
-        description1="We know how important it is to have a sensitive and confidential process related to something as important as a professional certification exam. Your privacy is our core commitment: we treat all the information and chat privately, use secure data transmission and data stores to manage your information. Our dependability comes from the careful execution of everything that takes place, from scheduling to exam day, and everything in between! We promise the results you need so you can concentrate on what really matters: your career and your business, and not get worried about the exam itself. And professionalism is the fact that we are serious and no-nonsense, as evidenced by the high bar we set for code, design, and process."
-        heading2="Take My Online PMP Exam for Me – Get the Results On Time"
-        description2="Online PMP exam is an established & confidential service designed for individuals who are ready to attain their PMP certification in a secure and private manner. We know how challenging it is to juggle your time around job, family, and other responsibilities, alongside preparing and taking your exams. Which is why we have a quick, stress-free way for those who need help they can count on. Our professional team works is highly confidential to make sure we protect your privacy every step of the way. No matter whether it’s that you’re pressed for time, have exam anxiety, or are wrestling with any other obstacle, we’re here to provide a safe route — one that is confidential, reliable, and consistent time and again."
+        heading1="Choose Affordable PMP Exam Help With Us"
+        description1="The PMP is no doubt difficult for students, as it takes full effort and focus to pass. That's why they look for PMP expert support, but most of them fail due to high pricing. Therefore, Exam Support Online provides professional assistance at an affordable cost. Our team gives you test preparation tools and study guides that will not break the bank and will help you do well."
+        heading2="Now You Can Get Someone to Help You Pass Your PMP Exam on the First Attempt"
+        description2="Juggling a job and coursework, and unable to manage on your own? We can help you. If you are thinking about how you can clear your exam in a single go, then listen. Our tutors not only teach you how to approach the PMP exam, but they also share tips on time management, question-solving techniques, and practice tests. These strategies help you stay confident and prepare for your exam with the right strategy to improve your chances of passing on your first attempt."
         image1="/service/2.png"
         image2="/service/11.jpg"
       />

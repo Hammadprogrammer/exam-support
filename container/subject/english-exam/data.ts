@@ -6,14 +6,14 @@ const data: SubjectPageData = {
     heading: 'Secure High Grades and a Promising Career With Online English Exam Help',
     subText:
       'Stop panicking about your upcoming English exam. Let\'s connect! Exam Support Online is one of the best English exam services, where you can get expert guidance from specialized professionals who can help you understand and complete your online assessment on time. Join our family now and see the difference that professional academic support can make in your educational journey.',
-    bullets: ['We provide PhD online exam takers', '150+ knowledgeable tutors for concept building', '1000 satisfied studnets.'],
+    bullets: ['We provide PhD online exam takers', '150+ knowledgeable tutors for concept building', '1000 satisfied students.'],
     bgImage: '/home/hero.jpg',
   },
   services: {
     badge: 'Our Services',
     heading: 'See Why Every Other Student Is Taking Our Online English Exam Service',
     description:
-      'If you are also the one who is overwhelmed by deadlines. Then hire a reliable exam taker; our platform is the solution. We provide expert help with online exams so you can confidently pay someone to take your exam and protect your future academic standing.',
+      'If you are also overwhelmed by deadlines, then hire a reliable exam taker; our platform is the solution. We provide expert help with online exams so you can confidently pay someone to take your exam and protect your future academic standing.',
     items: [
       { title: 'Online Exam Help', description: 'Our tutors sit with you and discuss your syllabus with you. The tough topics get the most practice.' },
       { title: 'Proctored Exam Help', description: 'Webcam exams make lots of students nervous. We run a mock test first, so the real one feels normal.' },
@@ -44,10 +44,10 @@ const data: SubjectPageData = {
   contentTwo: {
     title1: 'Let an Expert Take My Online English Exam And Cover It',
     desc1:
-      'No doubt! English is a universal language worldwide. And it\'s no secret that, apart from being just a language, it has a lot of personal charm and literature. This makes English more difficult. So Exam Support Online came up with the idea to help students take our online English exam with the help of an expert tutor. For you, the view seems new, but here we have hired our experts based on their qualifications. Instead, they must undergo several tests, interviews, and sample exam papers within a limited time frame to prove they are the true lifesavers that bring you your desired results in a single go.',
+      'No doubt! English is a universal language worldwide. And it\'s no secret that, apart from being just a language, it has a lot of personal charm and literature. This makes English more difficult. So Exam Support Online came up with the idea to help students take their online English exam with the help of an expert tutor. This may seem new to you, but here we have hired our experts based on their qualifications. Instead, they must undergo several tests, interviews, and sample exam papers within a limited time frame to prove they are the true lifesavers that bring you your desired results in a single go.',
     title2: 'Pay Someone To Do My English Exam For Me And Get Guaranteed Results',
     desc2:
-      'Why let your exam anxiety ruin your grades? Exam support online is here to help you. Our experts are well-versed and well-trained to provide exam-taking services at the eleventh hour on our clients\' request. So, if you are stressing about who is going to answer you this late. we are here to provide you with expert support from our tutors, who work day and night to deliver timely assistance. And believe us, we never leak your personal information and course credentials to anyone else.',
+      'Why let your exam anxiety ruin your grades? Exam support online is here to help you. Our experts are well-versed and well-trained to provide exam-taking services at the eleventh hour on our clients\' request. So, if you are stressing about who is going to answer you this late. We are here to provide you with expert support from our tutors, who work day and night to deliver timely assistance. And believe us, we never leak your personal information and course credentials to anyone else.',
   },
   aboutTeam: {
     badge: 'About Our Team',
@@ -55,7 +55,7 @@ const data: SubjectPageData = {
     features: [
       { title: 'Professional Tutor', desc: 'Our highly qualified tutors provide expert guidance and professional support to students in the USA.' },
       { title: 'Trusted and Reliable', desc: 'We are known as one of the trusted exam service providers, while keeping the students\' personal information and privacy in mind.' },
-      { title: 'Guaranteed Sucess', desc: 'When you decide to get online exam help from us, it means we do our best to help you achieve your desired results.' },
+      { title: 'Guaranteed Success', desc: 'When you decide to get online exam help from us, it means we do our best to help you achieve your desired results.' },
     ],
   },
   contentOne: {
@@ -93,10 +93,10 @@ const data: SubjectPageData = {
     mainTitle: 'Reviews Of Our Happy Customers',
     description: 'These are the reviews of our recurring students who love our exam help service and recommend it to others as well.',
     items: [
-      { name: 'Olivia Parker', reviewText: 'I just got my A on my English Exam. It was all because of their tutor\'s crystal-clear explanation. I highly recommend them!' },
+      { name: 'Olivia Parker', reviewText: 'I just got my A on my English Exam. It was all because of their tutor\'s crystal-clear explanations. I highly recommend them!' },
       { name: 'Ethan Mitchell', reviewText: 'I appreciate your help with my English exam, and I would like to suggest it to the students who are facing difficulty in their English exam.' },
       { name: 'Sophia Bennett', reviewText: 'I found a hidden gem for my exam. This website is a lifesaver, professional, efficient, and affordable.' },
-      { name: 'Noah Anderson', reviewText: 'I am taking their service for the third time. These are the reviews of our recurring studnets who love our exam help service and recommend it to others as well.' },
+      { name: 'Noah Anderson', reviewText: 'I am taking their service for the third time.' },
     ],
   },
 };

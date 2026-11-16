@@ -5,10 +5,10 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Get Reliable Online CompTIA Exam Help Anytime"
-        description1="When you wish to ensure a great grade without fuss, our service will bring you real peace of mind. Our PhD and certified expert team will safely complete your exam while you relax, always maintaining 100% privacy. Your information is encrypted and securely managed - confidentiality will never be compromised. Students trust us as we put their success and satisfaction first. Consider our CompTIA exam takers for hire, as they are some of the best in the industry - honest, secure, and experienced with taking online certification exams. Your identity will be protected using advanced SSL encryption technology that makes every transaction private and confidential. With us, you get everything in one secure package - expertise, discretion and success."
-        heading2="Hire CompTIA Exam Taker for Stress-Free Exam Success"
-        description2="CompTIA exam takers for hire are vetted professionals who specialize in CompTIA certifications, know exactly what the questions will look like, know the timing of the exam, and are there to take your exam without complications. Our exacting exam taker process leaves no detail overlooked; the entire process is safely managed by a highly skilled professional. We protect you with our strict privacy policy, systems that encrypt your data from end to end, and guarantee both high scores and your satisfaction. Each one of our experts possesses either professional or Ph.D. level experience, so you can be assured they will complete your CompTIA exam with precision and excellence. Our pledge is to always deliver 100% satisfaction, guaranteed high marks and all stress-free."
+        heading1="Hire Someone Who Handles Every Exam For You, Effortlessly!"
+        description1="We provide professional help for any CompTIA certification. So, it doesn't matter if it is an entry-level or advanced certification; we have experts in every field who can take your exam smoothly."
+        heading2="Take My CompTIA Exam Confidently and Accurately"
+        description2="Now, you don't need to go through the unnecessary stress of understanding CompTIA topics alone. From your first topic to the last, we guide you expertly and confidently. Thousands of students have prepared for their exams confidently with our support. Our experts provide guidance you can count on. So, send a quote and take a step towards your success."
         image1="/service/7.jpg"
         image2="/service/6.jpg"
       />

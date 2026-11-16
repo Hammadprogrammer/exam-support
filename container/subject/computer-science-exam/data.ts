@@ -5,7 +5,7 @@ const data: SubjectPageData = {
     topText: 'Computer Science Exam Help',
     heading: 'Can I Pay Someone to Take My Computer Science Exam For Better Grades',
     subText:
-      'We provide a simple, secure, private, and stress-free online exam service. You might be thinking, " How? We have expert professionals who first meet with you, break down your requirements, and then create a specialized plan to help you prepare for your proctored exam. With our expert help, you can get:',
+      'We provide a simple, secure, private, and stress-free online exam service. You might be thinking, "How?" We have expert professionals who first meet with you, break down your requirements, and then create a specialized plan to help you prepare for your proctored exam. With our expert help, you can get:',
     bullets: ['PhD-qualified exam taker', 'Top-tier exam help', '24/7 customer support', 'Zero-risk privacy', 'Guaranteed result'],
     bgImage: '/home/hero.jpg',
   },
@@ -44,10 +44,10 @@ const data: SubjectPageData = {
   contentTwo: {
     title1: 'Help Me Get Expert Help for Taking My Computer Science Exam',
     desc1:
-      'In today\'s modern world, getting help from a reliable service provider is difficult. Nowadays, everyone is providing online exam help, but they are mostly running scams. So here, Exam Support Online provides reliable and professional computer exam support. We help you connect with master\'s or PHD level tutors who provide timely and dependable support. Do you know what makes us the best choice? We are a legitimate service provider with 15 years of experience offering the best computer science guidance throughout the USA.',
+      'In today\'s modern world, getting help from a reliable service provider is difficult. Nowadays, everyone is providing online exam help, but they are mostly running scams. So here, Exam Support Online provides reliable and professional computer exam support. We help you connect with master\'s or PhD level tutors who provide timely and dependable support. Do you know what makes us the best choice? We are a legitimate service provider with 15 years of experience offering the best computer science guidance throughout the USA.',
     title2: 'We Do Your Computer Science Exam on Short Notice',
     desc2:
-      'Exam Support Online is known for providing fast service. We have been named the number one service provider because we provide computer science exam support on short notice. This means you can contact us anytime; we aim to provide quality assistance to help you prepare for your exams. Moreover, we have a number of computer experts who have been teaching various subjects for more than years. That\'s the reason we respond quickly without taking any extra time to determine the best answer or solution to your questions.',
+      'Exam Support Online is known for providing fast service. We have been named the number one service provider because we provide computer science exam support on short notice. This means you can contact us anytime; we aim to provide quality assistance to help you prepare for your exams. Moreover, we have a number of computer experts who have been teaching various subjects for years. That\'s the reason we respond quickly without taking any extra time to determine the best answer or solution to your questions.',
   },
   aboutTeam: {
     badge: 'About Our Team',
@@ -74,7 +74,7 @@ const data: SubjectPageData = {
       { title: 'Subject Specialists', desc: 'If you want to hire someone to take your computer science exam, we are here to help you. Exam Support Online provides highly qualified tutors who have studied at top universities.' },
       { title: 'Economical Pricing', desc: 'We support the idea of affordable pricing, which is why we set our pricing according to the students\' needs. Thus, we never ask you to pay upfront costs or any additional charges.' },
       { title: '24/7 Custom Support Team', desc: 'We have a specialized customer support team available day and night. This helps us to keep both our tutor and client updated on their order progress.' },
-      { title: 'Flawless Exam Assistance', desc: 'Our tutors have years of experience in assisting students with computer science exams, tests, terminals, and assessments. They have attempted 130k+ tests and know everything from start to finish.' },
+      { title: 'Flawless Exam Assistance', desc: 'Our tutors have years of experience in assisting students with computer science exams, tests, term papers, and assessments. They have attempted 130k+ tests and know everything from start to finish.' },
       { title: '100% Privacy and Security', desc: 'We deliver the best results while assuring your information is protected and confidential at all times.' },
       { title: 'Guaranteed Result', desc: 'We start working on your study plan promptly, focusing on your learning needs and exam preparation goals. We aim to help you strengthen your understanding, improve your skills, and work toward your desired results.' },
     ],
@@ -94,9 +94,9 @@ const data: SubjectPageData = {
     description:
       'You know Exam Support Online is known as one of the trusted and reliable platforms in the USA. That\'s why our students rate us 4.5/5. Let\'s check their reviews.',
     items: [
-      { name: 'Olivia Parker', reviewText: 'If you are looking to hire someone to do my computer science exam. I would highly recommend Exam Support Online; they assure guaranteed high grades, timely updates, and money-back claims.' },
-      { name: 'Ethan Walker', reviewText: 'Being stuck with my upcoming computer science exam, I thought Can someone help me prepare for my online computer science exam. They got me an A+ at an affordable price point.' },
-      { name: 'Chloe Bennett', reviewText: 'They are the best group of people. I have ever worked with. I received all the assistance as per my requirements. Very dependable and reasonable price.' },
+      { name: 'Olivia Parker', reviewText: 'If you are looking to hire someone to do my computer science exam, I would highly recommend Exam Support Online; they assure guaranteed high grades, timely updates, and money-back claims.' },
+      { name: 'Ethan Walker', reviewText: 'Being stuck with my upcoming computer science exam, I thought, "Can someone help me prepare for my online computer science exam?" They got me an A+ at an affordable price point.' },
+      { name: 'Chloe Bennett', reviewText: 'They are the best group of people I have ever worked with. I received all the assistance as per my requirements. Very dependable and reasonably priced.' },
       { name: 'Noah Thompson', reviewText: 'They got me an A; I am really grateful! They helped me in a short time. I highly recommend their academic support.' },
     ],
   },

@@ -45,10 +45,10 @@ const data: SubjectPageData = {
   contentTwo: {
     title1: 'Wanna Score More? Ask Us To Take My Online Accounting Exam For Me',
     desc1:
-      'What if we tell you that you can now hire someone to take your online accounting exam that comes with a guarantee of high scores, including A and A+? Yes, it is very much possible at Exam Support Online, where our experts offer reliable support every time. We take your online accounting exam with thorough knowledge of interpreting financial statements, calculating ratios, and analyzing costs. We provide reasoning for every question while precisely meeting the accounting exam requirements rather than simply presenting the answer. So, next time you wish to score higher, hire our online accounting exam-taking expert.',
+      'What if we tell you that you can now hire someone to take your online accounting exam and get a guarantee of high scores, including A and A+? Yes, it is very much possible at Exam Support Online, where our experts offer reliable support every time. We take your online accounting exam with thorough knowledge of interpreting financial statements, calculating ratios, and analyzing costs. We provide reasoning for every question while precisely meeting the accounting exam requirements rather than simply presenting the answer. So, next time you wish to score higher, hire our online accounting exam-taking expert.',
     title2: 'Pay Someone To Take My Accounting Exam At Any Time From Anywhere',
     desc2:
-      'Exam luck might not always be on your side, but our exam experts definitely are! Want to hire someone to take my accounting exam? Connect with our accounting professionals, no matter if you are from New York, California, Texas, Florida, or any other part of the USA. Our accounting experts are always available and prepared to take your online exam or provide you with consultation as per your study commitments. As long as you have an internet connection to place an order, you can get instant support at any hour of the day or night. This is how we make our online accounting exam help more easily accessible for every student struggling with their accounting exam.',
+      'Exam luck might not always be on your side, but our exam experts definitely are! Want to hire someone to take your accounting exam? Connect with our accounting professionals, no matter if you are from New York, California, Texas, Florida, or any other part of the USA. Our accounting experts are always available and prepared to take your online exam or provide you with consultation as per your study commitments. As long as you have an internet connection to place an order, you can get instant support at any hour of the day or night. This is how we make our online accounting exam help more easily accessible for every student struggling with their accounting exam.',
   },
   aboutTeam: {
     badge: 'About Our Team',
@@ -101,7 +101,7 @@ const data: SubjectPageData = {
       { name: 'Jim K.', reviewText: 'The kind of exam help I received from Exam Support Online was truly commendable. They listened to my requirements carefully and met them, helping me earn an A grade in my financial accounting exam.' },
       { name: 'Elizabeth T.', reviewText: 'I was all lost when it came to preparing for cost accounting until I got help from Exam Support Online. Their assigned expert helped me prepare for it by highlighting practical costing exercises and overhead calculations.' },
       { name: 'Noah S.', reviewText: 'I found it a bit risky to get online accounting exam-taking help in the beginning, but a 15-minute direct communication with my expert put my worries to rest. Exam Support Online truly lives up to its reputation of being a reliable and secure platform.' },
-      { name: 'Lucy M.', reviewText: 'My scores fairly improved in my accounting exams, all thanks to Exam Support Online. Their instant support, smooth registration, and obviously successful results won me over. Definitely gonna recommend it to my fellow students.' },
+      { name: 'Lucy M.', reviewText: 'My scores significantly improved in my accounting exams, all thanks to Exam Support Online. Their instant support, smooth registration, and obviously successful results won me over. Definitely gonna recommend it to my fellow students.' },
     ],
   },
 };

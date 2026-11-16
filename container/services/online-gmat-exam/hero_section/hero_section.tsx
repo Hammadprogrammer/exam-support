@@ -8,38 +8,38 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Reliable GMAT Test Help",
-            heading: <>Stress-Free GMAT Solutions For Busy Students</>,
-            subText: <p>Searching for how you can handle your GMAT test without stress? With our online GMAT test help you are getting to concentrate on other important places and not on cramming GCIA books.</p>,
+            topText: "Pay Our Experts Without Any Upfront Fees",
+            heading: <>Want To Hire Someone To Take My Online GMAT Exam?</>,
+            subText: <p>Take your exam without any risk by getting expert help with your GMAT exam. Look no further, as Exam Support Online promises to help you achieve top grades without a lengthy preparation timeline, repeated retakes, or any compromise on your MBA goals.</p>,
             bullets: [
-              "No cramming",
-              "Save time",
-              "Easy process",
-              "Global access"
+              "Expert Professionals",
+              "Flexible Scheduling",
+              "Dedicated Support Team",
+              "Safe and Reliable Process"
             ],
             bgImage: "/home/1.png"
           },
           {
-            topText: "Hire Experts with Privacy",
-            heading: <>Professional GMAT Exam Takers – Discreet & Reliable Support</>,
-            subText: <p>So when you go “I need to pay someone to take my online GMAT test” we give the service. Your privacy is our top priority and every service is strictly confidential.</p>,
+            topText: "Expert GMAT Exam Help",
+            heading: <>Hire Our Expert Tutor for GMAT Tailored Support</>,
+            subText: <p>Attempting the GMAT alone demands months of intense preparation, expensive mock exams, and endless anxiety. So, when you hire a GMAT professional, you can bypass your exam stress in a single go. And here, we provide tailored solutions according to your requirements. Plus, our aim is to help you succeed in your GMAT exam while maintaining your confidentiality and meeting your requirements at the same time.</p>,
             bullets: [
-              "Full privacy",
-              "Secure chats",
-              "No third parties",
-              "24/7 support"
+              "Expert Professionals",
+              "Flexible Scheduling",
+              "Dedicated Support Team",
+              "Safe and Reliable Process"
             ],
             bgImage: "/home/9.jpg"
           },
           {
-            topText: "Trusted GMAT Experts",
-            heading: <>Ace Your GMAT With Trusted, Confidential Help</>,
-            subText: <p>Hire someone to do your online GMAT test for you, with full confidentiality and perfect score guaranteed. A safe, relaxed solution for the busy student anywhere in the world.</p>,
+            topText: "Guaranteed Top Scores",
+            heading: <>Pay Someone to Take My GMAT Exam, Succeed in Every Section With Confidence!</>,
+            subText: <p>If you are looking to pay someone to take the GMAT exam for you, it is not just about convenience; it is about making a smart move towards guaranteed success. Our experts are trained to help you excel in every section of the GMAT. Here, we know exactly how to approach each segment with strategy, speed, and accuracy. And we have a number of students who have achieved the highest scores with us, so you don’t need to take on any more stress.</p>,
             bullets: [
-              "100% private",
-              "Expert test-takers",
-              "Full test coverage",
-              "Score guaranteed"
+              "Expert Professionals",
+              "Flexible Scheduling",
+              "Dedicated Support Team",
+              "Safe and Reliable Process"
             ],
             bgImage: "/home/hero.jpg"
           }

@@ -5,10 +5,34 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Get Help with an Online Insurance Exam Now"
-        description1="If you are running out of time or nearing a deadline for your online insurance exam, our online insurance experts are prepared to substitute and ensure your completion and success. We have professional PhDs, with a wealth of real-world and academic experience in the field of insurance. We tackle each exam with precision and detail to guarantee your exam satisfaction and high marks. We use the exact specifications your exam platform requires for submission to ensure we honor each platform's policy. Students trust us with their exams because we operate with absolute transparency, encrypted communication, and 24/7 customer support. You will be actively present, while we manage everything in a timely and safe manner. Our team of experts is also accountable for your online insurance exams from start to finish, with confidentiality and timeliness to ensure you achieve excellent results in your online insurance exam."
-        heading2="Hire Experienced Insurance Exam Takers You Can Rely On"
-        description2={"Finding skilled insurance exam takers for hire who guarantee a passing mark is now easier than ever. We connect you to professionals who have passed hundreds of exams with high scores. Every \"exam expert\" that works with us is vetted through a strict selection process to maintain the highest level of accuracy and confidentiality. Your information is always protected, your data is always private, and your results speak for themselves. We value our integrity, ethics, and \"plagiarism-free, error-free\" work. Our dedicated support team keeps you updated and informed without exposing any personal information about you. Hire trusted professionals with us, and students enjoy a streamlined, secure, and guaranteed exam experience every time."}
+        heading1="Why Choose Our Online Insurance Exam Help Service?"
+        description1="Getting exam help from us reduces many risks. By assisting you with a professional tutor, we help reduce anxiety and the risk of failure along the way."
+        features={[
+          {
+            title: "Real-World Experience",
+            text: "We don't have any freelancers. Our tutors are certified, experienced insurance teachers and active licensed agents on staff."
+          },
+          {
+            title: "Secure and Private Service",
+            text: "Your privacy is our prime concern, and we work to keep it secure. We use encrypted chats and industry-leading data protection."
+          },
+          {
+            title: "Budget-Friendly Price",
+            text: "We know many students step back from getting exam help due to high pricing. That's why we provide affordable pricing that students can easily manage."
+          },
+          {
+            title: "Reliable Support",
+            text: "We are committed to providing reliable guidance and support throughout your exam preparation."
+          },
+          {
+            title: "On-Time Support",
+            text: "Our professional staff is available 24/7 to answer your queries and remove any concerns."
+          },
+          {
+            title: "Preparation for a Passing Score",
+            text: "Our goal is to reduce the risk of failure. We help you prepare for success on your first attempt by focusing on accuracy, practice, and proper guidance."
+          }
+        ]}
         image1="/service/7.jpg"
         image2="/service/6.jpg"
       />

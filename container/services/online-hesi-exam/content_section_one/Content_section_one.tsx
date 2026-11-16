@@ -4,10 +4,10 @@ const ContentSectionOne = () => {
   return (
     <>
       <ContentOne 
-        heading1="Hire Our Experienced HESI Exam Takers"
-        description1="Getting ready to do the online HESI exam may be daunting, particularly when you have a limited amount of time or are experiencing difficulties in some areas. Our seasoned HESI exam takers are where. We are aware of the exam type, the nature of the questions, and the most effective methods for achieving a good score. When you decide to hire our professional exam takers, you will enjoy dependable assistance designed to help you succeed. We prepare you to deal with the various sections of the exam without stress. We want to give you a targeted learning plan and the best resources here. This entails realistic practice exams and in-depth, step-by-step lessons which aim to grow your confidence and ensure all-round readiness on the day of the test."
-        heading2="Reliable Exam Help Services for Stress-Free HESI Prep"
-        description2="We know how significant the HESI exam is to your nursing career. This is the reason why our HESI exam help services are meant to ensure you have full peace of mind. You do not need to go it alone in the preparation process with our professional assistance, materials, and 24/7 support. Our services are stable, secure, and customized to fit your needs, enabling you to learn at a relaxed pace without the pressure. We ensure that your HESI preparation is pain-free, effective, and easy-going throughout. We pair you with a tutor who has extensive experience learning the format and content of the HESI exam."
+        heading1="Get Reliable HESI Exam Help Online Anytime, Anywhere"
+        description1="Selecting the best HESI exam help service is essential to your success. Exam Support Online is one of the USA's best HESI exam help options for students looking for instant and on-the-go service. We make sure to assist you while providing round-the-clock support. We have designed our system in a way that you can access it anywhere. Our mission is to assist you on your learning path and in acquiring the competencies required for a prosperous nursing profession."
+        heading2="We Make Sure to Provide Exam Services That Keep Students Satisfied"
+        description2="Exam Support Online is always committed to providing HESI exam help with a focus on student satisfaction. We have knowledgeable staff members to assist students with their particular needs. This tailored approach ensures that students are on the right path to receiving excellent grades. So, get your hands on our service and get your dream marks for your dream nursing school!"
         image1="/service/2.png"
         image2="/service/11.jpg"
       />

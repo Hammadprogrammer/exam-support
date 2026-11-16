@@ -8,38 +8,38 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Trusted Exam Professionals",
-            heading: <>Professional CompTIA Exam Help</>,
-            subText: <p>Our technical professionals have in-depth subject-matter expertise, ensuring top-notch performance so you can achieve maximum results without the hassle of paper preparation.</p>,
+            topText: "Pass Now, Pay Later!",
+            heading: <>Get Expert Online CompTIA Exam Help</>,
+            subText: <p>Are you stuck in a demanding academic schedule, challenging CompTIA exams, and ambitious career goals? You are not alone. Most of the students come to us and ask, &ldquo;Take my online CompTIA exam.&rdquo; Because here we recognize the pressure these certifications bring. That&rsquo;s why our team of professionals is here to assist you 24/7.</p>,
             bullets: [
-              "Guaranteed to get a top grade",
-              "Available 24/7",
-              "Experienced exam takers",
-              "Expert exam assistance"
+              "All CompTIA Certifications",
+              "Zero Login Shared",
+              "Timely Support",
+              "First Attempt Success"
             ],
             bgImage: "/home/1.png"
           },
           {
-            topText: "Premium CompTIA Exam Help Online",
-            heading: <>Reliable CompTIA Exam Assistance</>,
-            subText: <p>Our CompTIA exam takers for hire consistently provide accurate, timely, and secure assistance. We guarantee confidentiality, while our exam takers are professionals who assist students to achieve high grades with professional exam help.</p>,
+            topText: "Confident and Accurate",
+            heading: <>Take My CompTIA Exam Confidently and Accurately</>,
+            subText: <p>Now, you don&rsquo;t need to go through the unnecessary stress of understanding CompTIA topics alone. From your first topic to the last, we guide you expertly and confidently. Thousands of students have prepared for their exams confidently with our support. Our experts provide guidance you can count on. So, send a quote and take a step towards your success.</p>,
             bullets: [
-              "Full Confidentiality",
-              "Secure exam process",
-              "PhD professionals",
-              "Guaranteed high scores"
+              "All CompTIA Certifications",
+              "Zero Login Shared",
+              "Timely Support",
+              "First Attempt Success"
             ],
             bgImage: "/home/9.jpg"
           },
           {
-            topText: "Timely Submission",
-            heading: <>Affordable Take My Online CompTIA Exam Help</>,
-            subText: <p>With our CompTIA exam help, you will be able to relax while certified exam takers take your exam. Our affordable pricing plans will never break your bank and fulfill all your specific requirements.</p>,
+            topText: "Peace of Mind",
+            heading: <>Find Your Peace of Mind While We Are Doing Your CompTIA Exam</>,
+            subText: <p>Handling everything on your own can be overwhelming. But here, you don&rsquo;t have to face it alone. We have highly experienced professionals ready to provide CompTIA exam preparation support with reliability and security, while giving you the opportunity to focus on other things with confidence and peace of mind.</p>,
             bullets: [
-              "On time submission",
-              "24/7 availability",
-              "Refund policy",
-              "Technical experts"
+              "All CompTIA Certifications",
+              "Zero Login Shared",
+              "Timely Support",
+              "First Attempt Success"
             ],
             bgImage: "/home/hero.jpg"
           }

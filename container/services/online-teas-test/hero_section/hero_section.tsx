@@ -8,38 +8,38 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Confidential and Secure Service",
-            heading: <>Private And Secure ATI TEAS Test Assistance</>,
-            subText: <p>Your privacy matters most. Learners who are looking for “hire someone to take my ATI TEAS test for me” rely on us because we are safe, discreet, and 100% confidential.</p>,
+            topText: "Boost My Scores With Expert Help",
+            heading: <>Can I Pay Someone to Take My TEAS Exam Who Can Boost My Scores?</>,
+            subText: <p>Get professional TEAS exam preparation help, and never let anyone outshine you in academic success. Meet the highest-quality exam help provider, who is ready to make passing stress-free and affordable.</p>,
             bullets: [
-              "100% secure and private",
-              "Safe help for ATI TEAS test",
-              "Privacy always protected",
-              "Trusted by nursing students"
+              "Cost-Effective Prices",
+              "On-Time Support",
+              "Guaranteed Success",
+              "Confidentiality"
             ],
             bgImage: "/home/hero.jpg"
           },
           {
-            topText: "Reliable ATI TEAS Test Help",
-            heading: <>Get Trusted Online ATI TEAS Test Help Today</>,
-            subText: <p>We offer safe and effective ATI TEAS test help for busy students. We take care of the stress and let you move on to your career goals with expert advice and absolute discretion.</p>,
+            topText: "Expert TEAS Tutors",
+            heading: <>Take My TEAS Exam With the USA&rsquo;s Best TEAS Tutors</>,
+            subText: <p>We have onboarded vetted professionals from the USA. Our tutors don&rsquo;t just know the subject; they understand it inside and out. They also know the pacing, its traps, and the subtle ways TEAS designs questions to measure critical thinking rather than memorization. This depth of familiarity comes from years of teaching experience. What makes them exceptional is the intellectual sharpness they bring to every session. Many of them hold advanced degrees, while some have PhD-level qualifications, meaning you are learning from individuals who have conceptual clarity and confidence.</p>,
             bullets: [
-              "Reliable ATI TEAS test support",
-              "Expert helpers available online",
-              "Perfect for busy students",
-              "Boost confidence and results"
+              "Cost-Effective Prices",
+              "On-Time Support",
+              "Guaranteed Success",
+              "Confidentiality"
             ],
             bgImage: "/home/1.png"
           },
           {
-            topText: "Expert Guidance Anytime",
-            heading: <>24/7 Professional ATI TEAS Test Helpers</>,
-            subText: <p>Our online ATI TEAS test helpers are here to help you every step of the way – from study, to prep, to live support.</p>,
+            topText: "We Are Here to Help You",
+            heading: <>Stop Your Search for TEAS Exam Help — We Are Here to Help You</>,
+            subText: <p>Struggling with a particular section of the TEAS exam? You&rsquo;re not alone. Well, it completely varies by student, such as some find maths difficult and others reading questions. Instead of guessing what is usually more difficult here, our tutor will look at your current performance, identify where you&rsquo;re losing marks, and help you work through those topics. You&rsquo;ll practice with exam-style questions, discuss mistakes, and learn better ways to approach similar problems. With flexible study sessions and private tutoring, preparing for the TEAS becomes easier to manage alongside your daily responsibilities.</p>,
             bullets: [
-              "Support whenever you need",
-              "Flexible help for your test",
-              "Experienced ATI TEAS helpers",
-              "Never face exams alone"
+              "Cost-Effective Prices",
+              "On-Time Support",
+              "Guaranteed Success",
+              "Confidentiality"
             ],
             bgImage: "/home/9.jpg"
           }

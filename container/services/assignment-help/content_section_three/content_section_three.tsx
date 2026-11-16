@@ -5,10 +5,34 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Want to Score High? Hire Our Professional Assignment Experts Today"
-        description1="It is now easy and secure to get help with assignments. Our assignment takers for hire handle everything for you from the time you order until the assignment is submitted; we even make sure that your assignments get a rank high among others. We are committed to integrity and accuracy in every service we provide to our students. With help with online assignments, you will be comfortable knowing you will have professional help to write assignments. Each assignment is handled by someone with an advanced degree and many years of experience. We use encrypted systems to ensure there are no inadvertent data leaks or exposure due to exploits."
-        heading2="Get Top-Notch, Plagiarism-Free Assignments from Our Expert Assignment Takers"
-        description2="Many students hire our assignment takers to facilitate the safe, professionally done, and flawless content. Our assignment experts never copy; they conduct excellent research to produce an out-of-class assignment. When you ask us for help with your online assignment, you obtain certified subject-matter experts who know your subject matter completely. We guarantee your jobs will be delivered on time at all times, and that plagiarism will never be present. All you will get is a 100% original assignment with authentic reports to show your original work. From log-in to submission, every step will be private, secure, and accurate, ensuring the highest grades for every student we work with."
+        heading1="Why Students Trust Us for Assignment Help"
+        description1="We combine subject specialist writers and rigorous quality checkers to deliver every assignment under tight deadlines that will surely bring top grades."
+        features={[
+          {
+            title: "Subject Specialist",
+            text: "We have vetted subject specialists in many fields; whether you need assistance in business or nursing, we have experienced people to handle your work with great care."
+          },
+          {
+            title: "Always On Time",
+            text: "We guarantee on-time delivery for every order."
+          },
+          {
+            title: "Affordable Price",
+            text: "We design our system in a way to offer student-friendly rates with no hidden fees."
+          },
+          {
+            title: "100% Custom Written",
+            text: "We make sure to deliver every assignment with proper research based on your specific requirements, guidelines, and marking criteria."
+          },
+          {
+            title: "Any Academic Level",
+            text: "If you want online assignment help for undergraduate, postgraduate, or doctoral students, we aim to connect you with a qualified writer."
+          },
+          {
+            title: "Free Revision",
+            text: "We do not charge for revision of your assignment. If you find any gaps or need any further additions, you can ask us for revisions until you feel satisfied."
+          }
+        ]}
         image1="/service/7.jpg"
         image2="/service/6.jpg"
       />

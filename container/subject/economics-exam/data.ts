@@ -13,7 +13,7 @@ const data: SubjectPageData = {
     badge: 'Our Services',
     heading: 'Why Are We the Best To Take Your Economics Exams Online?',
     description:
-      'We are committed to more than just boosting your exam score. We believe in providing you with professional and on-time assistance to excel in economics. That\'s why we offer a collection of exam services, which students can easily avail under the affordable pricing structure.',
+      'We are committed to more than just boosting your exam score. We believe in providing you with professional and on-time assistance to excel in economics. That\'s why we offer a collection of exam services, which students can easily avail under an affordable pricing structure.',
     items: [
       { title: 'Online Exam Help', description: 'Our expert tutor checks your syllabus with you and points out the tricky parts. Then you work through practice questions together.' },
       { title: 'Proctored Exam Help', description: "Strict rules and a camera watching you can feel scary. That's why we set up the same kind of test first, so the real one feels familiar." },
@@ -55,7 +55,7 @@ const data: SubjectPageData = {
     features: [
       { title: 'Masters & PHD Tutors', desc: 'Highly qualified tutors with years of experience studying and teaching students.' },
       { title: 'Trusted and Reliable Support', desc: 'This is one of the most trusted websites in the USA, providing professional exam support with guaranteed grades.' },
-      { title: 'Driven to Succeed', desc: 'We not only provide exam help, but also give you customized and professional exam support helps you secure higher grades without taking any stress.' },
+      { title: 'Driven to Succeed', desc: 'We not only provide exam help, but also give you customized and professional exam support that helps you secure higher grades without taking any stress.' },
     ],
   },
   contentOne: {
@@ -71,11 +71,11 @@ const data: SubjectPageData = {
     subHeading: "Are you not sure why you should take our online economics exam help instead of doing it yourself? So, here's the reason:",
     features: [
       { title: 'Experienced Tutors', desc: 'Our team of experienced tutors is highly qualified with advanced degrees in economics, which will help you achieve guaranteed results throughout your coursework.' },
-      { title: '24 Hours Support', desc: 'We know that studnets have many questions in their mind. Our support is available all day, so you can get help whenever you need it.' },
+      { title: '24 Hours Support', desc: 'We know that students have many questions in their mind. Our support is available all day, so you can get help whenever you need it.' },
       { title: 'Promise of Privacy', desc: "It's our top priority to protect your personal information, so all your data is kept completely private, giving you peace of mind." },
       { title: 'Cost Effectiveness', desc: 'If you hire someone to take your exam, then use our service. We offer highly affordable exam help so everyone can get help without having to worry about money.' },
       { title: 'Flexible Scheduling', desc: 'Exam Support Online offers flexible scheduling options to accommodate your busy schedule, ensuring you will receive the support you need.' },
-      { title: 'Online Support', desc: 'We provide online support, allowing you to access support anywhere with an internet connection. So, if you need help in single single or in complete course, we help you step by step guidance on your complex concepts.' },
+      { title: 'Online Support', desc: 'We provide online support, allowing you to access support anywhere with an internet connection. So, if you need help with a single exam or a complete course, we give you step-by-step guidance on your complex concepts.' },
     ],
   },
   getQuote: {
@@ -92,10 +92,10 @@ const data: SubjectPageData = {
     mainTitle: 'Read about how we have assisted students in understanding their challenging economics subjects and preparing for their exams.',
     description: '',
     items: [
-      { name: 'Sarah Mitchell', reviewText: 'Macroeconomics was always my weakest point, especially the IS-LM models. Their tutor helped me understand everything step by step, and because of that, I secured A grades this semester.' },
-      { name: 'Emily Carter', reviewText: 'I needed help preparing for my online economics exam because I was recovering from an accident. Exam Support Online has taken my exams and has been in touch with me throughout my exam session.' },
+      { name: 'Sarah Mitchell', reviewText: 'Macroeconomics was always my weakest point, especially the IS-LM models. Their tutor helped me understand everything step by step, and because of that, I earned A grades this semester.' },
+      { name: 'Emily Carter', reviewText: 'I needed help preparing for my online economics exam because I was recovering from an accident. Exam Support Online has taken my exams and has been in touch with me throughout my exam period.' },
       { name: 'James Anderson', reviewText: 'I always receive top-notch service from this website. The economics tutors are especially helpful! I can\'t explain how much their guidance has helped me understand difficult topics.' },
-      { name: 'Daniel Wilson', reviewText: 'I contacted them a few days before exams. But still. Their tutor helped me review important topics and prepare in a short time. The support helped me feel more confident going into my exams.' },
+      { name: 'Daniel Wilson', reviewText: 'I contacted them a few days before exams. But still, their tutor helped me review important topics and prepare in a short time. The support helped me feel more confident going into my exams.' },
     ],
   },
 };

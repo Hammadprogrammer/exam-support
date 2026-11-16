@@ -9,18 +9,22 @@ const HeroSection = () => {
         slides={[
           {
             topText: "Feeling Overwhelmed?",
-            heading: <>Hire Our Professional Nursing Exam Experts Now!</>,
+            heading: <>Hire Someone To Take My Nursing Exam and Get the Best of the Best</>,
             subText: (
               <p>
-                Obtaining professional assistance through nursing exam help will 
-                ensure that students can achieve success without stress. Thanks 
-                to our team, who are reliable nursing exam helpers.
+                Nursing is not as easy as it looks. Many students find it
+                difficult to balance never-ending exams, lectures, and clinical
+                rotations. Exam Support Online provides time-saving assistance
+                and professional guidance to all students across the USA. Our
+                team of nursing specialists helps students prepare for
+                challenging tests and assessments with a focus on accuracy and
+                confidentiality.
               </p>
             ),
             bullets: [
-              "Easy Process",
-              "Total Privacy",
-              "High-Quality Grades",
+              "Simple Process",
+              "Safe and Secure",
+              "Guaranteed Result",
               "Money-Back Guarantee"
             ],
             bgImage: "/home/9.jpg" 

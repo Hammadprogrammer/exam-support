@@ -5,10 +5,10 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Online HESI Exam Help is the Smart Choice for Success"
-        description1="It can be stressful to study for the HESI exam when you're busy with your work and family obligations. This is where you need online exam help. With the help of our professional guidance, you can learn in a more targeted fashion and avoid getting stuck on confusing material. We can put you in touch with experienced tutors who know the HESI format and how to achieve great results. We offer step-by-step assistance, practice questions, and tactics that really streamline your studying process. Instead of struggling alone, you receive appropriate support at the right time, which makes you stronger and increases your chances of success."
-        heading2="Affordable Online HESI Exam Help for Every Student"
-        description2="Many students are concerned that having someone help them with their HESI exam will be too expensive. The good news is that there are cheap online exam help packages fashioned to suit student budgets. Our services give you professional support without breaking your bank. From practice exams to personalized feedback, you’ll find everything you need here and more exams, all at a manageable cost. Cheap online HESI exam help means you don't have to settle for a lower quality product. By choosing the right plan, you can study smart, keep exam anxiety at bay, and edge that much closer to your dream of beginning a career in nursing, all without spending too much money."
+        heading1="Why Students Pick Our HESI Prep When the Pressure Builds"
+        description1="The HESI covers a lot. Anatomy, math, reading, grammar — and sometimes it feels like there’s no end to it. That’s usually when students reach out to us for HESI exam help. Instead of rereading the same chapter for the third time, you get to work with a tutor who knows how this exam is set up. Here, our professional tutor goes through the hard topics with you, one at a time. You’ll also try practice questions that look a lot like the real ones."
+        heading2="Choose the Perfect Pricing Plan for Your HESI Exam Prep"
+        description2="Nursing school is already expensive, and we know that. So, we don’t believe in making HESI preparation another big bill. We provide you with the flexibility to choose the plan that suits your budget. Need help with just one section, like math or anatomy? Book a single session. Want steady support until test day? Go for a package and save a little more. Either way, the price is clear from the start. No extra fees pop up later. And you know, your first session comes with 50% off, so you can try it before paying full price."
         image1="/service/7.jpg"
         image2="/service/6.jpg"
       />

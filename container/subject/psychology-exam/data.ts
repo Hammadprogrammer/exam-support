@@ -5,7 +5,7 @@ const data: SubjectPageData = {
     topText: 'Psychology Exam Help',
     heading: 'Get Online Psychology Exam Help From Real Specialists',
     subText:
-      'Type "someone to take my online psychology exam" into the search bar, and you will find a number of websites. Well, psychology looks approachable from the outside, until it involves APA-formatted research papers or statistics-based units. To help you, we have introduced our psychology tutors to help you prepare for exams covering developmental stages, disorders, and research at affordable prices. We aim to take some of the pressure while helping you work toward the grades you want.',
+      'Type "someone to take my online psychology exam" into the search bar, and you will find a number of websites. Well, psychology looks approachable from the outside, until it involves APA-formatted research papers or statistics-based units. To help you, we have introduced our psychology tutors to help you prepare for exams covering developmental stages, disorders, and research at affordable prices. We aim to take some of the pressure off while helping you work toward the grades you want.',
     bullets: ['Experienced tutors explaining concepts step by step.', 'On-time support for queries and concept building.', 'Preparation support to help you work toward your desired A or B grades.'],
     bgImage: '/home/hero.jpg',
   },
@@ -18,7 +18,7 @@ const data: SubjectPageData = {
       { title: 'Online Exam Help', description: 'Send us your syllabus. Our tutor helps you sort out what\'s easy and what needs work, then you practice the hard stuff.' },
       { title: 'Proctored Exam Help', description: 'Being on camera during a test feels weird. A practice run with us first makes the real one way less stressful.' },
       { title: 'Online Tests & Quizzes', description: 'Quizzes sneak up on you. A five-minute review before each one goes a long way.' },
-      { title: 'GRE Test Help', description: 'Some students struggle with reading, others with time. We find out which one is you and start there.' },
+      { title: 'GRE Test Help', description: 'Some students struggle with reading, others with time. We find out which one you are and start there.' },
       { title: 'HESI Exam Help', description: 'Still confused after reading the chapter twice? Your tutor will explain it differently until it clicks.' },
       { title: 'PSI Exam Help', description: 'We go through the material together and stop to explain anything new. Practice questions come after.' },
       { title: 'Online Class Help', description: 'Missed a few lectures? A weekly meeting with your tutor gets you caught up.' },
@@ -92,12 +92,12 @@ const data: SubjectPageData = {
     badgeTitle: 'Client Review',
     mainTitle: 'What Our Students Say',
     description:
-      'You know, thousands of students have already handed us their psychology coursework, and honestly, they are getting the best results from our sites.',
+      'You know, thousands of students have already handed us their psychology coursework, and honestly, they are getting the best results from our site.',
     items: [
       { name: 'Olivia Bennett', reviewText: 'I was working close to full time while trying to keep up with an online psychology course. But this site helped me throughout the course and got me a B+ in the exam.' },
       { name: 'Ethan Parker', reviewText: 'I needed help in my psychology exam, and privacy was my biggest concern. Exam Support Online has kept everything quiet and got me my desired grades.' },
       { name: 'Sophia Mitchell', reviewText: 'Exam Support Online delivers the best psychology exam service; they are always on time and guided me nicely on my future scores.' },
-      { name: 'Daniel Wilson', reviewText: 'If you are looking to hire someone for your online psychology exam, Exam Support Online is the best site. I always recommend them to every studnets.' },
+      { name: 'Daniel Wilson', reviewText: 'If you are looking to hire someone for your online psychology exam, Exam Support Online is the best site. I always recommend them to every students.' },
     ],
   },
 };

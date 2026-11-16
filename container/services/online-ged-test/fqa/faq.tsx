@@ -5,30 +5,30 @@ const FAQSectionData = () => {
   const myFaqData = [
     {
       id: "Q1",
-      question: "What can I do to prepare well to take the GED?",
-      answer: "With organized study plans, practice questions and one-on-one tutor support, you can work on your weak areas and build confidence prior to the test day."
+      question: "Can I pay someone to take my exam?",
+      answer: "Well, it's illegal. But here, we connect you with our tutor who makes a simple study plan, focuses on your weak subjects, and helps you practice with real test questions; this way, you can pass it easily."
     },
     {
       id: "Q2",
-      question: "Does it have GED test help on the internet?",
-      answer: "Our GED tutors are online 24/7 and can provide you with instant assistance whenever you need it, helping you prepare more efficiently through individualized attention."
+      question: "Do I get GED test help anywhere in the USA?",
+      answer: "Yes. You get practice questions, video lessons, and live help from professional tutors, all from home."
     },
     {
       id: "Q3",
-      question: "Does it have GED tutors that can be contacted 24/7?",
-      answer: "Our GED tutors are online 24/7 and can provide you with instant assistance at any time you require someone to help you, and work on your preparation more efficiently through individual consideration."
+      question: "Do you have GED tutors that can be contacted 24/7?",
+      answer: "Yes. Our tutors are available any time, day or night. Stuck on something late? Just reach out and get help."
     },
     {
       id: "Q4",
       question: "Is there affordable preparation for the GED?",
-      answer: "Yes, we offer affordable GED preparation courses that do not compromise quality and provide study materials, practice tests, and professional advice at low prices to all students."
+      answer: "Yes. Our plans are flexible and budget-friendly. Pick the support you need and pay only for that."
     }
   ];
 
   return (
     <FAQSection 
-      mainTitle="Read Our FAQs"
-      description="Check out our FAQs to get quick answers to all your questions about our services and how we can help you succeed."
+      mainTitle="Frequently Asked Questions"
+      description="If you have any questions about our GED exam help, read on to see how we help you succeed."
       buttonText="Talk to our experts"
       faqList={myFaqData}
     />

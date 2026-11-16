@@ -8,40 +8,15 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Get On-Time",
-            heading: <>Best Take Your Ged Test Online Help</>,
-            subText: <p>Our expert tutors are standing by 24/7 to help you prep for your GED test with GED questions, and online test help.</p>,
+            topText: "GED Exam Help",
+            heading: <>Take My GED Test and Pass It In A Single Go</>,
+            subText: <p>If you are thinking you are unable to pass your GED exam for any reason, don't worry! Our secure service takes the exam on your behalf so that you can earn a diploma without any delay. With our discreet and reliable GED exam help, you can easily move forward quickly and find new opportunities for your career and educational prospects immediately.</p>,
             bullets: [
-              "Expert GED Tutors",
-              "100% Confidential Help",
-              "24/7 Live Support",
-              "Affordable Prices"
+              "Thousands of GED experts",
+              "Fast and urgent help",
+              "Confidential service"
             ],
             bgImage: "/home/hero.jpg"
-          },
-          {
-            topText: "Pass with Confidence",
-            heading: <>Reliable Take Your GED Online Service</>,
-            subText: <p>Improve your GED scores through a tutor-led step-by-step process. We offer actual exam practice, study materials and individual assistance to ensure you are prepared on the day of the test.</p>,
-            bullets: [
-              "Personalized Study Plans",
-              "Real GED Practice Questions",
-              "Fast & Reliable Assistance",
-              "Guaranteed Satisfaction"
-            ],
-            bgImage: "/home/1.png"
-          },
-          {
-            topText: "Your Success, Our Priority",
-            heading: <>Looking For Take My GED Exam For Me</>,
-            subText: <p>Do not allow test pressure to drag you down. We offer online assistance with GED, which allows you to get 24/7 access to tutors who are familiar with the exam.</p>,
-            bullets: [
-              "Flexible Learning Options",
-              "Confidential & Secure Help",
-              "24/7 Live Tutoring Sessions",
-              "Low-priced Test Preparation Packages"
-            ],
-            bgImage: "/home/9.jpg"
           }
         ]}
       />

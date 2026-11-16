@@ -6,7 +6,7 @@ const data: SubjectPageData = {
     heading: 'Take My Law Exam and Relax; We Handle the Rest Like Pros',
     subText:
       'Dear students, you don\'t need to worry about your law exam. We will take your law exam and save you time and effort. Our expert professionals are here to take your law exam and make sure you achieve the grades that you deserve.',
-    bullets: ['Trusted Professional, PHD Experts', 'Ensured A+ results', 'Pocket Friendly Price', 'Experienced Law Exam Takers', 'Secure and Encrypted Process'],
+    bullets: ['Trusted Professional, PhD Experts', 'Ensured A+ results', 'Pocket-Friendly Price', 'Experienced Law Exam Takers', 'Secure and Encrypted Process'],
     bgImage: '/home/hero.jpg',
   },
   services: {
@@ -44,7 +44,7 @@ const data: SubjectPageData = {
   contentTwo: {
     title1: 'Take Online Law Exam Help To Overcome the Challenges of Law Topics',
     desc1:
-      'Exams are a crucial part of a student\'s life, but they can cause anxiety and stress. This is where our website comes into play, offering expert assistance with various law topics. We have designed this incredible platform, Exam Support Online, to help you connect with an expert who can guide you through law exams on your behalf. And you know, our services have benefited over 4000+ students in achieving their desired results in law examinations. So you can conquer any law topic by joining hands with us.',
+      'Exams are a crucial part of a student\'s life, but they can cause anxiety and stress. This is where our website comes into play, offering expert assistance with various law topics. We have designed this incredible platform, Exam Support Online, to help you connect with an expert who can guide you through law exams on your behalf. And you know, our services have benefited over 4,000 students in achieving their desired results in law examinations. So you can conquer any law topic by joining hands with us.',
     title2: 'Trusted and Secure Website That Only Requires Your Course Credentials',
     desc2:
       'We understand the challenges that come with meeting the requirements for exams, tests, and quizzes. But the thing that stops you from asking for law exam help is security and privacy. We value your privacy and security, which is why we take every measure to protect your information. We keep your data strictly confidential and do not share it with third parties. So, you can get law exam preparation support through us without worrying about your safety and privacy.',
@@ -54,8 +54,8 @@ const data: SubjectPageData = {
     heading: 'Get Online Law Exam Assistance to Achieve Guaranteed Success',
     features: [
       { title: 'Professional Support', desc: 'We are experienced and have talented experts who can help you get good grades by giving quality answers within the deadline.' },
-      { title: 'Reliable and On-Time Support', desc: 'The law exam is quite difficult, and it also requires a lot of questions. Here we provide on-time and reliable support to tackle your challenging task.' },
-      { title: 'Enhancing Your Law Exam', desc: 'If seeking help for your online law exam, Online exam support guarantee that you will pass your law exam with high grades.' },
+      { title: 'Reliable and On-Time Support', desc: 'The law exam is quite difficult, and it also contains a lot of questions. Here we provide on-time and reliable support to tackle your challenging task.' },
+      { title: 'Enhancing Your Law Exam', desc: 'If you are seeking help for your online law exam, Exam Support Online guarantees that you will pass your law exam with high grades.' },
     ],
   },
   contentOne: {
@@ -69,7 +69,7 @@ const data: SubjectPageData = {
   whyHire: {
     heading: 'Why Hire Us?',
     subHeading:
-      'Think about the sense of relief that will wash over you when you realize that a qualified law expert is in charge of your exam, and all of your exams are taken with great care.',
+      'Think about the sense of relief that will wash over you when you realize that a qualified law expert is in charge of your exam, and takes all of your exams with great care.',
     features: [
       { title: 'Professional Scholars', desc: 'We have vetted experts who have years of knowledge and experience in creating unique, customized content that speaks to customers\' needs.' },
       { title: '24/7 Support', desc: 'We are available with our online law exam help service 24/7; we are always at your disposal, and we will make sure you get top grades.' },
@@ -90,13 +90,13 @@ const data: SubjectPageData = {
   },
   reviews: {
     badgeTitle: 'Honest Feedback',
-    mainTitle: 'Reviews and Trust Hands Go On',
-    description: 'Exam support online has generated nothing but praise from the client. See how we helped thousands of studnets work toward their academic goals.',
+    mainTitle: 'Reviews and Trust Go Hand in Hand',
+    description: 'Exam support online has generated nothing but praise from clients. See how we helped thousands of students work toward their academic goals.',
     items: [
       { name: 'Emily Carter', reviewText: 'Since I was short on time, I needed someone to take my law exam as soon as possible. Then my friend suggested that I get help from an online exam support service. Their tutor provided me with quick and professional support sooner than expected.' },
-      { name: 'James Wilson', reviewText: 'I wasn\'t sure about spending money on an English exam help service. But this site gave me more than I hoped. Highly recommended.' },
-      { name: 'Sophia Bennett', reviewText: 'Honestly, I had a doubt about finding someone to help me with my English class. This site provided with me reliable and affordable service ever I has received.' },
-      { name: 'Daniel Parker', reviewText: 'Their tutor assisted me in developing a strong grasp of the basic concepts. Their tutors are trained and trustworthy, provided me the grades without the stress.' },
+      { name: 'James Wilson', reviewText: 'I wasn\'t sure about spending money on a law exam help service. But this site gave me more than I hoped. Highly recommended.' },
+      { name: 'Sophia Bennett', reviewText: 'Honestly, I had a doubt about finding someone to help me with my law class. This site provided me with the most reliable and affordable service I have ever received.' },
+      { name: 'Daniel Parker', reviewText: 'Their tutor assisted me in developing a strong grasp of the basic concepts. Their tutors are trained and trustworthy, got me the grades without the stress.' },
     ],
   },
 };

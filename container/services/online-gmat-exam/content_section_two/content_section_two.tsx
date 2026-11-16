@@ -4,10 +4,10 @@ import ContentSectionTwo from "@/container/All-props-comp/content_section_two/co
 const ContentSectionTwoHome = () => {
   return (
     <ContentSectionTwo
-      title1="Professional Pay Someone to Take My Online GMAT Exam"
-      desc1="Between your job, your study load, and your life, it can feel impossible to prep for the GMAT. It's a test that takes hours of practice, a good head for analysis, and a steady hand. But what if you just don’t have the time? That’s exactly where our online GMAT test help service makes a difference. If you ask, “Can someone take my GMAT exam for me?, the answer is ― yes, they can write your test for you. Every GMAT tutor in our ranks is trained intensively on the use of test patterns in the GMAT, across the quantitative reasoning, verbal reasoning, analytical writing, and integrated reasoning sections. This guarantees not only completion but excellent performance for all portions of the test."
-      desc2="Results aren’t really the core of our service; peace of mind is. With us, you won’t have sleepless nights or stress over whether or not your assignment will be completed on time! Instead, you can concentrate on your career, family, or other obligations while we manage your test. We also guarantee strict confidentiality. You are completely anonymous at all times. From logging in to the last submission, your privacy is fully protected. With a professional online GMAT exam helper, your investment in your academic future is one less thing to stress over, one less worry, and thousands more guaranteed scores. You don’t have to spend a lot to get expert help with the GMAT. Our trusted, low-cost service provides you with an opportunity to be tested with certainty by a real professional—and with absolutely discreet results. Nothing but the score you want!"
-      title2="Reliable Online GMAT Exam Takers for Students on a Budget"
+      title1="Busy Schedule? Get GMAT Exam Help To Save Your Life"
+      desc1="Work all day, class at night, and somehow you’re supposed to study for the GMAT too? Yeah, it’s a lot. Most people we talk to don’t have hours to spare. They’ve got maybe 30 minutes here, an hour there. That’s fine. Your tutor figures out which part is giving you the most trouble, whether it’s quant, verbal, or the data questions, and you start there. No wasted time on stuff you already know. Little sessions add up faster than you’d think."
+      desc2="Ever booked a tutor who didn’t get your point? Annoying, right? That doesn’t happen here. You book a time, and your tutor’s there. You send a question, you get an answer, usually the same day. Pretty basic stuff, but it matters when your test is two weeks away. The price is fair too. You’ll know exactly what you’re paying before you book. Nothing sneaky. And your info stays private, start to finish."
+      title2="Dependable GMAT Help That Won’t Break the Bank"
       img1="/service/4.png"
       img2="/service/5.png"
     />

@@ -13,7 +13,7 @@ const data: SubjectPageData = {
     badge: 'Our Services',
     heading: 'Can Someone Take My Online Exam For Me?',
     description:
-      'Yes, we can definitely help you solve your problem. So, if you are stressed about your upcoming exam, Exam Support Online has a solution for you. Whether you are worried about a weekly quiz, proctored final, or certification exam, our tutor can take the burden off your shoulders while providing top-quality support at affordable rates.',
+      'Yes, we can definitely help you solve your problem. So, if you are stressed about your upcoming exam, Exam Support Online has a solution for you. Whether you are worried about a weekly quiz, proctored final, or certification exam, our tutors can take the burden off your shoulders while providing top-quality support at affordable rates.',
     items: [
       { title: 'Online Exam Help', description: 'Our tutors go through your course material, pick out what’s most likely to show up, and practice it with you until you feel confident.', image: '/service/1.jpg' },
       { title: 'Proctored Exam Help', description: 'Webcams and timers can make anyone nervous. We run timed mock tests under real conditions, so test day feels familiar.', image: '/service/2.png' },
@@ -21,7 +21,7 @@ const data: SubjectPageData = {
       { title: 'GRE Test Help', description: 'Our multi-talented expert can help you with your GRE too. We ensure you can build strategies that save time and boost your score.', image: '/service/4.png' },
       { title: 'HESI Exam Help', description: 'From A2 to exit exams, we review key topics and practice question types you can solve on exam day.', image: '/service/5.png' },
       { title: 'PSI Exam Help', description: 'Licensing exam coming up? Our tutors walk you through the content and give you practice tests that match the PSI format.', image: '/service/6.jpg' },
-      { title: 'Online Class Help', description: 'Put your hands on your online class service and boost your grades. Our tutor meets with you weekly to go over lectures and readings, so this way you can keep track of your coursework.', image: '/service/7.jpg' },
+      { title: 'Online Class Help', description: 'Sign up for our online class service and boost your grades. Our tutor meets with you weekly to go over lectures and readings, so this way you can keep track of your coursework.', image: '/service/7.jpg' },
       { title: 'Online Course Help', description: 'From week one to the final, our tutors help you manage your coursework and keep moving forward.', image: '/service/8.jpg' },
       { title: 'GED Test Help', description: 'Math, science, social studies, and reasoning through language arts, we cover all four with clear lessons and practice.', image: '/service/9.jpg' },
       { title: 'ATI TEAS Test Help', description: 'Planning for nursing school? We help you prepare for every section of the TEAS with focused review and timed practice.', image: '/service/10.jpg' },
@@ -29,7 +29,7 @@ const data: SubjectPageData = {
       { title: 'Real Estate Exam Help', description: 'Property laws, contracts, and real estate math- we break it all down so you can walk into your licensing exam with confidence.', image: '/about/3.png' },
       { title: 'PMP Exam Help', description: 'Our tutors help you study the PMBOK, understand the exam format, and practice with realistic questions.', image: '/about/4.png' },
       { title: 'Insurance Exam Help', description: 'Insurance terms can be confusing. Our tutors explain them in plain words and help you get ready for your state licensing exam.', image: '/our-experts/3.jpg' },
-      { title: 'GMAT Test Help', description: 'Our tutors help you work toward strategy, timing, and practice that help you get your target score, one section at a time.', image: '/our-experts/hero.jpg' },
+      { title: 'GMAT Test Help', description: 'Our tutors help you work on strategy, timing, and practice to help you reach your target score, one section at a time.', image: '/our-experts/hero.jpg' },
     ],
   },
   counter: {
@@ -57,7 +57,7 @@ const data: SubjectPageData = {
     features: [
       { title: 'Experienced Professionals', desc: 'We have onboarded qualified tutors with years of teaching experience.' },
       { title: 'Trusted and Reliable', desc: 'Students come back to us semester after semester. That is only because we have helped multiple students to get their desired results.' },
-      { title: 'Driven to Help You Succeed', desc: 'We are highly focused on getting you ready, so test day feels less scary. We help you make your progress that make impacts.' },
+      { title: 'Driven to Help You Succeed', desc: 'We are highly focused on getting you ready, so test day feels less scary. We help you make your progress that makes an impact.' },
     ],
     imageSrc: '/subject/4.png',
   },
@@ -72,9 +72,9 @@ const data: SubjectPageData = {
     image2: '/subject/5.png',
   },
   whyHire: {
-    heading: 'Why Students Are Using Our Professional Take My Online Exam Service From Us?',
+    heading: 'Why Students Use Our Professional Take My Online Exam Service',
     subHeading:
-      'We offer numerous benefits for students looking for professional take my online exam support. That\'s why many students keep coming back and rate us 4.5/8. Let\'s see what advantages you can get from our services.',
+      'We offer numerous benefits for students looking for professional take my online exam support. That\'s why many students keep coming back and rate us 4.5/5. Let\'s see what advantages you can get from our services.',
     features: [
       { title: 'Experienced Exam Specialists', desc: 'Our online exam specialists possess advanced degrees in various fields, making them well-equipped to provide high-quality academic guidance that meets your learning needs and helps you prepare with confidence.' },
       { title: 'Security and Privacy', desc: 'We take our clients\' privacy seriously and ensure that all the information they provide is kept confidential. We use secure servers and encryption to protect your data from unauthorized access.' },
@@ -87,7 +87,7 @@ const data: SubjectPageData = {
   getQuote: {
     topLabel: 'Get A Quote',
     heading: 'Need Help With An Online Exam?',
-    description: 'Let’s Exam Support Online handle it securely and affordably.',
+    description: 'Let Exam Support Online handle it securely and affordably.',
     contactHeading: 'Place Your Request Here',
     contactDescription: 'We’ll match you with support you can trust when you need it most.',
     formHeading: 'Enjoy a 50% Discount on Sign-up',
@@ -99,8 +99,8 @@ const data: SubjectPageData = {
     description:
       'Exam Support Online provides unbeatable exam support that stays accurate and private. Well, we also offer affordable services that help boost your self-confidence and improve your academic performance.',
     items: [
-      { name: 'Sarah Mitchell', reviewText: 'I had experienced different sites for help on my online exam and got scammed. I was very nervous about using this website, but the tutor here provided excellent support in a timely manner, and my final score was outstanding.' },
-      { name: 'James Anderson', reviewText: 'I absolutely love their service. I needed urgent online exam help and one of their professor help me within the very next hour.' },
+      { name: 'Sarah Mitchell', reviewText: 'I had tried different sites for help on my online exam and got scammed. I was very nervous about using this website, but the tutor here provided excellent support in a timely manner, and my final score was outstanding.' },
+      { name: 'James Anderson', reviewText: 'I absolutely love their service. I needed urgent online exam help and one of their professors helped me within the next hour.' },
       { name: 'Emily Roberts', reviewText: 'My exam preparation was carefully managed by Exam Support Online. It was well worth the money to get help from their website.' },
       { name: 'Daniel Carter', reviewText: 'I had no trouble managing my exam time. My grades were even higher than I had ever expected, thanks to the guidance and support I received.' },
       { name: 'Michael Harris', reviewText: 'I was struggling with a few topics and honestly didn\'t know how to prepare for my exam. The tutor explained everything in a way that actually made sense. I felt much more confident going into the exam, and I\'m really happy with how things turned out.' },

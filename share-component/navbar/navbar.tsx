@@ -24,6 +24,8 @@ const Navbar = () => {
     { name: "Online Course Help", url: "/online-course-help/", icon: <AutoStories /> },
     { name: "Online Class Help", url: "/online-class-help/", icon: <School /> },
     { name: "Assignment Help", url: "/assignment-help/", icon: <HistoryEdu /> },
+    { name: "Essay Help", url: "/essay-help/", icon: <Description /> },
+    { name: "Homework Help", url: "/homework-help/", icon: <MenuBook /> },
     { name: "CompTIA Exams", url: "/comptia-exams/", icon: <Computer /> },
     { name: "Insurance Exam", url: "/insurance-exam/", icon: <ShieldIcon /> },
     { name: "Real Estate Exam", url: "/real-estate-exam/", icon: <HomeIcon /> },
@@ -40,21 +42,31 @@ const Navbar = () => {
 
   // Footer Subjects with added Icons to match the "old design" look
   const subjects = [
+    { name: "Accounting Exam", url: "/accounting-exam/", icon: <BarChart /> },
+    { name: "Algebra Exam", url: "/algebra-exam/", icon: <Functions /> },
     { name: "Biology Exam", url: "/biology-exam/", icon: <Biotech /> },
     { name: "Business Exam", url: "/business-exam/", icon: <BusinessCenter /> },
+    { name: "Business Law Exam", url: "/business-law-exam/", icon: <Gavel /> },
+    { name: "Calculus Exam", url: "/calculus-exam/", icon: <Functions /> },
     { name: "Chemistry Exam", url: "/chemistry-exam/", icon: <Science /> },
     { name: "Computer Exam", url: "/computer-exam/", icon: <Computer /> },
+    { name: "Computer Science Exam", url: "/computer-science-exam/", icon: <Computer /> },
     { name: "Economics Exam", url: "/economics-exam/", icon: <BarChart /> },
+    { name: "English Exam", url: "/english-exam/", icon: <MenuBook /> },
     { name: "Finance Exam", url: "/finance-exam/", icon: <Functions /> },
+    { name: "HiSET Exam", url: "/hiset-exam/", icon: <Quiz /> },
     { name: "History Exam", url: "/history-exam/", icon: <HistoryEdu /> },
     { name: "Law Exam", url: "/law-exam/", icon: <Gavel /> },
+    { name: "Lean Six Sigma Exam", url: "/lean-six-sigma-exam/", icon: <BusinessCenter /> },
+    { name: "LSAT Exam", url: "/lsat-exam/", icon: <Gavel /> },
     { name: "Math Exam", url: "/math-exam/", icon: <Functions /> },
     { name: "Nursing Exam", url: "/nursing-exam/", icon: <LocalHospital /> },
     { name: "Philosophy Exam", url: "/philosophy-exam/", icon: <PsychologyAlt /> },
     { name: "Physics Exam", url: "/physics-exam/", icon: <Science /> },
     { name: "Psychology Exam", url: "/psychology-exam/", icon: <Psychology /> },
     { name: "Sociology Exam", url: "/sociology-exam/", icon: <People /> },
-    { name: "Statistics Exam", url: "/statistics-exam/", icon: <BarChart /> }
+    { name: "Statistics Exam", url: "/statistics-exam/", icon: <BarChart /> },
+    { name: "WGU Exam", url: "/wgu-exam/", icon: <School /> }
   ];
 
   const handleDrawerToggle = () => {

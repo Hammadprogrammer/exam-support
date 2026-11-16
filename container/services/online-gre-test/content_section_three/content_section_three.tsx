@@ -5,10 +5,34 @@ const ContentSectionThree = () => {
   return (
     <>
       <ContentThree
-        heading1="Reliable and Confidential GRE Test Services to Help You Succeed Stress-Free"
-        description1="Preparing and taking the GRE is a huge stressor for most students. We aim to take that burden off your shoulders and provide you with an efficient, confidential way to succeed. We know well the stakes are high and also the intense pressure to do well, and we help you to do that with guidance. We will endeavor to make your time with us a pleasant, as well as a hassle-free experience at our Exam Support Online from beginning to end. You can safely request us to take my test because your academic future is safe in our hands. We assure all services we perform are in the strictest confidence and conducted in the most discreet professional manner, giving you the assurance that your personal information and test results are protected."
-        heading2="Achieve Top GRE Scores with the Support of Our Dedicated Online Test Takers"
-        description2="Raise your GRE scores and don’t allow it to stand in the way of your dreams. You can trust in our online test help support, as our customers are always our first priority, and we believe in good work, which is why we are serving the nation. Whether you are looking for an expert to help you prepare for the test or just need a take test for me service, we are here to help you. Our GRE experts understand all aspects of the GRE test and can help you achieve the highest score possible. They offer top-notch 'do my online test' and give higher test scores. You can take the scores that will separate you from the pack with our team behind you."
+        heading1="What We Help Students With"
+        description1="Our GRE professionals provide personalized academic support tailored to your requirements, deadlines, and academic goals."
+        features={[
+          {
+            title: "GRE Specialist",
+            text: "Our expert professionals provide help for your GRE test; each of them has completed their PhD and master's degrees."
+          },
+          {
+            title: "Safe and Reliable",
+            text: "Our experts have never had access to your personal information. We provide them with the necessary login credentials, and they know the order ID."
+          },
+          {
+            title: "No Hidden Charges",
+            text: "You don't have to worry about any additional charges. We believe in transparency and honesty, so you will never be surprised by unexpected charges."
+          },
+          {
+            title: "Last Minute Help",
+            text: "If you need urgent help? Our team is available 24/7 for quick and reliable GRE assistance."
+          },
+          {
+            title: "Complete Support",
+            text: "We provide comprehensive support for all GRE sections according to your preparation level and target score."
+          },
+          {
+            title: "Guaranteed Result",
+            text: "We are experienced in delivering results, and we have secured a 98th percentile rank for our 186 students, which means the majority of them get high scores."
+          }
+        ]}
         image1="/service/7.jpg"
         image2="/service/6.jpg"
       />

@@ -8,38 +8,38 @@ const HeroSection = () => {
       <Hero 
         slides={[
           {
-            topText: "Achieve Timely Results",
-            heading: <>Utilize Our Safe & Valid Online Insurance Exam Help Service</>,
-            subText: <p>We offer safe and valid online insurance exam help. Our experienced and qualified tutors are available 24/7 to take your exams, covering each part with detailed solutions, real-time feedback, and tailored exam techniques.</p>,
+            topText: "Take My Insurance Exam",
+            heading: <>Secure Top Score And Pay Someone To Take My Insurance Exam</>,
+            subText: <p>You must be looking for reliable and on-time support for your insurance exam. Well, finding a helping hand in such a busy schedule is not a moment of shame. If you searched for &quot;pay someone to take my insurance exam,&quot; Exam Support Online can help you connect with certified insurance tutors who have years of teaching experience and help students get their dream scores.</p>,
             bullets: [
-              "Professional Insurance Tutors",
-              "Complete Data Privacy",
-              "24/7 Student Assistance",
-              "Cost-Value Packages"
+              "Certified Insurance Tutor",
+              "Complete Privacy",
+              "24/7 Support Assured",
+              "Affordable Pricing"
             ],
             bgImage: "/home/9.jpg"
           },
           {
-            topText: "Satisfied Experts",
-            heading: <>Enhance Your Knowledge While Feeling Confident</>,
-            subText: <p>You will feel confident and ready using our comprehensive insurance exam help. Structured will help you prepare; we provide experts who take your exams and guarantee you the best results you will get. Our online insurance exam will give you clarity on complex policies, coverage plans, and regulations.</p>,
+            topText: "Hire Insurance Exam Experts",
+            heading: <>Upgrade Your Score and Hire Experts for Insurance Licensing Exams</>,
+            subText: <p>Think of passing the exam as the first step toward your success. By passing the insurance test, you can take the first step toward building a secure, high-growth career. We are happy to say that our certified professionals provide the expert guidance you need to work toward your goals. So, it&apos;s time to overcome your anxiety and focus on the success that lies ahead.</p>,
             bullets: [
-              "One-on-one help for better comprehension",
-              "Exams in a real-time environment",
-              "Timely assistance and result-driven plans",
-              "24/7 availability of experts"
+              "Certified Insurance Tutor",
+              "Complete Privacy",
+              "24/7 Support Assured",
+              "Affordable Pricing"
             ],
             bgImage: "/home/hero.jpg"
           },
           {
-            topText: "Get On-Time",
-            heading: <>Find Professional Insurance Exam Takers For Hire</>,
-            subText: <p>Highly anxious about your upcoming exam? Our insurance exam takers for hire will provide expert staffing support at any time, and will be there to help you take your exams seamlessly. When you hire insurance exam takers, we guarantee accuracy, confidentiality, and timely submissions for your online exams.</p>,
+            topText: "Insurance Licensing Exam",
+            heading: <>Take My Insurance Licensing Exam for Me With 100% Confidence</>,
+            subText: <p>No doubt, preparing for the insurance exam can be a bit challenging. But don&apos;t worry, we make it easier for you. Get help from us, as our experts know how to guide you through the challenging journey of preparing for your insurance licensing exam with confidence. We offer professional, discreet, and flexible support, making us a dependable choice for your insurance career.</p>,
             bullets: [
-              "Individualized studying plans for each student",
-              "Instant solution for your exam question",
-              "Interactive, engaging, and private online sessions",
-              "Discounts for loyal clients"
+              "Certified Insurance Tutor",
+              "Complete Privacy",
+              "24/7 Support Assured",
+              "Affordable Pricing"
             ],
             bgImage: "/home/1.png"
           }
