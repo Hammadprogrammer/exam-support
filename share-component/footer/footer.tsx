@@ -9,9 +9,9 @@ const Footer = () => {
 
   const subjects = [
     { name: "Biology Exam", url: "/biology-exam/" },
-    { name: "Business Exam", url: "/business-exam/" },
+    { name: "Business Law Exam", url: "/business-exam/" },
     { name: "Chemistry Exam", url: "/chemistry-exam/" },
-    { name: "Computer Exam", url: "/computer-exam/" },
+    { name: "Computer Science Exam", url: "/computer-exam/" },
     { name: "Economics Exam", url: "/economics-exam/" },
     { name: "Finance Exam", url: "/finance-exam/" },
     { name: "History Exam", url: "/history-exam/" },

@@ -24,6 +24,7 @@ const data: SubjectPageData = {
       { title: 'LSAT Argument Analysis Help', description: 'Instead of reading everything over and over again, your instructor assists you in identifying the crucial facts.' },
       { title: 'LSAT Argumentative Writing Help', description: "Are you unsure of where to start? We'll assist you in organizing your thoughts and creating a coherent response." },
       { title: 'LSAT Critical Thinking Help', description: 'Selecting an answer too fast is simple. Before you make a decision, we assist you in carefully considering the question.' },
+      { title: 'LSAT Argument Analysis Help', description: "An argument may initially seem compelling. Does it make sense, though? We'll work on that." },
       { title: 'LSAT Assumption Questions Help', description: 'Sometimes an argument is incomplete. We assist you in locating the missing piece and understanding its significance.' },
       { title: 'LSAT Strengthen and Weaken Questions Help', description: "The argument is supported by one response. It is weakened by another. We'll work on identifying the distinction." },
       { title: 'LSAT Inference Questions Help', description: 'Are you unsure about the meaning of the passage? We examine the provided data and determine the implications.' },
@@ -100,6 +101,48 @@ const data: SubjectPageData = {
       { name: 'Daniel Foster', reviewText: 'I found it difficult to solve the double logical reasoning part, but their tutor supported me a lot and helped me achieve the score I was aiming for.' },
       { name: 'Rachel Morgan', reviewText: 'If you are looking to hire someone to take the LSAT exam, Exam Support Online can be your exam saver. Their personalized support helps you calm down and get ready.' },
       { name: 'Christopher Hayes', reviewText: 'I work a full-time job, and along with that, the LSAT exam seemed impossible for me. Their tutor helped me a lot, supported me emotionally, and removed my concerns about scams. I love their service.' },
+    ],
+  },
+  extraSections: [
+    {
+      heading: 'Boost Your Exam Preparation Now With Professional LSAT Support',
+      description:
+        'Finding the right LSAT exam help is not easy, especially when there are many sites offering the same service. It\'s hard to evaluate who is offering the right support. Well, this is not complicated in our case. Exam Support Online has assisted a number of students in preparing for their dream scores, and it\'s all because of our structured professionalism, privacy, security, and on-time support.',
+    },
+    {
+      heading: 'Professional LSAT Exam Help Online With Full Reliability',
+      description:
+        'Don\'t wait to prepare for your law school future. We can assist you with professional LSAT exam help ASAP through our confidential and reliable support. Our professional Help with LSAT exams online focuses on helping you improve your performance while maintaining your privacy and peace of mind. So, let\'s take charge of your dream and start your journey to legal success.',
+    },
+    {
+      heading: 'How We Keep Your LSAT Data 100% Safe',
+      description:
+        'You know, we have designed our system in a way that helps secure your privacy. Here, we ensure that every interaction takes place through secure portals that protect your information. We use secure login methods and browsing protocols to help protect your personal details. Our LSAT Exam Help Online infrastructure is designed to keep your information private. Everything is handled with discretion and care.',
+    },
+    {
+      heading: 'Can I Get My Money Back After Paying for Online LSAT Exam Help?',
+      description:
+        'You are paying for LSAT help but don\'t need it anymore? You can ask for a refund. Whether you get your money back depends on when you cancel and whether your sessions have already started. Or here we also keep our promise: if we fail your exam, we will refund your money without adding any further charges. Just reach out to our team, explain your situation, and we\'ll help you check your options.',
+    },
+    {
+      heading: 'LSAT Exam Support With Privacy In Mind',
+      description:
+        'You should always be careful about giving out personal information online. Before signing up, we encourage students to find out how their information is used and how privacy is protected. You don\'t have to give your tutor access to your official LSAT test account in order to get help. Our job is to help you study, get ready, and understand the material.',
+    },
+    {
+      heading: 'We Offer Customized Help for Different LSAT Exam Sections',
+      description:
+        'Some students need extra practice with logical reasoning, while others struggle with analytical reasoning or reading comprehension. Our tutors help you work on the topics that are causing problems instead of making you study everything from the beginning.',
+    },
+  ],
+  faq: {
+    mainTitle: 'FAQ’s About Our LSAT Exam Help Online',
+    description: 'Read our reviews and see how we help students get their desired marks.',
+    items: [
+      { question: 'Is it possible to pay someone to take my LSAT exam remotely?', answer: 'If you\'re considering hiring someone to take the LSAT, keep in mind that you have to finish the test yourself. However, you can seek online instruction to help you get ready. Before the test day, we provide you with practice questions, challenging subjects, and test-taking techniques.' },
+      { question: 'Do you manage the Writing Sample for the LSAT?', answer: 'Yes, we are able to assist you with your LSAT Argumentative Writing preparation. Uncertain how to structure your answer? You can practice writing an argument properly and learn how to construct one from our experts.' },
+      { question: 'How do you manage the ten-minute break?', answer: 'A 10-minute break is provided for the LSAT. During this period, you can relax and prepare for the upcoming phases. To help you prepare for exam day, we go over the break rules in advance.' },
+      { question: 'Is it possible to hire you for a single session?', answer: 'Yes. It\'s not necessary to hire us for your entire LSAT. We can concentrate your tutoring sessions on a particular aspect that you find challenging and provide you with additional practice.' },
     ],
   },
 };

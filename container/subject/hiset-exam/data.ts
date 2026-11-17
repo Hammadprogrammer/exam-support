@@ -104,6 +104,48 @@ const data: SubjectPageData = {
       { name: 'Jessica Miller', reviewText: 'Quality exam service at an affordable price.' },
     ],
   },
+  extraSections: [
+    {
+      heading: 'Your Privacy Comes First, Here\'s How We Protect You',
+      description:
+        'At Exam Support Online, we value your security. All your personal information is handled carefully through secure communication channels and appropriate privacy measures. We never share your personal information without authorization. So, you don\'t need to worry about your privacy, results, and reputation being compromised because we follow strict security measures.',
+    },
+    {
+      heading: 'Stressed About the HiSET Test? Let\'s Take Advantage of Our Affordable Exam Help',
+      description:
+        'It is easy to get exhausted from balancing day-to-day duties and preparing to take the HiSET exam. A large number of adults have problems finding time to study. Our professionals are here to assist you in overcoming all these difficulties without worry. Moreover, we also solve the pricing problem by setting prices that any student can easily afford. Now, you can have the time and the right support to prepare for your exam without wasting time worrying.',
+    },
+    {
+      heading: 'Take My HiSET Exam for Me and Boost My Score',
+      description:
+        'We are the number one service provider, keeping you updated on the exam progress. Our advanced system helps you connect with experts who are not just degree holders but also have years of experience in teaching and helping students pass their exams. Amazingly, we help you secure top grades, not just ordinary scores. So, don\'t waste your time. Connect with us today and make your exam successful.',
+    },
+    {
+      heading: 'Get Expert HiSET Exam Help With Secure, Confidential Support',
+      description:
+        'Worried about where to hire someone to take my HiSET exam? You are not looking for extra help, but also for someone who can help you prepare without adding more stress. And our online exam support helps you with the HiSET subject and can guide you through difficult questions that you have missed.',
+    },
+    {
+      heading: 'A Better Way to Take My HiSET Exam While Keeping Your Details Private',
+      description:
+        'Before getting into online tutoring, it\'s normal to have questions, especially when it involves personal information. We at Exam Support Online want you to feel at ease when seeking assistance. Without disclosing your exam login information, you can discuss the topics and can find the advice that helps you succeed.',
+    },
+    {
+      heading: 'Make Time in Your Busy Schedule for HiSET Preparation',
+      description:
+        'Managing work, family, and other obligations makes it difficult to find time for studying. When you sit down to study, you might not even know where to start. Our teachers assist you in concentrating on the subjects that require your attention. You may get assistance without spending hours trying to figure everything out on your own, whether it\'s a reading passage you don\'t understand or a math issue you can\'t solve.',
+    },
+  ],
+  faq: {
+    mainTitle: 'Some Common Questions',
+    description: 'Check out our FAQ’s that are usually asked by our clients and see how we help them succeed.',
+    items: [
+      { question: 'Can I pay someone to take my HiSET exam for me?', answer: 'Yes, but if you\'re worried about passing, you can get help before test day. Our tutors work with you on difficult topics, practice questions, and areas where you need more confidence.' },
+      { question: 'What subjects do you cover for HiSET exam help?', answer: 'We cover all five HiSET subjects: Math, Science, Social Studies, Reading, and Writing. You can get help with just one subject or prepare for the whole exam. It depends on what you\'re struggling with.' },
+      { question: 'What if I don\'t pass my HiSET exam?', answer: 'If you don\'t pass your exam, your money will be sent to you the same day without any delay or hidden charges.' },
+      { question: 'How do I know my personal data is secure?', answer: 'It\'s normal, especially when you\'re sharing personal details online. We keep all your details secure — we don\'t even share your login credentials with the tutor, and we remove them from our records afterward.' },
+    ],
+  },
 };
 
 export default data;

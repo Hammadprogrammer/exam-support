@@ -88,9 +88,9 @@ const data: SubjectPageData = {
     topLabel: 'Get A Quote',
     heading: 'Need Help With An Online Exam?',
     description: 'Let Exam Support Online handle it securely and affordably.',
-    contactHeading: 'Place Your Request Here',
+    contactHeading: 'Place Your Request Here.',
     contactDescription: 'We’ll match you with support you can trust when you need it most.',
-    formHeading: 'Enjoy a 50% Discount on Sign-up',
+    formHeading: 'Enjoy a 50% Discount on Sign-up:',
     formDescription: 'Sign up today, get a free quote, and save 50% on your first session. No commitment needed.',
   },
   reviews: {
@@ -104,6 +104,57 @@ const data: SubjectPageData = {
       { name: 'Emily Roberts', reviewText: 'My exam preparation was carefully managed by Exam Support Online. It was well worth the money to get help from their website.' },
       { name: 'Daniel Carter', reviewText: 'I had no trouble managing my exam time. My grades were even higher than I had ever expected, thanks to the guidance and support I received.' },
       { name: 'Michael Harris', reviewText: 'I was struggling with a few topics and honestly didn\'t know how to prepare for my exam. The tutor explained everything in a way that actually made sense. I felt much more confident going into the exam, and I\'m really happy with how things turned out.' },
+    ],
+  },
+  extraSections: [
+    {
+      heading: 'Say Goodbye to Exam Stress With the Right Tutor by Your Side',
+      description:
+        'If you’re looking for a reliable way to get ready for your online exam, you’re in the right place. We connect you with a well-qualified tutor who knows your subject and has helped lots of students prepare for different kinds of online exams. This is not the end; from your first study plan to your last practice test, our tutor keeps everything simple and organized. And your personal information is always kept secure and confidential, so you can focus on studying without worrying. With 24/7 support and a tutor in your corner, exams start to feel a lot less scary. So choose us, and add confidence, trust, and better grades to your list.',
+    },
+    {
+      heading: 'Do My Online Exam and Hire Someone Who Is Available to Support You 24/7',
+      description:
+        'Undoubtedly, you must have concerns about your online exam, and for this reason, you may want to ask how your tutor is handling everything. Luckily, with us, you can get in touch anytime, whenever you have any concerns regarding your exam preparation. Moreover, our weekly follow-up sessions keep you updated on your progress and give you ultimate peace of mind, knowing that your exam preparation is being handled with great care. Here, we also take pride in working hard to provide the right guidance and support so you can focus on succeeding.',
+    },
+    {
+      heading: 'Get Professional Support From Our Online Exam Service Features',
+      description: 'Are you tired of dealing with proctoring pressure and deadlines? Here, we are dedicated to helping you get the right support that truly aligns with your requirements.',
+      features: [
+        { title: 'Qualified Team', desc: 'We have a team of expert professionals who have years of experience in teaching and helping with different types of exams.' },
+        { title: 'Secure & Private', desc: 'Want to keep your information private? Here, we do exactly that. We take your privacy seriously and work to keep your personal data and exam details secure with us.' },
+        { title: '24/7 Available', desc: 'We designed our system in a way to provide support at any time of the day.' },
+      ],
+    },
+    {
+      heading: 'Academic Success Starts With Reliable Online Exam Assistance',
+      description:
+        'Lowering the pressure and reducing the constant daily struggle, including work and everything else, doesn’t make your exam go well. Sometimes you just need support that handles everything on its own. It doesn\'t mean you haven’t tried, but that there just wasn’t enough time to handle everything on your own. We\'ve seen a lot of cases like this. That\'s why our tutors don\'t just hand you notes and leave. They sit with you and explain every topic until you fully understand it. And for exams, they keep updating you on what you\'re studying and how you\'re progressing, while keeping your safety and security in mind.',
+    },
+    {
+      heading: 'Taking My Online Exam Is Easier With Our Expert Tutor',
+      description:
+        'We maintain a private and secure environment to ensure students receive professional exam help from our experienced tutor. Our system is based around professional help from our experienced tutor; for this reason, they maintain accuracy, privacy, and a detail-oriented approach in their entire work. We also conduct weekly personalized sessions to explain difficult concepts in detail, helping students cover topics in less time. Our tutors continue to sit with students, explaining each concept step by step to help them avoid common mistakes and complete their exam preparation smoothly and without unnecessary interruptions.',
+    },
+    {
+      heading: 'Is It Possible to Increase CGPA By Paying Someone to Do My Online Exam',
+      description:
+        'If you are thinking of paying someone to do your exam, first consider your school’s rules. Most universities treat it as academic misconduct, and the risk to your grades and enrollment is far bigger than one exam. That’s why we connect you with an expert tutor. We have carefully selected a team of qualified tutors with academic expertise in many different subjects. And you know, they handle every exam while keeping you in touch about what\'s going on in your course. We have designed our system to make exams safer, with personalized sessions built around your course and your exam dates. Over time, those improved scores add up, and that’s how your CGPA starts to rise the right way.',
+    },
+    {
+      heading: 'Get Excellent Service With Our Do My Online Exam for Me Support',
+      description:
+        'Online exam services have become increasingly popular due to the rise of online learning, which has also increased the demand for remote exam support. Services like online exam support are designed to help students with the right support and guidance while preparing for exams through an online platform and tool. One of the primary reasons students turn to us for online exams is the convenience we provide. This means we adjust to your exam prep needs and offer customized solutions that lead to exam success. So you can study effectively, improve your performance and rely on our academic support without taking unnecessary stress.',
+    },
+  ],
+  faq: {
+    mainTitle: 'Read Our FAQs',
+    description: 'Got questions? Here are quick answers about how our online exam help works.',
+    items: [
+      { question: 'How do I get online exam help quickly?', answer: 'Message us or fill out the form. Most students are matched with a tutor the same day, and we’re available 24/7.' },
+      { question: 'Is my information safe and confidential?', answer: 'Yes. Your details stay with us and are never shared with anyone.' },
+      { question: 'Can someone take my online exam for me?', answer: 'No. That breaks school rules and can lead to serious consequences. Our tutors help you prepare so you can take it yourself with confidence.' },
+      { question: 'What if my exam is very soon?', answer: 'Tell us your exam date right away. We’ll try to set up a focused prep session as quickly as possible.' },
     ],
   },
 };

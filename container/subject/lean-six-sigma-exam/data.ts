@@ -104,6 +104,48 @@ const data: SubjectPageData = {
       { name: 'Sophia Mitchell', reviewText: 'Exam Support Online has the best tutors who not only help you prepare for the exam but also support you emotionally.' },
     ],
   },
+  extraSections: [
+    {
+      heading: 'Do You Have Any Questions? Take Help From Our Specialists',
+      description:
+        'Some Lean Six Sigma questions seem easy until you try to solve them. You know the solution but are confused between two answers. These are the problems our specialists help you with. We walk through the questions, examine the computations, and explain where you might be going wrong. With our Lean Six Sigma exam help online, you will spend less time guessing and more time working on the areas that require attention.',
+    },
+    {
+      heading: 'Short on Time? Get Lean Six Sigma Exam Instant Help',
+      description:
+        'It’s tiring working all day and studying at night. And when your exam date is nearing, there is extra pressure. Exam Support Online offers Lean Six Sigma exam support for folks who have less time to prepare. Tell us which certification you\'re taking and what you\'re having trouble with. Our team can help you set up tutoring sessions that are right for you and focus on the topics that will be important for your test.',
+    },
+    {
+      heading: 'Confused by the statistics? How Our Lean Six Sigma Experts Can Help You',
+      description:
+        'Statistics is one of those areas where one minor mistake can change the complete answer. Maybe you’re stuck on hypothesis testing, control charts, or process capability calculations. Our experts will assist you in understanding which strategy to employ and why. We also break down the stages to each calculation so you don’t have to keep guessing which formula matches the question. Our Lean Six Sigma exam help service makes it easy to go through the tough areas.',
+    },
+    {
+      heading: 'Take the Stress Out of Your Lean Six Sigma Certification Journey',
+      description:
+        'No one wants to pay for an exam only to find themselves unprepared when test day comes. If you are looking for someone to "take my Lean Six Sigma exam" because you are anxious about passing, our team can prepare you. We provide practice exam evaluations, assistance with difficult questions, and tips on topics you haven’t fully grasped. Discuss your issues with our specialists and try to complete your certification exam with more confidence.',
+    },
+    {
+      heading: 'Need Help Understanding Lean Six Sigma Exam Rules? Contact Us Today',
+      description:
+        'Every Lean Six Sigma certification provider has its own exam rules. Some tests allow reference materials, while others have different time limits and question formats. It can be confusing when you\'re preparing for the first time. At Exam Support Online, our team helps you understand what to expect from your chosen exam. We can guide you through the available exam information, explain the requirements, and help you prepare accordingly. This way, you\'ll know what to expect before your test date arrives.',
+    },
+    {
+      heading: 'Confused About Lean Six Sigma Exam Registration? We Can Guide You',
+      description:
+        'Well, it is an easy process, but there are a few things you need to check first. Different certification providers have their own registration steps, fees, and eligibility requirements. Our team helps you understand the process and find the information you need before booking your exam. If you\'re unsure about the documents or details required, you can discuss them with us. We want to make sure you know what to do before choosing your exam date.',
+    },
+  ],
+  faq: {
+    mainTitle: 'Frequently Asked Questions',
+    description: 'Read our FAQs and get an advantage from our specialized Lean Six Sigma exam preparation service.',
+    items: [
+      { question: 'Can someone take my Lean Six Sigma exam?', answer: 'You must complete your own Lean Six Sigma certification exam. However, our tutors can assist you if you\'re struggling with your preparation. Before test day, we go over challenging topics, clarify practice questions, and boost your confidence.' },
+      { question: 'Which types of Lean Six Sigma exams are covered?', answer: 'We can assist you in preparing for various Lean Six Sigma certification exams, including White Belt, Yellow Belt, Green Belt, and Black Belt. Let us know which certification you\'re looking for so we can guide you accordingly.' },
+      { question: 'What happens if I\'ve already failed the Lean Six Sigma exam?', answer: 'You are still able to attempt it again. We\'ll review the topics you found difficult and assist you in preparing once more. Certification providers have different retake policies, so it\'s important to check the requirements before booking your next attempt.' },
+      { question: 'How do you protect the privacy of my personal information?', answer: 'We understand why you might be wary of sharing personal information online. You can inquire about who can access your information and how it is stored before registering. To receive tutoring assistance, you won\'t have to share your exam account password.' },
+    ],
+  },
 };
 
 export default data;

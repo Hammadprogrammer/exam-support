@@ -5,7 +5,7 @@ const data: SubjectPageData = {
     topText: 'Law Exam Help',
     heading: 'Take My Law Exam and Relax; We Handle the Rest Like Pros',
     subText:
-      'Dear students, you don\'t need to worry about your law exam. We will take your law exam and save you time and effort. Our expert professionals are here to take your law exam and make sure you achieve the grades that you deserve.',
+      'Dear students, you don\'t need to worry about your law exam. We will take your law exam and save you time and effort. Our expert professionals are here to take your law exam and make sure you achieve the grades that you deserve. Our Law Exam Help Features Are;',
     bullets: ['Trusted Professional, PhD Experts', 'Ensured A+ results', 'Pocket-Friendly Price', 'Experienced Law Exam Takers', 'Secure and Encrypted Process'],
     bgImage: '/home/hero.jpg',
   },

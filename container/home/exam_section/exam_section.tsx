@@ -37,8 +37,8 @@ const ExamSectionHome = () => {
     // Image 3 se subjects
     { name: "Sociology Exam", icon: <PublicIcon /> },
     { name: "Law Exam", icon: <BalanceIcon /> },
-    { name: "Business Exam", icon: <BusinessCenterIcon /> },
-    { name: "Computer Exam", icon: <ComputerIcon /> },
+    { name: "Business Law Exam", icon: <BusinessCenterIcon /> },
+    { name: "Computer Science Exam", icon: <ComputerIcon /> },
     { name: "Psychology Exam", icon: <PsychologyIcon /> },
   ];
 

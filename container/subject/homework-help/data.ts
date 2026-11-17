@@ -104,6 +104,18 @@ const data: SubjectPageData = {
       { name: 'Michael Brown', reviewText: 'I love their tutor; they do the work before the due date.' },
     ],
   },
+  extraSections: [
+    {
+      heading: 'Want To Score High? We Are the Best Service Provider For You',
+      description:
+        'Getting help with your homework is easy here, and it’s safe too. From the moment you reach out until your work is ready to submit, a tutor is there with you. They help you understand the brief, plan your structure, and point you to good sources. Then they read your draft and tell you honestly what to fix. Every tutor on our team has an advanced degree and years of experience, so you’re learning from people who really know their stuff. You still do the writing, which means the work is yours and the grade is earned.',
+    },
+    {
+      heading: 'Original, Plagiarism-Free Homework Support From Our Expert Helpers',
+      description:
+        'A lot of students worry that getting homework help means ending up with copied answers. Not here. Our helpers don’t hand you anything recycled. They sit with you and go through the questions one by one, then show you how to solve them yourself. Stuck on algebra? Chemistry worksheet? A short reading response? You get someone who actually knows that subject. They explain the steps, send you a couple of good sources if you need them, and look over your work before you turn it in.',
+    },
+  ],
 };
 
 export default data;

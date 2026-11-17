@@ -10,6 +10,7 @@ export interface SlideData {
   subText: React.ReactNode;
   bgImage: string;
   bullets?: string[];
+  ctaText?: string;
 }
 
 interface HeroProps {
@@ -214,7 +215,7 @@ const Hero: React.FC<HeroProps> = ({
                   href="/contact/" 
                   className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-[#FFC107] rounded-lg hover:bg-[#e09500] transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 active:scale-95"
                 >
-                  Get Started ➜
+                  {current.ctaText ?? 'Get Started'} ➜
                 </Link>
               </motion.div>
             </div>

@@ -27,6 +27,7 @@ export interface SubjectPageData {
     subText: string;
     bullets: string[];
     bgImage?: string;
+    cta?: string;
   };
   services: {
     badge: string;
@@ -83,4 +84,21 @@ export interface SubjectPageData {
     description: string;
     items: SubjectReview[];
   };
+  extraSections?: SubjectExtraSection[];
+  faq?: {
+    mainTitle: string;
+    description: string;
+    items: SubjectFaqItem[];
+  };
+}
+
+export interface SubjectExtraSection {
+  heading: string;
+  description: string;
+  features?: SubjectFeature[];
+}
+
+export interface SubjectFaqItem {
+  question: string;
+  answer: string;
 }

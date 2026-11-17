@@ -104,6 +104,13 @@ const data: SubjectPageData = {
       { name: 'Daniel Smith', reviewText: 'Amazing, I accidentally selected the wrong date for essay submission. And I contacted them at the very last moment, but they answered me, and I completed my work and had everything ready on time.' },
     ],
   },
+  extraSections: [
+    {
+      heading: 'Safe, Dependable Essay Support You Can Count On Every Time',
+      description:
+        'Taking help from someone? Yeah, that can feel a little sketchy. We get it. So here’s what happens on our end. Your files go into a locked system, and only your tutor sees them. Not the whole team, just them. Your name and school stay with us, and once you’re done, we wipe your files. As for being reliable, we keep it simple. Book a session, and your tutor shows up. Send a draft, and you get notes back when we said you would, not three days later.',
+    },
+  ],
 };
 
 export default data;

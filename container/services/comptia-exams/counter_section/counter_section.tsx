@@ -4,7 +4,7 @@ import CounterSection from '@/container/All-props-comp/counter_section/counter_s
 
 const CounterSectionHome = () => {
   const statsData = [
-    { value: 95, suffix: "%", label: "Success Rate" },
+    { value: 95, suffix: "%", label: "Satisfaction Record" },
     { value: 10000, suffix: "+", label: "Exams Covered" },
     { value: 4592, suffix: "", label: "Online Tutors" },
   ];
