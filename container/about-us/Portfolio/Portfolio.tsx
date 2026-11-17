@@ -21,7 +21,7 @@ const Portfolio = () => {
       btnColor: "#16305c", // Blue
       image: "/service/9.jpg",
       btnText: "Join With Us →",
-      url: "/online-pmp-exam"
+      url: "/take-my-pmp-exam"
     },
     {
       title: "GED Exams",
@@ -29,7 +29,7 @@ const Portfolio = () => {
       btnColor: "#16305c", // Blue
       image: "/service/10.jpg",
       btnText: "Join With Us →",
-      url: "/online-ged-test"
+      url: "/take-my-ged-exam"
     },
     {
       title: "Proctored Exam Help",

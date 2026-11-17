@@ -32,7 +32,7 @@ const OurServiceSection = () => {
       title: "TEAS Math Help",
       description: "Forgot fractions, percentages, or algebra? We'll brush up on the basics and work through questions you're struggling with.",
       image: "/home/6.jpg",
-      link: "/math-exam"
+      link: "/take-my-math-exam-for-me"
     },
     {
       title: "Word Problems Help",
@@ -56,13 +56,13 @@ const OurServiceSection = () => {
       title: "Anatomy & Physiology Help",
       description: "Learn how the heart, lungs, bones, and other body systems work, with clear explanations from your tutor.",
       image: "/home/10.jpg",
-      link: "/biology-exam"
+      link: "/take-my-biology-exam-for-me"
     },
     {
       title: "Biology & Chemistry Help",
       description: "We'll cover the biology and chemistry topics included in the TEAS, without adding lessons you don't need.",
       image: "/home/11.jpg",
-      link: "/chemistry-exam"
+      link: "/take-my-chemistry-exam-for-me"
     },
     {
       title: "Scientific Reasoning Help",
@@ -74,13 +74,13 @@ const OurServiceSection = () => {
       title: "TEAS English Help",
       description: "Grammar, spelling, or punctuation giving you trouble? We'll review the rules and practice fixing common mistakes.",
       image: "/about/1.jpg",
-      link: "/english-exam"
+      link: "/take-my-english-exam-for-me"
     },
     {
       title: "Vocabulary Help",
       description: "Unfamiliar words don't have to slow you down. Learn how word roots and prefixes can help you understand their meaning.",
       image: "/home/hero.jpg",
-      link: "/english-exam"
+      link: "/take-my-english-exam-for-me"
     },
     {
       title: "TEAS Practice Test Help",

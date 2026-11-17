@@ -22,7 +22,7 @@ const Portfolio = () => {
       btnColor: "#16305c", // Blue
       image: "/our-experts/3d-2.png",
       btnText: "Join With Us →",
-      url: "/online-pmp-exam",
+      url: "/take-my-pmp-exam",
       description: "We match you with the best exam taker available for your requirements."
     },
     {
@@ -31,7 +31,7 @@ const Portfolio = () => {
       btnColor: "#16305c", // Blue
       image: "/our-experts/3d-2.png",
       btnText: "Join With Us →",
-      url: "/online-ged-test",
+      url: "/take-my-ged-exam",
       description: "Tell us the subject, date, time, and platform"
     },
 

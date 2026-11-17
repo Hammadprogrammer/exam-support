@@ -8,40 +8,40 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const subjects = [
-    { name: "Biology Exam", url: "/biology-exam/" },
-    { name: "Business Law Exam", url: "/business-exam/" },
-    { name: "Chemistry Exam", url: "/chemistry-exam/" },
-    { name: "Computer Science Exam", url: "/computer-exam/" },
-    { name: "Economics Exam", url: "/economics-exam/" },
-    { name: "Finance Exam", url: "/finance-exam/" },
-    { name: "History Exam", url: "/history-exam/" },
-    { name: "Law Exam", url: "/law-exam/" },
-    { name: "Math Exam", url: "/math-exam/" },
-    { name: "Nursing Exam", url: "/nursing-exam/" },
-    { name: "Philosophy Exam", url: "/philosophy-exam/" },
-    { name: "Physics Exam", url: "/physics-exam/" },
-    { name: "Psychology Exam", url: "/psychology-exam/" },
-    { name: "Sociology Exam", url: "/sociology-exam/" },
-    { name: "Statistics Exam", url: "/statistics-exam/" }
+    { name: "Take My Biology Exam For Me", url: "/take-my-biology-exam-for-me/" },
+    { name: "Take My Business Law Exam For Me", url: "/take-my-business-law-exam-for-me/" },
+    { name: "Take My Chemistry Exam For Me", url: "/take-my-chemistry-exam-for-me/" },
+    { name: "Take My Computer Science Exam For Me", url: "/take-my-computer-science-exam-for-me/" },
+    { name: "Take My Economics Exam For Me", url: "/take-my-economics-exam-for-me/" },
+    { name: "Take My Finance Exam For Me", url: "/take-my-finance-exam-for-me/" },
+    { name: "Take My History Exam For Me", url: "/take-my-history-exam-for-me/" },
+    { name: "Take My Law Exam For Me", url: "/take-my-law-exam-for-me/" },
+    { name: "Take My Math Exam For Me", url: "/take-my-math-exam-for-me/" },
+    { name: "Take My Nursing Exam For Me", url: "/take-my-nursing-exam-for-me/" },
+    { name: "Take My Philosophy Exam For Me", url: "/take-my-philosophy-exam-for-me/" },
+    { name: "Take My Physics Exam For Me", url: "/take-my-physics-exam-for-me/" },
+    { name: "Take My Psychology Exam For Me", url: "/take-my-psychology-exam-for-me/" },
+    { name: "Take My Sociology Exam For Me", url: "/take-my-sociology-exam-for-me/" },
+    { name: "Take My Statistics Exam For Me", url: "/take-my-statistics-exam-for-me/" }
   ];
 
   const services = [
     { name: "Online Exam Help", url: "/online-exam-help/" },
-    { name: "Online GED Test", url: "/online-ged-test/" },
-    { name: "Online GMAT Exam", url: "/online-gmat-exam/" },
-    { name: "Online GRE Test", url: "/online-gre-test/" },
-    { name: "Online HESI Exam", url: "/online-hesi-exam/" },
-    { name: "Online PMP Exam", url: "/online-pmp-exam/" },
+    { name: "Take My GED Exam", url: "/take-my-ged-exam/" },
+    { name: "Take My GMAT Exam", url: "/take-my-gmat-exam/" },
+    { name: "Take My GRE Exam", url: "/take-my-gre-exam/" },
+    { name: "Take My HESI Exam", url: "/take-my-hesi-exam/" },
+    { name: "Take My PMP Exam", url: "/take-my-pmp-exam/" },
     { name: "Online PSI Exam", url: "/online-psi-exam/" },
-    { name: "Online TEAS Test", url: "/online-teas-test/" },
+    { name: "Take My TEAS Exam", url: "/take-my-teas-exam/" },
     { name: "Online Tests & Quizzes", url: "/online-tests-quizzes/" },
     { name: "Proctored Exam Help", url: "/proctored-exam-help/" },
     { name: "Assignment Help", url: "/assignment-help/" },
-    { name: "Real Estate Exam", url: "/real-estate-exam/" },
+    { name: "Take My Real Estate Exam", url: "/take-my-real-estate-exam/" },
     { name: "Online Class Help", url: "/online-class-help/" },
-    { name: "Insurance Exam", url: "/insurance-exam/" },
+    { name: "Take My Insurance Exam", url: "/take-my-insurance-exam/" },
     { name: "Online Course Help", url: "/online-course-help/" },
-    { name: "CompTIA Exams", url: "/comptia-exams/" }
+    { name: "Take My CompTIA Exam", url: "/take-my-comptia-exam/" }
   ];
 
   const resources = [

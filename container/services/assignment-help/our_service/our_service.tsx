@@ -26,13 +26,13 @@ const OurServiceSection = () => {
       title: "GRE Assignment Help",
       description: "Some GRE topics just don't click on the first read. Your tutor explains it another way, and then you set up your outline together.",
       image: "/home/5.jpg",
-      link: "/online-gre-test"
+      link: "/take-my-gre-exam"
     },
     {
       title: "HESI Assignment Help",
       description: "Pick the topic that scares you most. Start there. Our nursing tutors will help you dig into it and follow the brief properly.",
       image: "/home/6.jpg",
-      link: "/online-hesi-exam"
+      link: "/take-my-hesi-exam"
     },
     {
       title: "PSI Assignment Help",
@@ -56,43 +56,43 @@ const OurServiceSection = () => {
       title: "GED Assignment Help",
       description: "Math, science, writing, whichever one's giving you trouble, we'll explain it simply and help you plan your answer.",
       image: "/home/10.jpg",
-      link: "/online-ged-test"
+      link: "/take-my-ged-exam"
     },
     {
       title: "ATI TEAS Assignment Help",
       description: "Nursing prep comes with tons of little tasks. We go through them with you one at a time.",
       image: "/home/11.jpg",
-      link: "/online-teas-test"
+      link: "/take-my-teas-exam"
     },
     {
       title: "CompTIA Assignment Help",
       description: "Explaining a firewall is easier when you think about your own home Wi-Fi. That's the kind of example our tutors use for A+, Network+, and Security+.",
       image: "/about/1.jpg",
-      link: "/comptia-exams"
+      link: "/take-my-comptia-exam"
     },
     {
       title: "Real Estate Assignment Help",
       description: "Laws, contracts, numbers. We take them one by one, so you know exactly what goes into your assignment.",
       image: "/about/2.jpg",
-      link: "/real-estate-exam"
+      link: "/take-my-real-estate-exam"
     },
     {
       title: "PMP Assignment Help",
       description: "PMP case studies feel like real work projects, because they kind of are. Our tutors walk you through them and look over your draft before it goes in.",
       image: "/about/3.png",
-      link: "/online-pmp-exam"
+      link: "/take-my-pmp-exam"
     },
     {
       title: "Insurance Assignment Help",
       description: "First time seeing words like \"rider\" or \"endorsement\"? Ask us. We'll explain them in normal language.",
       image: "/about/4.png",
-      link: "/insurance-exam"
+      link: "/take-my-insurance-exam"
     },
     {
       title: "GMAT Assignment Help",
       description: "Big concepts, small steps. Our tutor helps you take it one piece at a time.",
       image: "/home/1.png",
-      link: "/online-gmat-exam"
+      link: "/take-my-gmat-exam"
     }
   ];
 
