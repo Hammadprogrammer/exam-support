@@ -113,16 +113,14 @@ const Navbar = () => {
                 <span className={`${styles.dropdownLabel} ${(isCategoryActive('/services') || services.some(s => isActive(s.url))) ? styles.activeText : ''}`}>
                   Services <KeyboardArrowDown className={styles.arrowIcon} />
                 </span>
-                <div className={`${styles.megaMenu} ${openDropdown === 'ser' ? styles.show : ''}`} style={{ minWidth: '980px' }}>
-                  <div className="grid grid-cols-4 gap-4">
-                    {services.map((item) => {
-                      return (
-                        <Link key={item.name} href={item.url} prefetch={false} className={`${styles.flexItem} ${isActive(item.url) ? styles.dropdownActive : ''}`} style={{ width: '100%', flex: 'none' }}>
-                          {item.icon} {item.name}
-                        </Link>
-                      );
-                    })}
-                  </div>
+                <div className={`${styles.megaMenu} ${styles.scrollMenu} ${openDropdown === 'ser' ? styles.show : ''}`}>
+                  {services.map((item) => {
+                    return (
+                      <Link key={item.name} href={item.url} prefetch={false} className={`${styles.flexItem} ${isActive(item.url) ? styles.dropdownActive : ''}`}>
+                        {item.icon} {item.name}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
 
@@ -131,16 +129,14 @@ const Navbar = () => {
                 <span className={`${styles.dropdownLabel} ${(isCategoryActive('/subjects') || subjects.some(s => isActive(s.url))) ? styles.activeText : ''}`}>
                   Subjects <KeyboardArrowDown className={styles.arrowIcon} />
                 </span>
-                <div className={`${styles.megaMenu} ${openDropdown === 'sub' ? styles.show : ''}`}>
-                  <div className={styles.flexGrid}>
-                    {subjects.map((sub) => {
-                       return (
-                        <Link key={sub.name} href={sub.url} prefetch={false} className={`${styles.flexItem} ${isActive(sub.url) ? styles.dropdownActive : ''}`}>
-                          {sub.icon} {sub.name}
-                        </Link>
-                      );
-                    })}
-                  </div>
+                <div className={`${styles.megaMenu} ${styles.scrollMenu} ${openDropdown === 'sub' ? styles.show : ''}`}>
+                  {subjects.map((sub) => {
+                     return (
+                      <Link key={sub.name} href={sub.url} prefetch={false} className={`${styles.flexItem} ${isActive(sub.url) ? styles.dropdownActive : ''}`}>
+                        {sub.icon} {sub.name}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
 
