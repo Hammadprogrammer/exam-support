@@ -26,27 +26,20 @@ const Footer = () => {
   ];
 
   const services = [
-    { name: "Online Exam Help", url: "/online-exam-help/" },
     { name: "Take My GED Exam", url: "/take-my-ged-exam/" },
     { name: "Take My GMAT Exam", url: "/take-my-gmat-exam/" },
     { name: "Take My GRE Exam", url: "/take-my-gre-exam/" },
     { name: "Take My HESI Exam", url: "/take-my-hesi-exam/" },
     { name: "Take My PMP Exam", url: "/take-my-pmp-exam/" },
-    { name: "Online PSI Exam", url: "/online-psi-exam/" },
     { name: "Take My TEAS Exam", url: "/take-my-teas-exam/" },
-    { name: "Online Tests & Quizzes", url: "/online-tests-quizzes/" },
-    { name: "Proctored Exam Help", url: "/proctored-exam-help/" },
     { name: "Assignment Help", url: "/assignment-help/" },
     { name: "Take My Real Estate Exam", url: "/take-my-real-estate-exam/" },
-    { name: "Online Class Help", url: "/online-class-help/" },
     { name: "Take My Insurance Exam", url: "/take-my-insurance-exam/" },
-    { name: "Online Course Help", url: "/online-course-help/" },
     { name: "Take My CompTIA Exam", url: "/take-my-comptia-exam/" }
   ];
 
   const resources = [
     { name: "About", url: "/about/" },
-    { name: "Our Experts", url: "/our-experts/" },
     { name: "Contact Us", url: "/contact/" }
   ];
 

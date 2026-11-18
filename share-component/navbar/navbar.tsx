@@ -5,11 +5,11 @@ import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { 
   PhoneInTalk, ArrowForward, KeyboardArrowDown,
-  School, Assignment, Quiz, Computer, Science, BusinessCenter, 
+  School, Quiz, Computer, Science, BusinessCenter, 
   Functions, HistoryEdu, Gavel, Psychology, People, BarChart, 
   LocalHospital, Biotech, PsychologyAlt, MenuBook, Home as HomeIcon,
   Info as InfoIcon, Close as CloseIcon, Menu as MenuIcon, AutoStories,
-  Shield as ShieldIcon, Description
+  Shield as ShieldIcon, Description, ContactMail
 } from '@mui/icons-material';
 import styles from './navbar.module.scss';
 
@@ -20,9 +20,6 @@ const Navbar = () => {
 
   // Footer Services with added Icons to match the "old design" look
   const services = [
-    { name: "Online Exam Help", url: "/online-exam-help/", icon: <Assignment /> },
-    { name: "Online Course Help", url: "/online-course-help/", icon: <AutoStories /> },
-    { name: "Online Class Help", url: "/online-class-help/", icon: <School /> },
     { name: "Assignment Help", url: "/assignment-help/", icon: <HistoryEdu /> },
     { name: "Essay Help", url: "/essay-help/", icon: <Description /> },
     { name: "Homework Help", url: "/homework-help/", icon: <MenuBook /> },
@@ -40,9 +37,6 @@ const Navbar = () => {
     { name: "Take My PMP Exam", url: "/take-my-pmp-exam/", icon: <BusinessCenter /> },
     { name: "Take My Real Estate Exam", url: "/take-my-real-estate-exam/", icon: <HomeIcon /> },
     { name: "Take My TEAS Exam", url: "/take-my-teas-exam/", icon: <Biotech /> },
-    { name: "Online PSI Exam", url: "/online-psi-exam/", icon: <Description /> },
-    { name: "Online Tests & Quizzes", url: "/online-tests-quizzes/", icon: <Quiz /> },
-    { name: "Proctored Exam Help", url: "/proctored-exam-help/", icon: <Computer /> },
   ];
 
   // Footer Subjects with added Icons to match the "old design" look
@@ -140,12 +134,12 @@ const Navbar = () => {
                 </div>
               </div>
 
-              <Link href="/our-experts/" prefetch={false} className={`${styles.navLink} ${isActive('/our-experts/') ? styles.active : ''}`}>
-                Our Experts
-              </Link>
-
               <Link href="/about" prefetch={false} className={`${styles.navLink} ${isActive('/about') ? styles.active : ''}`}>
                 About
+              </Link>
+
+              <Link href="/contact/" prefetch={false} className={`${styles.navLink} ${isActive('/contact/') ? styles.active : ''}`}>
+                Contact Us
               </Link>
             </div>
 
@@ -217,12 +211,12 @@ const Navbar = () => {
                 </div>
               </div>
 
-              <li className={`${styles.mobileListItem} ${isActive('/our-experts/') ? styles.mobActive : ''}`}>
-                <Link href="/our-experts/" prefetch={false} onClick={handleDrawerToggle}><People /> Our Experts</Link>
-              </li>
-
               <li className={`${styles.mobileListItem} ${isActive('/about') ? styles.mobActive : ''}`}>
                 <Link href="/about" prefetch={false} onClick={handleDrawerToggle}><InfoIcon /> About</Link>
+              </li>
+
+              <li className={`${styles.mobileListItem} ${isActive('/contact/') ? styles.mobActive : ''}`}>
+                <Link href="/contact/" prefetch={false} onClick={handleDrawerToggle}><ContactMail /> Contact Us</Link>
               </li>
             </ul>
 
@@ -230,7 +224,7 @@ const Navbar = () => {
               <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-3 rounded-md font-bold w-full">
                 <PhoneInTalk /> Live Call
               </a>
-              <Link href="/get-started/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#16305c] text-white px-4 py-3 rounded-md font-bold w-full">
+              <Link href="/contact/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#16305c] text-white px-4 py-3 rounded-md font-bold w-full">
                 Get Started <ArrowForward />
               </Link>
             </div>

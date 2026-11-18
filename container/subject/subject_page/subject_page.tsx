@@ -48,13 +48,8 @@ const EXTRA_IMAGES = ['/service/7.jpg', '/service/6.jpg', '/service/8.jpg', '/se
 const REVIEW_IMAGES = ['/t1.jpg', '/t2.jpg', '/t3.jpg', '/t4.jpg', '/reviewer-ryan.png'];
 
 const SERVICE_LINKS: [RegExp, string][] = [
-  [/proctored/i, '/proctored-exam-help'],
-  [/quiz/i, '/online-tests-quizzes'],
   [/gre/i, '/take-my-gre-exam'],
   [/hesi/i, '/take-my-hesi-exam'],
-  [/psi/i, '/online-psi-exam'],
-  [/online class/i, '/online-class-help'],
-  [/online course/i, '/online-course-help'],
   [/ged/i, '/take-my-ged-exam'],
   [/teas/i, '/take-my-teas-exam'],
   [/comptia/i, '/take-my-comptia-exam'],
@@ -62,7 +57,6 @@ const SERVICE_LINKS: [RegExp, string][] = [
   [/pmp/i, '/take-my-pmp-exam'],
   [/insurance/i, '/take-my-insurance-exam'],
   [/gmat/i, '/take-my-gmat-exam'],
-  [/online exam/i, '/online-exam-help'],
   [/accounting/i, '/take-my-accounting-exam-for-me'],
   [/algebra/i, '/take-my-algebra-exam-for-me'],
   [/calculus/i, '/take-my-calculus-exam-for-me'],

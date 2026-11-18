@@ -5,24 +5,6 @@ import OurService from '@/container/All-props-comp/our_service/our_service';
 const OurServiceSection = () => {
   const servicesData = [
     {
-      title: "Online Exam Help",
-      description: "Expert guidance and support to tackle online exams confidently and achieve better grades.",
-      image: "/home/1.png",
-      link: "/online-exam-help"
-    },
-    {
-      title: "Proctored Exam Help",
-      description: "Expert assistance for tests taken under proctor-supervised conditions.",
-      image: "/home/2.png",
-      link: "/proctored-exam-help"
-    },
-    {
-      title: "Online Test & Quizzes",
-      description: "Assistance with organizing test materials, interpreting subjects, and efficiently completing test requirements.",
-      image: "/home/3.jpg",
-      link: "/online-tests-quizzes"
-    },
-    {
       title: "GED Test Help",
       description: "Research, structure and take GED test at a professional level according to certification standards.",
       image: "/home/4.png",
@@ -58,12 +40,6 @@ const OurServiceSection = () => {
       image: "/home/9.jpg",
       link: "/take-my-hesi-exam"
     },
-    {
-      title: "PSI Exam Help",
-      description: "Receive tailored support for PSI exam taken via professionals with secure and stable performance.",
-      image: "/home/4.png",
-      link: "/online-psi-exam"
-    }
   ];
 
   return (

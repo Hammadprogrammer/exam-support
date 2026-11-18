@@ -11,18 +11,6 @@ const OurServiceSection = () => {
       link: "/assignment-help"
     },
     {
-      title: "Proctored Assignment Help",
-      description: "A proctored course plus assignments on top? That's a lot for one week. We'll help you sort out what's urgent and what can wait.",
-      image: "/home/3.jpg",
-      link: "/proctored-exam-help"
-    },
-    {
-      title: "Online Tests & Quizzes Help",
-      description: "Those small weekly quizzes? Easy to forget. A five-minute check-in fixes that.",
-      image: "/home/4.png",
-      link: "/online-tests-quizzes"
-    },
-    {
       title: "GRE Assignment Help",
       description: "Some GRE topics just don't click on the first read. Your tutor explains it another way, and then you set up your outline together.",
       image: "/home/5.jpg",
@@ -33,24 +21,6 @@ const OurServiceSection = () => {
       description: "Pick the topic that scares you most. Start there. Our nursing tutors will help you dig into it and follow the brief properly.",
       image: "/home/6.jpg",
       link: "/take-my-hesi-exam"
-    },
-    {
-      title: "PSI Assignment Help",
-      description: "Licensing work needs good sources, not random websites. We'll point you to the right ones and double-check you haven't missed anything.",
-      image: "/home/7.jpg",
-      link: "/online-psi-exam"
-    },
-    {
-      title: "Online Class Assignment Help",
-      description: "Two lectures behind and an assignment due Friday? Happens all the time. Your tutor helps you catch up and plan the week.",
-      image: "/home/8.jpg",
-      link: "/online-class-help"
-    },
-    {
-      title: "Online Course Assignment Help",
-      description: "Some weeks are chill. Others hit you with three deadlines at once. Break it down with a tutor and it gets a lot more manageable.",
-      image: "/home/9.jpg",
-      link: "/online-course-help"
     },
     {
       title: "GED Assignment Help",

@@ -8,14 +8,6 @@ import { motion } from 'framer-motion';
 const Portfolio = () => {
   const portfolioItems = [
     {
-      title: "Online Exam Help",
-      bgColor: "#eef2fa", // Light navy
-      btnColor: "#16305c", // Dark grey
-      image: "/service/8.jpg", 
-      btnText: "Join With Us →",
-      url: "/online-exam-help"
-    },
-    {
       title: "Online PMP Exam",
       bgColor: "#eef2fa", 
       btnColor: "#16305c", // Blue
@@ -31,14 +23,6 @@ const Portfolio = () => {
       btnText: "Join With Us →",
       url: "/take-my-ged-exam"
     },
-    {
-      title: "Proctored Exam Help",
-      bgColor: "#eef2fa", // Light navy
-      btnColor: "#16305c", // Dark grey
-      image: "/service/11.jpg",
-      btnText: "Join With Us →",
-      url: "/proctored-exam-help"
-    }
   ];
 
   const containerVariants = {
