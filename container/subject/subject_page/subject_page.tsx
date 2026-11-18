@@ -12,7 +12,6 @@ import ClientReviews from '@/container/All-props-comp/client_reviews/client_revi
 import ContentThree from '@/container/All-props-comp/content_section_three/content_section_three';
 import FAQSection from '@/container/All-props-comp/fqa-read/fqa';
 import ExamSection from '@/container/home/exam_section/exam_section';
-import FeatureSectionHome from '@/container/home/feature_section/feature_section';
 import TrustedByHome from '@/container/home/trusted_by/trusted_by';
 
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
@@ -181,7 +180,6 @@ const SubjectPage = ({ data }: { data: SubjectPageData }) => {
         featuresLeft={whyFeatures.slice(0, half)}
         featuresRight={whyFeatures.slice(half)}
       />
-      <FeatureSectionHome />
       <TrustedByHome />
       {extraBlocks.map(([first, second], i) => (
         <ContentThree

@@ -9,7 +9,6 @@ import ContentSectionTwoHome from '@/container/services/assignment-help/content_
 import AboutTeamHome from '@/container/services/assignment-help/about_team/about_team'
 import ContentSectionThree from '@/container/services/assignment-help/content_section_three/content_section_three'
 import WhyStudentHireSection from '@/container/services/assignment-help/why_student_hire/why_student_hire'
-import FeatureSectionHome from '@/container/home/feature_section/feature_section'
 import TrustedByHome from '@/container/home/trusted_by/trusted_by'
 import GetQuoteHome from '@/container/services/assignment-help/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/assignment-help/client_reviews/client_reviews'
@@ -36,7 +35,6 @@ const page = () => {
       <ExamSection />
       <WhyStudentHireSection centerImage="/service/vector.jpg" />
       <ContentSectionThree />
-      <FeatureSectionHome />
       <TrustedByHome />
       <GetQuoteHome />
       <ClientReviewsHome />

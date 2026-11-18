@@ -13,7 +13,6 @@ import AboutTeamHome from '@/container/services/online-gre-test/about_team/about
 import ContentSectionThree from '@/container/services/online-gre-test/content_section_three/content_section_three'
 
 import WhyStudentHireSection from '@/container/services/online-gre-test/why_student_hire/why_student_hire'
-import FeatureSectionHome from '@/container/home/feature_section/feature_section'
 import TrustedByHome from '@/container/home/trusted_by/trusted_by'
 import GetQuoteHome from '@/container/services/online-gre-test/get_quote/get_quote'
 import ClientReviewsHome from '@/container/services/online-gre-test/client_reviews/client_reviews'
@@ -40,7 +39,6 @@ const page = () => {
       <ExamSection />
       <WhyStudentHireSection centerImage="/service/vector.jpg" />
       <ContentSectionThree />
-      <FeatureSectionHome />
       <TrustedByHome />
       <GetQuoteHome />
       <ClientReviewsHome />
