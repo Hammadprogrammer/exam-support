@@ -145,7 +145,7 @@ const Navbar = () => {
 
             {/* Desktop Action Buttons */}
             <div className="hidden lg:flex items-center space-x-3">
-              <a href="tel:+12123476533" className="flex items-center gap-1.5 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
+              <a href="tel:+14086640987" className="flex items-center gap-1.5 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:opacity-90 transition-opacity">
                 <PhoneInTalk fontSize="small" /> Live Call
               </a>
               <Link href="/contact/" prefetch={false} className="flex items-center gap-1.5 bg-[#16305c] text-white px-4 py-2.5 rounded shadow-sm font-semibold text-[14px] hover:bg-[#2a4d8f] transition-colors">
@@ -221,7 +221,7 @@ const Navbar = () => {
             </ul>
 
             <div className="p-5 mt-2 space-y-3">
-              <a href="+12123476533" className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-3 rounded-md font-bold w-full">
+              <a href="tel:+14086640987" className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#16305c] to-[#2a4d8f] text-white px-4 py-3 rounded-md font-bold w-full">
                 <PhoneInTalk /> Live Call
               </a>
               <Link href="/contact/" onClick={handleDrawerToggle} className="flex items-center justify-center gap-2 bg-[#16305c] text-white px-4 py-3 rounded-md font-bold w-full">

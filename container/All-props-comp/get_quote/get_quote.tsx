@@ -30,7 +30,7 @@ const GetQuote: React.FC<GetQuoteProps> = ({
   description = "It's a simple way to start your exam support journey and save while boosting your grades.",
   contactHeading = "Place your Order here",
   contactDescription = "We guarantee you get the support you can trust at the moment it's needed the most.",
-  phone = "+12123476533",
+  phone = "+1 408-664-0987",
   email = "info@examsupportonline.com",
   liveChatText = 'Live Chat: Type "Yes" to Start',
   formHeading = "Enjoy a 50% Discount on Signup",
@@ -105,7 +105,7 @@ const GetQuote: React.FC<GetQuoteProps> = ({
               <div className={styles.contactItem}>
                 <LocalPhoneIcon className={styles.muiIcon} />
                 <span className={styles.contactText}>
-                  <strong>Phone:</strong> <a href={`tel:${phone}`}>{phone}</a>
+                  <strong>Phone:</strong> <a href={`tel:${phone.replace(/[^\d+]/g, '')}`}>{phone}</a>
                 </span>
               </div>
               

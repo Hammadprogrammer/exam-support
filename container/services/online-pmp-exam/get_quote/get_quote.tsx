@@ -9,7 +9,7 @@ const GetQuoteHome = () => {
       description="We are available to guide you through the PMP exam process. You are just one click away. Contact Us Now!"
       contactHeading="Send Us a Message"
       contactDescription="You may now communicate with us through a chat or even through a short call. We are ready to answer!"
-      phone="+12123476533"
+      phone="+1 408-664-0987"
       email="info@examsupportonline.com"
       liveChatText='Live Chat: Type "Yes" to Start'
       formHeading="Get 50% Off"

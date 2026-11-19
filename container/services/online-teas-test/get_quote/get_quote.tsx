@@ -9,7 +9,7 @@ const GetQuoteHome = () => {
       description="Try our brilliant exam preparation service with Exam Support Online. We are waiting for your queries."
       contactHeading="Send Us a Message, Anytime!"
       contactDescription="Share your course details and make your score skyrocket."
-      phone="+12123476533"
+      phone="+1 408-664-0987"
       email="info@examsupportonline.com"
       liveChatText='Live Chat: Type "Yes" to Start'
       formHeading="Love Saving? Take 50% Off Your First Session"

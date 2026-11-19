@@ -52,12 +52,12 @@ Contact our support team anytime — We’re here 24/7 to guide you toward stres
             <div className={styles.cardsGrid}>
               {/* Location Card */}
               <motion.div className={styles.card} variants={itemVariants}>
-                <a href="https://www.google.com/maps/search/?api=1&query=55+Main+Street+2nd+Block+New+York" target="_blank" rel="noopener noreferrer" className={styles.cardLink}>
+                <a href="https://www.google.com/maps/search/?api=1&query=45+Broad+St+10005+Los+Angeles+CA+United+States" target="_blank" rel="noopener noreferrer" className={styles.cardLink}>
                   <div className={`${styles.iconBox} ${styles.locationIcon}`}>
                     <LocationOnIcon />
                   </div>
                   <h3>Locations</h3>
-                  <p>55 Main Street, 2nd Block, New York</p>
+                  <p>45 Broad St., 10005, Los Angeles, CA, United States, California</p>
                 </a>
               </motion.div>
 
@@ -74,12 +74,12 @@ Contact our support team anytime — We’re here 24/7 to guide you toward stres
 
               {/* Hotline Card */}
               <motion.div className={styles.card} variants={itemVariants}>
-                <a href="tel:+12123476533" className={styles.cardLink}>
+                <a href="tel:+14086640987" className={styles.cardLink}>
                   <div className={`${styles.iconBox} ${styles.phoneIcon}`}>
                     <PhoneInTalkIcon />
                   </div>
                   <h3>Hotlines</h3>
-                  <p>+12123476533</p>
+                  <p>+1 408-664-0987</p>
                 </a>
               </motion.div>
             </div>

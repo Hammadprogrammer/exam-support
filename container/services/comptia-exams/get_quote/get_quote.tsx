@@ -9,7 +9,7 @@ const GetQuoteHome = () => {
       description="Exam Support Online is known for providing a simple procedure to request a quote. So, just share your information with us."
       contactHeading="Share Your Course Details"
       contactDescription="Our expert team is here to answer you even at late hours. Send us your syllabus requirements, and we'll handle everything."
-      phone="+12123476533"
+      phone="+1 408-664-0987"
       email="info@examsupportonline.com"
       liveChatText='Live Chat: Type "Yes" to Start'
       formHeading="Early Bird Discount"

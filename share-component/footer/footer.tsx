@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Facebook, YouTube, Pinterest, Instagram } from '@mui/icons-material';
+import { Facebook, Instagram } from '@mui/icons-material';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -137,10 +137,8 @@ const Footer = () => {
           <div className="lg:w-1/4">
             <h4 className="text-white font-bold mb-5 text-xl tracking-wide">Follow Us</h4>
             <div className="flex gap-4">
-              <Link href="https://www.facebook.com/p/All-Exam-Help-61565603774858/?_rdc=2&_rdr#" className="text-white hover:text-[#f9a825] transition-colors"><Facebook fontSize="medium" /></Link>
-              <Link href="https://www.youtube.com/channel/UCl374uHuik09T7e5Uw_N64Q" className="text-white hover:text-[#f9a825] transition-colors"><YouTube fontSize="medium" /></Link>
-              <Link href="https://www.pinterest.com/allexamhelp0/" className="text-white hover:text-[#f9a825] transition-colors"><Pinterest fontSize="medium" /></Link>
-              <Link href="https://www.instagram.com/all_exam_help/" className="text-white hover:text-[#f9a825] transition-colors"><Instagram fontSize="medium" /></Link>
+              <Link href="https://www.facebook.com/profile.php?id=61596436392009" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-white hover:text-[#f9a825] transition-colors"><Facebook fontSize="medium" /></Link>
+              <Link href="https://www.instagram.com/exam_support_online" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-white hover:text-[#f9a825] transition-colors"><Instagram fontSize="medium" /></Link>
             </div>
           </div>
         </div>
