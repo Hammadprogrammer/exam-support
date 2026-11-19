@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
@@ -17,6 +17,26 @@ const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const pathname = usePathname();
+  const wrapperRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleOpen = (e: Event) => {
+      const name = (e as CustomEvent<string>).detail;
+      if (window.innerWidth < 1024) setMobileOpen(true);
+      setOpenDropdown(name);
+    };
+    const handleOutside = (e: MouseEvent) => {
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target as Node)) {
+        setOpenDropdown(null);
+      }
+    };
+    window.addEventListener('open-nav-dropdown', handleOpen);
+    document.addEventListener('mousedown', handleOutside);
+    return () => {
+      window.removeEventListener('open-nav-dropdown', handleOpen);
+      document.removeEventListener('mousedown', handleOutside);
+    };
+  }, []);
 
   // Footer Services with added Icons to match the "old design" look
   const services = [
@@ -85,7 +105,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className={styles.navbarWrapper}>
+    <div className={styles.navbarWrapper} ref={wrapperRef}>
       <nav className="w-full bg-white border-b border-[#e6ebf5] shadow-sm fixed top-0 left-0 z-50">
         <div className="max-w-7xl mx-auto px-4 lg:px-8">
           <div className="flex justify-between items-center h-[90px]">

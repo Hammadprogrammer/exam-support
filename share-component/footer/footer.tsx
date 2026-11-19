@@ -8,11 +8,15 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const subjects = [
+    { name: "Take My Accounting Exam For Me", url: "/take-my-accounting-exam-for-me/" },
+    { name: "Take My Algebra Exam For Me", url: "/take-my-algebra-exam-for-me/" },
     { name: "Take My Biology Exam For Me", url: "/take-my-biology-exam-for-me/" },
     { name: "Take My Business Law Exam For Me", url: "/take-my-business-law-exam-for-me/" },
+    { name: "Take My Calculus Exam For Me", url: "/take-my-calculus-exam-for-me/" },
     { name: "Take My Chemistry Exam For Me", url: "/take-my-chemistry-exam-for-me/" },
     { name: "Take My Computer Science Exam For Me", url: "/take-my-computer-science-exam-for-me/" },
     { name: "Take My Economics Exam For Me", url: "/take-my-economics-exam-for-me/" },
+    { name: "Take My English Exam For Me", url: "/take-my-english-exam-for-me/" },
     { name: "Take My Finance Exam For Me", url: "/take-my-finance-exam-for-me/" },
     { name: "Take My History Exam For Me", url: "/take-my-history-exam-for-me/" },
     { name: "Take My Law Exam For Me", url: "/take-my-law-exam-for-me/" },
@@ -30,18 +34,30 @@ const Footer = () => {
     { name: "Take My GMAT Exam", url: "/take-my-gmat-exam/" },
     { name: "Take My GRE Exam", url: "/take-my-gre-exam/" },
     { name: "Take My HESI Exam", url: "/take-my-hesi-exam/" },
+    { name: "Take My HiSET Exam", url: "/take-my-hiset-exam/" },
+    { name: "Take My LSAT Exam", url: "/take-my-lsat-exam/" },
     { name: "Take My PMP Exam", url: "/take-my-pmp-exam/" },
     { name: "Take My TEAS Exam", url: "/take-my-teas-exam/" },
-    { name: "Assignment Help", url: "/assignment-help/" },
+    { name: "Take My WGU Exam", url: "/take-my-wgu-exam/" },
     { name: "Take My Real Estate Exam", url: "/take-my-real-estate-exam/" },
     { name: "Take My Insurance Exam", url: "/take-my-insurance-exam/" },
-    { name: "Take My CompTIA Exam", url: "/take-my-comptia-exam/" }
+    { name: "Take My CompTIA Exam", url: "/take-my-comptia-exam/" },
+    { name: "Take My AWS Exam", url: "/take-my-aws-exam/" },
+    { name: "Take My Microsoft Azure Exam", url: "/take-my-microsoft-azure-exam/" },
+    { name: "Take My Lean Six Sigma Exam", url: "/take-my-lean-six-sigma-exam/" },
+    { name: "Assignment Help", url: "/assignment-help/" },
+    { name: "Essay Help", url: "/essay-help/" },
+    { name: "Homework Help", url: "/homework-help/" }
   ];
 
   const resources = [
     { name: "About", url: "/about/" },
     { name: "Contact Us", url: "/contact/" }
   ];
+
+  const openNavDropdown = (name: 'sub' | 'ser') => {
+    window.dispatchEvent(new CustomEvent('open-nav-dropdown', { detail: name }));
+  };
 
   const terms = [
     { name: "Privacy Policy", url: "/privacy-policy/" },
@@ -66,26 +82,36 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <h4 className="text-[17px] font-bold mb-6">Subjects</h4>
             <ul className="space-y-4">
-              {subjects.map((item) => (
+              {subjects.slice(0, 5).map((item) => (
                 <li key={item.name}>
                   <Link href={item.url} className="text-[#a0abc0] hover:text-white transition-colors text-[14px]">
                     {item.name}
                   </Link>
                 </li>
               ))}
+              <li>
+                <button type="button" onClick={() => openNavDropdown('sub')} className="text-[#f9a825] hover:text-white transition-colors text-[14px] font-semibold cursor-pointer">
+                  See More
+                </button>
+              </li>
             </ul>
           </div>
 
           <div className="lg:col-span-1">
             <h4 className="text-[17px] font-bold mb-6">Services</h4>
             <ul className="space-y-4">
-              {services.map((item) => (
+              {services.slice(0, 5).map((item) => (
                 <li key={item.name}>
                   <Link href={item.url} className="text-[#a0abc0] hover:text-white transition-colors text-[14px]">
                     {item.name}
                   </Link>
                 </li>
               ))}
+              <li>
+                <button type="button" onClick={() => openNavDropdown('ser')} className="text-[#f9a825] hover:text-white transition-colors text-[14px] font-semibold cursor-pointer">
+                  See More
+                </button>
+              </li>
             </ul>
           </div>
 
