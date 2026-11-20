@@ -163,7 +163,7 @@ const Footer = () => {
           <div className="lg:w-1/4">
             <h4 className="text-white font-bold mb-5 text-xl tracking-wide">Follow Us</h4>
             <div className="flex gap-4">
-              <Link href="https://www.facebook.com/profile.php?id=61596436392009" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-white hover:text-[#f9a825] transition-colors"><Facebook fontSize="medium" /></Link>
+              <Link href="https://www.facebook.com/ExamSupportOnline" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-white hover:text-[#f9a825] transition-colors"><Facebook fontSize="medium" /></Link>
               <Link href="https://www.instagram.com/exam_support_online" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-white hover:text-[#f9a825] transition-colors"><Instagram fontSize="medium" /></Link>
             </div>
           </div>
