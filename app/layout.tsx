@@ -20,7 +20,10 @@ export const metadata: Metadata = {
   description: "Get expert assistance for your classes and assignments with Exam Support Online.",
   // Client ka Google Search Console verification code
   verification: {
-    google: "NjsN1R8i6zRwFRZ1nji4enhGyduvbPwOAWKLT7UZ6xk",
+    google: [
+      "NjsN1R8i6zRwFRZ1nji4enhGyduvbPwOAWKLT7UZ6xk",
+      "1UXgSHmvgdYp_baSpiNSYMz2gsXI5ytaQ2RkH5Idzh0",
+    ],
   },
   alternates: {
     canonical: "/",
