@@ -66,9 +66,9 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="bg-[#0e1c36] text-white py-16">
-      <div className="container mx-auto px-6 lg:px-8 max-w-7xl">
-        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-x-4 gap-y-10 lg:gap-8 mb-16">
+    <footer className="bg-[#0e1c36] text-white py-12 lg:py-16">
+      <div className="container mx-auto px-5 lg:px-8 max-w-7xl">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-x-4 gap-y-10 lg:gap-8 mb-10 lg:mb-16">
           
           <div className="col-span-2 md:col-span-4 lg:col-span-2">
             <Link href="/" prefetch={false}>
@@ -149,10 +149,10 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-[#313a4e] pt-10 mt-10 flex flex-col lg:flex-row justify-between gap-10">
+        <div className="border-t border-[#313a4e] pt-8 mt-8 lg:pt-10 lg:mt-10 flex flex-col lg:flex-row justify-between gap-8 lg:gap-10">
           <div className="lg:w-3/5">
             <h4 className="text-[#8494b3] font-bold mb-4 tracking-wide text-sm">Disclaimer</h4>
-            <p className="text-[#8494b3] text-[13px] leading-relaxed mb-10">
+            <p className="text-[#8494b3] text-[13px] leading-relaxed mb-6 lg:mb-10">
               Exam Support Online supports the learning process that online education should offer. We are not here to share or support cheating of any kind. Services are to be used for study help and tutoring purposes only. Our users are the ones who are meant to obey the policy of their institution and use our resources in an ethical (and legal) manner.
             </p>
             <p className="text-[#8494b3] text-[13px]">

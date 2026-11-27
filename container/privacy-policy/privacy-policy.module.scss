@@ -84,10 +84,20 @@
 
 @media (max-width: 768px) {
   .privacySection {
-    padding: 60px 0;
+    padding: 30px 0;
 
     .mainTitle {
-      font-size: 2rem;
+      font-size: 1.75rem;
+      margin-bottom: 20px;
+    }
+
+    .introText,
+    .section p {
+      font-size: 1rem;
+    }
+
+    .policyContent {
+      gap: 28px;
     }
 
     .section h2 {

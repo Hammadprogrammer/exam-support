@@ -1,6 +1,10 @@
 .quoteSection {
   padding: 60px 0; // Padding thodi badha di hai optimized look ke liye
   background-color: #ffffff;
+
+  @media (max-width: 768px) {
+    padding: 40px 0;
+  }
 }
 
 .headerArea {
@@ -105,6 +109,12 @@
     font-size: 16px;
     color: #1f2a44;
     line-height: 1.4;
+    min-width: 0;
+    overflow-wrap: anywhere;
+
+    @media (max-width: 480px) {
+      font-size: 15px;
+    }
 
     strong {
       font-weight: 700;
