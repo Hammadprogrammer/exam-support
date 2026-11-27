@@ -1,9 +1,9 @@
 RewriteEngine On
 
-# 1. Force HTTPS and Remove WWW (Sahi Hai)
+# 1. Force HTTPS and Add WWW (Sahi Hai)
 RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} ^www\.examsupportonline\.com [NC]
-RewriteRule ^(.*)$ https://examsupportonline.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^examsupportonline\.com$ [NC]
+RewriteRule ^(.*)$ https://www.examsupportonline.com/$1 [L,R=301]
 
 # 2. Redirect index.php to Home Page
 # WordPress ki purani entry ko khatam karne ke liye
